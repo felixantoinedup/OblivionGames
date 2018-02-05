@@ -2386,6 +2386,7 @@ Scale3D: 1.000000 1.000000 1.000000
 [2018.02.05-04.01.00:934][338]LogSavePackage: Moving 'E:/GitKraken_Root/OblivionGames/Saved/MAP_BLOCKING_0246D81C014B76F33B22FDB1BDE2745CEC.tmp' to 'E:/GitKraken_Root/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_02.umap'
 [2018.02.05-04.01.00:939][338]LogSavePackage:Display: Finished SavePackage E:/GitKraken_Root/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_02.umap
 [2018.02.05-04.01.00:969][338]LogFileHelpers: Saving map 'MAP_BLOCKING_02' took 1.724
+<<<<<<< HEAD
 [2018.02.05-04.07.00:221][594]Cmd: QUIT_EDITOR
 [2018.02.05-04.07.00:471][594]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
 [2018.02.05-04.07.00:472][594]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
@@ -2675,3 +2676,5 @@ Scale3D: 1.000000 1.000000 1.000000
 [2018.02.05-04.07.03:861][594]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.02.05-04.07.03:883][594]LogExit: Exiting.
 [2018.02.05-04.07.03:909][594]Log file closed, 02/04/18 23:07:03
+=======
+>>>>>>> master
