@@ -2387,6 +2387,7 @@ Scale3D: 1.000000 1.000000 1.000000
 [2018.02.05-04.01.00:939][338]LogSavePackage:Display: Finished SavePackage E:/GitKraken_Root/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_02.umap
 [2018.02.05-04.01.00:969][338]LogFileHelpers: Saving map 'MAP_BLOCKING_02' took 1.724
 <<<<<<< HEAD
+<<<<<<< HEAD
 [2018.02.05-04.07.00:221][594]Cmd: QUIT_EDITOR
 [2018.02.05-04.07.00:471][594]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
 [2018.02.05-04.07.00:472][594]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
@@ -2678,3 +2679,5 @@ Scale3D: 1.000000 1.000000 1.000000
 [2018.02.05-04.07.03:909][594]Log file closed, 02/04/18 23:07:03
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 2d7be1e... Test GitKraken + Slack
