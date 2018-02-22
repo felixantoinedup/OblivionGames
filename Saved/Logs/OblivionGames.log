@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 ﻿Log file open, 02/22/18 12:21:33
 LogInit:Display: Running engine for game: OblivionGames
 LogPlatformFile: Not using cached read wrapper
 LogInit:Display: RandInit(-2132365679) SRandInit(-2132365679).
 LogTaskGraph: Started task graph with 5 named threads and 10 total threads with 1 sets of task threads.
 LogStats: Stats thread started at 0.833041
+=======
+﻿Log file open, 02/22/18 13:31:47
+LogInit:Display: Running engine for game: OblivionGames
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1362648601) SRandInit(1362648601).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.203149
+>>>>>>> master
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -50,6 +59,7 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.16/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2018.02.22-17.21.34:766][  0]LogInit: Selected Device Profile: [Windows]
 [2018.02.22-17.21.34:766][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.02.22-17.21.34:836][  0]LogInit: Computer: 326-E2
@@ -3249,3 +3259,1120 @@ Please see Output Log for details.
 [2018.02.22-19.34.41:687][317]LogSavePackage: Moving 'H:/GitRoot_Felix/OblivionGames/Saved/MAP_BLOCKING_04D268D3BD4A830C083F3A1E9C6C71E956.tmp' to 'H:/GitRoot_Felix/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_04.umap'
 [2018.02.22-19.34.41:701][317]LogSavePackage:Display: Finished SavePackage H:/GitRoot_Felix/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_04.umap
 [2018.02.22-19.34.41:757][317]LogFileHelpers: Saving map 'MAP_BLOCKING_04' took 21.864
+=======
+[2018.02.22-18.31.49:767][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.22-18.31.49:767][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.22-18.31.49:817][  0]LogInit: Computer: LAPTOP-9TU6C7N8
+[2018.02.22-18.31.49:817][  0]LogInit: User: reseo
+[2018.02.22-18.31.49:817][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.22-18.31.49:817][  0]LogInit: High frequency timer resolution =2.648436 MHz
+[2018.02.22-18.31.49:817][  0]LogMemory: Memory total: Physical=11.8GB (12GB approx)
+[2018.02.22-18.31.49:817][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.22-18.31.49:817][  0]LogMemory: Process Physical Memory: 274.41 MB used, 274.41 MB peak
+[2018.02.22-18.31.49:817][  0]LogMemory: Process Virtual Memory: 267.61 MB used, 267.61 MB peak
+[2018.02.22-18.31.49:817][  0]LogMemory: Physical Memory: 7788.38 MB used,  4334.25 MB free, 12122.63 MB total
+[2018.02.22-18.31.49:817][  0]LogMemory: Virtual Memory: 679.21 MB used,  4334.25 MB free, 134217728.00 MB total
+[2018.02.22-18.31.50:060][  0]LogInit: Using OS detected language (fr-CA).
+[2018.02.22-18.31.50:060][  0]LogInit: Using OS detected locale (fr-CA).
+[2018.02.22-18.31.50:075][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the language.
+[2018.02.22-18.31.50:076][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the locale.
+[2018.02.22-18.31.52:774][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.22-18.31.52:833][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2018.02.22-18.31.52:833][  0]LogD3D11RHI:       2019/0/6061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.22-18.31.52:843][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.02.22-18.31.52:843][  0]LogD3D11RHI:       128/0/6061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.22-18.31.52:847][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.22-18.31.52:847][  0]LogD3D11RHI:       0/0/6061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.22-18.31.52:847][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.22-18.31.52:863][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.22-18.31.52:863][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2018.02.22-18.31.52:863][  0]LogWindows: EnumDisplayDevices:
+[2018.02.22-18.31.52:863][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.02.22-18.31.52:864][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.02.22-18.31.52:864][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.02.22-18.31.52:864][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.22-18.31.52:864][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2018.02.22-18.31.52:864][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.22-18.31.52:864][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.22-18.31.52:864][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.22-18.31.52:906][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.22-18.31.52:925][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.22-18.31.52:926][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/reseo/Desktop/Games/OblivionGames/Intermediate/Shaders/WorkingDirectory/12008/).
+[2018.02.22-18.31.52:926][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/reseo/AppData/Local/Temp/UnrealShaderWorkingDir/1A2F4F524EBD8097C29228BB46251AEB/'.
+[2018.02.22-18.31.52:927][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2018.02.22-18.31.55:549][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.22-18.31.55:664][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2018.02.22-18.31.55:762][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.22-18.31.55:861][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2018.02.22-18.31.55:969][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2018.02.22-18.31.56:086][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.22-18.31.56:188][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.22-18.31.56:292][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.22-18.31.56:385][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2018.02.22-18.31.56:482][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2018.02.22-18.31.56:578][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.22-18.31.56:679][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.22-18.31.56:785][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.22-18.31.56:891][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.22-18.31.56:991][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.22-18.31.57:202][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.22-18.31.57:202][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.22-18.31.57:275][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2018.02.22-18.31.57:448][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2018.02.22-18.31.57:530][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2018.02.22-18.31.57:623][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.22-18.31.57:722][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.22-18.31.57:818][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.22-18.31.57:911][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2018.02.22-18.31.57:912][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2018.02.22-18.31.59:010][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2018.02.22-18.31.59:135][  0]LogDerivedDataCache: Loaded boot cache 0.13s 90MB C:/Users/reseo/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2018.02.22-18.31.59:135][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/reseo/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc
+[2018.02.22-18.31.59:135][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/reseo/Desktop/Games/OblivionGames/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.22-18.31.59:135][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.22-18.31.59:135][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/reseo/Desktop/Games/OblivionGames/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.22-18.31.59:135][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.22-18.31.59:157][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.22-18.31.59:170][  0]LogDerivedDataCache: Using Local data cache path C:/Users/reseo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.22-18.31.59:192][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.22-18.31.59:193][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.22-18.31.59:195][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.22-18.31.59:195][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.22-18.31.59:811][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.22-18.31.59:934][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.22-18.32.00:266][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.22-18.32.00:378][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.22-18.32.00:469][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.22-18.32.00:469][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2018.02.22-18.32.00:469][  0]LogMeshUtilities: No automatic mesh merging module available
+[2018.02.22-18.32.01:667][  0]LogNetVersion: OblivionGames , NetCL: 3452394, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1932256307)
+[2018.02.22-18.32.01:802][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.02.22-18.32.01:942][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 1 prioritized culture(s) in 0.075365 seconds
+[2018.02.22-18.32.01:950][  0]LogUObjectArray: 34194 objects as part of root set at end of initial load.
+[2018.02.22-18.32.01:950][  0]LogUObjectAllocator: 7260424 out of 0 bytes used by permanent object pool.
+[2018.02.22-18.32.01:950][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.22-18.32.02:105][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.22-18.32.06:819][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.22-18.32.06:891][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.22-18.32.07:906][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.22-18.32.08:777][  0]SourceControl: Info Source control is disabled
+[2018.02.22-18.32.08:780][  0]SourceControl: Info Source control is disabled
+[2018.02.22-18.32.08:878][  0]SourceControl: Info Source control is disabled
+[2018.02.22-18.32.08:983][  0]SourceControl: Info Source control is disabled
+[2018.02.22-18.32.10:430][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.22-18.32.11:642][  0]LogEngine: Initializing Engine...
+[2018.02.22-18.32.11:643][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.22-18.32.12:051][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.22-18.32.12:051][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.22-18.32.12:326][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.22-18.32.12:339][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-18.32.12:376][  0]LogInit: FAudioDevice initialized.
+[2018.02.22-18.32.12:433][  0]LogDerivedDataCache: Saved boot cache 0.06s 90MB C:/Users/reseo/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2018.02.22-18.32.13:783][  0]LogInit: Texture streaming: Enabled
+[2018.02.22-18.32.13:998][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.22-18.32.14:518][  0]LogInit: Transaction tracking system initialized
+[2018.02.22-18.32.15:252][  0]BlueprintLog: New page: Editor Load
+[2018.02.22-18.32.17:629][  0]LocalizationService: Info Localization service is disabled
+[2018.02.22-18.32.19:362][  0]LogConsoleResponse:Display: 
+[2018.02.22-18.32.19:714][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.22-18.32.19:715][  0]LogCook:Display: Mobile HDR setting 1
+[2018.02.22-18.32.20:050][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reseo/Desktop/Games/OblivionGames/Content/' took 0.02s
+[2018.02.22-18.32.22:247][  0]SourceControl: Info Source control is disabled
+[2018.02.22-18.32.22:247][  0]Cmd: MAP LOAD FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Maps/MAP_ARENA.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.22-18.32.22:250][  0]LightingResults: New page: Lighting Build
+[2018.02.22-18.32.22:346][  0]MapCheck: New page: Map Check
+[2018.02.22-18.32.22:346][  0]LightingResults: New page: Lighting Build
+[2018.02.22-18.32.24:517][  0]LogAIModule: Creating AISystem for world MAP_ARENA
+[2018.02.22-18.32.24:551][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.22-18.32.24:593][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.22-18.32.24:729][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 137.065ms to complete.
+[2018.02.22-18.32.24:729][  0]LogFileHelpers: Loading map 'MAP_ARENA' took 2.483
+[2018.02.22-18.32.25:228][  0]LogCollectionManager: Loaded 0 collections in 0.003752 seconds
+[2018.02.22-18.32.25:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reseo/Desktop/Games/OblivionGames/Saved/Collections/' took 0.01s
+[2018.02.22-18.32.25:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reseo/Desktop/Games/OblivionGames/Content/Developers/reseo/Collections/' took 0.01s
+[2018.02.22-18.32.25:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reseo/Desktop/Games/OblivionGames/Content/Collections/' took 0.01s
+[2018.02.22-18.32.25:376][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000014 seconds
+[2018.02.22-18.32.25:400][  0]LogContentBrowser: Native class hierarchy populated in 0.0232 seconds. Added 2330 classes and 494 folders.
+[2018.02.22-18.32.25:564][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0030 seconds. Added 0 classes and 0 folders.
+[2018.02.22-18.32.26:476][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.02.22-18.32.26:573][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.02.22-18.32.26:656][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2018.02.22-18.32.26:663][  0]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.22-18.32.26:666][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.22-18.32.26:699][  0]LogSlate: Took 0.027580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.22-18.32.26:935][  0]LogRenderer: Reallocating scene render targets to support 784x456 NumSamples 1 (Frame:1).
+[2018.02.22-18.32.27:143][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2018.02.22-18.32.27:269][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.02.22-18.32.27:269][  0]LogLoad: (Engine Initialization) Total time: 45.61 seconds
+[2018.02.22-18.32.27:269][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.51 seconds
+[2018.02.22-18.32.27:269][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.22-18.32.27:289][  0]LogOcInput: OculusInput pre-init called
+[2018.02.22-18.32.27:289][  0]LogHMD: Starting GearVRController plugin
+[2018.02.22-18.32.27:335][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.22-18.32.27:408][  0]LogSlate: Took 0.010900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-18.32.27:426][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/reseo/Desktop/Games/OblivionGames/Content/' took 0.12s
+[2018.02.22-18.32.27:447][  1]LogAssetRegistry: Asset discovery search completed in 25.6662 seconds
+[2018.02.22-18.32.27:450][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.22-18.32.27:450][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.02.22-18.32.43:035][591]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-18.32.43:244][591]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.02.22-18.32.43:466][591]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.02.22-18.32.43:569][591]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.02.22-18.33.04:146][331]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.22-18.33.04:257][331]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0021 seconds. Added 1 classes and 0 folders.
+[2018.02.22-18.33.04:322][332]LogRenderer: Reallocating scene render targets to support 952x708 NumSamples 1 (Frame:1).
+[2018.02.22-18.33.11:964][704]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.02.22-18.33.12:006][704]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.02.22-18.37.03:941][244]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/reseo/Desktop/A_Walk.FBX)
+[2018.02.22-18.37.04:027][244]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.22-18.37.04:027][244]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.22-18.37.04:027][244]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.22-18.37.04:027][244]LogFbx: ItemName: Model, ItemCount : 70
+[2018.02.22-18.37.04:027][244]LogFbx: ItemName: NodeAttribute, ItemCount : 70
+[2018.02.22-18.37.04:027][244]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2018.02.22-18.37.04:027][244]LogFbx: ItemName: AnimationCurve, ItemCount : 513
+[2018.02.22-18.37.04:027][244]LogFbx: ItemName: AnimationCurveNode, ItemCount : 171
+[2018.02.22-18.37.04:034][244]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/A_Walk.FBX
+[2018.02.22-18.37.04:169][244]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.37.05:771][244]LogSlate: Took 0.000452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-18.37.09:965][244]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/A_Walk.FBX
+[2018.02.22-18.37.10:078][244]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(0) Bip002
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(1) Bip002 Pelvis
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(2) Bip002 Spine
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(3) Bip002 Spine1
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(4) Bip002 Spine2
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(5) Bip002 Neck
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(6) Bip002 L Clavicle
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(7) Bip002 L UpperArm
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(8) Bip002 L Forearm
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(9) Bip002 L Hand
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(10) Bip002 L Finger0
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(11) Bip002 L Finger01
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(12) Bip002 L Finger02
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(13) Bip002 L Finger0Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(14) Bip002 L Finger1
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(15) Bip002 L Finger11
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(16) Bip002 L Finger12
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(17) Bip002 L Finger1Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(18) Bip002 L Finger2
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(19) Bip002 L Finger21
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(20) Bip002 L Finger22
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(21) Bip002 L Finger2Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(22) Bip002 L Finger3
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(23) Bip002 L Finger31
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(24) Bip002 L Finger32
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(25) Bip002 L Finger3Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(26) Bip002 L Finger4
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(27) Bip002 L Finger41
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(28) Bip002 L Finger42
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(29) Bip002 L Finger4Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(30) Bip002 R Clavicle
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(31) Bip002 R UpperArm
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(32) Bip002 R Forearm
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(33) Bip002 R Hand
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(34) Bip002 R Finger0
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(35) Bip002 R Finger01
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(36) Bip002 R Finger02
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(37) Bip002 R Finger0Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(38) Bip002 R Finger1
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(39) Bip002 R Finger11
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(40) Bip002 R Finger12
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(41) Bip002 R Finger1Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(42) Bip002 R Finger2
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(43) Bip002 R Finger21
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(44) Bip002 R Finger22
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(45) Bip002 R Finger2Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(46) Bip002 R Finger3
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(47) Bip002 R Finger31
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(48) Bip002 R Finger32
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(49) Bip002 R Finger3Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(50) Bip002 R Finger4
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(51) Bip002 R Finger41
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(52) Bip002 R Finger42
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(53) Bip002 R Finger4Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(54) Bip002 Head
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(55) Bip002 HeadNub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(56) Bip002 L Thigh
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(57) Bip002 L Calf
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(58) Bip002 L Foot
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(59) Bip002 L Toe0
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(60) Bip002 L Toe01
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(61) Bip002 L Toe02
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(62) Bip002 L Toe0Nub
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(63) Bip002 R Thigh
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(64) Bip002 R Calf
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(65) Bip002 R Foot
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(66) Bip002 R Toe0
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(67) Bip002 R Toe01
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(68) Bip002 R Toe02
+[2018.02.22-18.37.10:088][244]LogFbx: SortedLinks :(69) Bip002 R Toe0Nub
+[2018.02.22-18.37.10:089][244]LogFbx: Parsing AnimStack Take 001
+[2018.02.22-18.37.10:094][244]LogLinker: Can't find file '/Game/Assets/Animation/A_Walk'
+[2018.02.22-18.37.10:094][244]LogLinker: Can't find file '/Game/Assets/Animation/A_Walk'
+[2018.02.22-18.37.10:381][244]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.22-18.37.10:433][244]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animation/A_Walk.A_Walk
+[2018.02.22-18.37.10:448][244]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Character_Skeleton.  Any animation on these bones will not be imported: 
+
+ Bip002-L-Finger0Nub  
+Bip002-L-Finger1Nub  
+Bip002-L-Finger2Nub  
+Bip002-L-Finger3Nub  
+Bip002-L-Finger4Nub  
+Bip002-R-Finger0Nub  
+Bip002-R-Finger1Nub  
+Bip002-R-Finger2Nub  
+Bip002-R-Finger3Nub  
+Bip002-R-Finger4Nub  
+Bip002-HeadNub  
+Bip002-L-Toe0Nub  
+Bip002-R-Toe0Nub  
+ 
+[2018.02.22-18.37.13:919][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.02.22-18.37.13:975][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.02.22-18.37.14:440][384]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.22-18.37.33:278][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Animation/A_Walk" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_Walk.uasset" SILENT=true
+[2018.02.22-18.37.33:318][470]LogSavePackage: Save=33.31ms
+[2018.02.22-18.37.33:318][470]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_WalkDEC62FDD4CDEEF0C39AB23BF2F4B5DB7.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_Walk.uasset'
+[2018.02.22-18.37.33:325][470]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_Walk.uasset
+[2018.02.22-18.37.57:006][318]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/reseo/Desktop/SK_Idle.FBX)
+[2018.02.22-18.37.57:026][318]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.22-18.37.57:026][318]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.22-18.37.57:026][318]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.22-18.37.57:026][318]LogFbx: ItemName: Model, ItemCount : 70
+[2018.02.22-18.37.57:026][318]LogFbx: ItemName: NodeAttribute, ItemCount : 70
+[2018.02.22-18.37.57:026][318]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2018.02.22-18.37.57:026][318]LogFbx: ItemName: AnimationCurve, ItemCount : 630
+[2018.02.22-18.37.57:026][318]LogFbx: ItemName: AnimationCurveNode, ItemCount : 210
+[2018.02.22-18.37.57:032][318]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/SK_Idle.FBX
+[2018.02.22-18.37.57:088][318]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.38.02:878][318]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/SK_Idle.FBX
+[2018.02.22-18.38.02:931][318]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(0) Bip002
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(1) Bip002 Pelvis
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(2) Bip002 Spine
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(3) Bip002 Spine1
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(4) Bip002 Spine2
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(5) Bip002 Neck
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(6) Bip002 L Clavicle
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(7) Bip002 L UpperArm
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(8) Bip002 L Forearm
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(9) Bip002 L Hand
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(10) Bip002 L Finger0
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(11) Bip002 L Finger01
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(12) Bip002 L Finger02
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(13) Bip002 L Finger0Nub
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(14) Bip002 L Finger1
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(15) Bip002 L Finger11
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(16) Bip002 L Finger12
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(17) Bip002 L Finger1Nub
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(18) Bip002 L Finger2
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(19) Bip002 L Finger21
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(20) Bip002 L Finger22
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(21) Bip002 L Finger2Nub
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(22) Bip002 L Finger3
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(23) Bip002 L Finger31
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(24) Bip002 L Finger32
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(25) Bip002 L Finger3Nub
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(26) Bip002 L Finger4
+[2018.02.22-18.38.02:938][318]LogFbx: SortedLinks :(27) Bip002 L Finger41
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(28) Bip002 L Finger42
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(29) Bip002 L Finger4Nub
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(30) Bip002 R Clavicle
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(31) Bip002 R UpperArm
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(32) Bip002 R Forearm
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(33) Bip002 R Hand
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(34) Bip002 R Finger0
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(35) Bip002 R Finger01
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(36) Bip002 R Finger02
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(37) Bip002 R Finger0Nub
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(38) Bip002 R Finger1
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(39) Bip002 R Finger11
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(40) Bip002 R Finger12
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(41) Bip002 R Finger1Nub
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(42) Bip002 R Finger2
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(43) Bip002 R Finger21
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(44) Bip002 R Finger22
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(45) Bip002 R Finger2Nub
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(46) Bip002 R Finger3
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(47) Bip002 R Finger31
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(48) Bip002 R Finger32
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(49) Bip002 R Finger3Nub
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(50) Bip002 R Finger4
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(51) Bip002 R Finger41
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(52) Bip002 R Finger42
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(53) Bip002 R Finger4Nub
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(54) Bip002 Head
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(55) Bip002 HeadNub
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(56) Bip002 L Thigh
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(57) Bip002 L Calf
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(58) Bip002 L Foot
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(59) Bip002 L Toe0
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(60) Bip002 L Toe01
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(61) Bip002 L Toe02
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(62) Bip002 L Toe0Nub
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(63) Bip002 R Thigh
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(64) Bip002 R Calf
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(65) Bip002 R Foot
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(66) Bip002 R Toe0
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(67) Bip002 R Toe01
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(68) Bip002 R Toe02
+[2018.02.22-18.38.02:939][318]LogFbx: SortedLinks :(69) Bip002 R Toe0Nub
+[2018.02.22-18.38.02:940][318]LogFbx: Parsing AnimStack Take 001
+[2018.02.22-18.38.02:944][318]LogLinker: Can't find file '/Game/Assets/Animation/SK_Idle'
+[2018.02.22-18.38.02:944][318]LogLinker: Can't find file '/Game/Assets/Animation/SK_Idle'
+[2018.02.22-18.38.03:391][318]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animation/SK_Idle.SK_Idle
+[2018.02.22-18.38.03:413][318]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Character_Skeleton.  Any animation on these bones will not be imported: 
+
+ Bip002-L-Finger0Nub  
+Bip002-L-Finger1Nub  
+Bip002-L-Finger2Nub  
+Bip002-L-Finger3Nub  
+Bip002-L-Finger4Nub  
+Bip002-R-Finger0Nub  
+Bip002-R-Finger1Nub  
+Bip002-R-Finger2Nub  
+Bip002-R-Finger3Nub  
+Bip002-R-Finger4Nub  
+Bip002-HeadNub  
+Bip002-L-Toe0Nub  
+Bip002-R-Toe0Nub  
+ 
+[2018.02.22-18.38.06:661][446]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.02.22-18.38.06:708][446]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.02.22-18.38.07:173][446]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.22-18.38.11:268][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Animation/SK_Idle" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/SK_Idle.uasset" SILENT=true
+[2018.02.22-18.38.11:289][683]LogSavePackage: Save=18.45ms
+[2018.02.22-18.38.11:289][683]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/SK_IdleA5EACD904694AA15C6B5E7AE37DDA1AF.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/SK_Idle.uasset'
+[2018.02.22-18.38.11:297][683]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/SK_Idle.uasset
+[2018.02.22-18.38.47:878][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Animation/A_Idle" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_Idle.uasset" SILENT=true
+[2018.02.22-18.38.47:899][452]LogSavePackage: Save=17.31ms
+[2018.02.22-18.38.47:899][452]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_Idle6A7A0CBF47655926665F60A91F4F1D70.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_Idle.uasset'
+[2018.02.22-18.38.47:905][452]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_Idle.uasset
+[2018.02.22-18.43.07:437][475]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/reseo/Desktop/A_BowShoot.FBX)
+[2018.02.22-18.43.07:552][475]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.22-18.43.07:552][475]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.22-18.43.07:552][475]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.22-18.43.07:552][475]LogFbx: ItemName: Model, ItemCount : 70
+[2018.02.22-18.43.07:552][475]LogFbx: ItemName: NodeAttribute, ItemCount : 70
+[2018.02.22-18.43.07:552][475]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2018.02.22-18.43.07:552][475]LogFbx: ItemName: AnimationCurve, ItemCount : 630
+[2018.02.22-18.43.07:552][475]LogFbx: ItemName: AnimationCurveNode, ItemCount : 210
+[2018.02.22-18.43.07:558][475]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/A_BowShoot.FBX
+[2018.02.22-18.43.07:728][475]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.43.12:022][475]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/A_BowShoot.FBX
+[2018.02.22-18.43.12:187][475]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(0) Bip002
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(1) Bip002 Pelvis
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(2) Bip002 Spine
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(3) Bip002 Spine1
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(4) Bip002 Spine2
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(5) Bip002 Neck
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(6) Bip002 L Clavicle
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(7) Bip002 L UpperArm
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(8) Bip002 L Forearm
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(9) Bip002 L Hand
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(10) Bip002 L Finger0
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(11) Bip002 L Finger01
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(12) Bip002 L Finger02
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(13) Bip002 L Finger0Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(14) Bip002 L Finger1
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(15) Bip002 L Finger11
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(16) Bip002 L Finger12
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(17) Bip002 L Finger1Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(18) Bip002 L Finger2
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(19) Bip002 L Finger21
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(20) Bip002 L Finger22
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(21) Bip002 L Finger2Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(22) Bip002 L Finger3
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(23) Bip002 L Finger31
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(24) Bip002 L Finger32
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(25) Bip002 L Finger3Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(26) Bip002 L Finger4
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(27) Bip002 L Finger41
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(28) Bip002 L Finger42
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(29) Bip002 L Finger4Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(30) Bip002 R Clavicle
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(31) Bip002 R UpperArm
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(32) Bip002 R Forearm
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(33) Bip002 R Hand
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(34) Bip002 R Finger0
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(35) Bip002 R Finger01
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(36) Bip002 R Finger02
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(37) Bip002 R Finger0Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(38) Bip002 R Finger1
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(39) Bip002 R Finger11
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(40) Bip002 R Finger12
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(41) Bip002 R Finger1Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(42) Bip002 R Finger2
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(43) Bip002 R Finger21
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(44) Bip002 R Finger22
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(45) Bip002 R Finger2Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(46) Bip002 R Finger3
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(47) Bip002 R Finger31
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(48) Bip002 R Finger32
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(49) Bip002 R Finger3Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(50) Bip002 R Finger4
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(51) Bip002 R Finger41
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(52) Bip002 R Finger42
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(53) Bip002 R Finger4Nub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(54) Bip002 Head
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(55) Bip002 HeadNub
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(56) Bip002 L Thigh
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(57) Bip002 L Calf
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(58) Bip002 L Foot
+[2018.02.22-18.43.12:194][475]LogFbx: SortedLinks :(59) Bip002 L Toe0
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(60) Bip002 L Toe01
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(61) Bip002 L Toe02
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(62) Bip002 L Toe0Nub
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(63) Bip002 R Thigh
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(64) Bip002 R Calf
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(65) Bip002 R Foot
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(66) Bip002 R Toe0
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(67) Bip002 R Toe01
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(68) Bip002 R Toe02
+[2018.02.22-18.43.12:195][475]LogFbx: SortedLinks :(69) Bip002 R Toe0Nub
+[2018.02.22-18.43.12:197][475]LogFbx: Parsing AnimStack Take 001
+[2018.02.22-18.43.12:224][475]LogLinker: Can't find file '/Game/Assets/Animation/A_BowShoot'
+[2018.02.22-18.43.12:224][475]LogLinker: Can't find file '/Game/Assets/Animation/A_BowShoot'
+[2018.02.22-18.43.12:726][475]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animation/A_BowShoot.A_BowShoot
+[2018.02.22-18.43.12:750][475]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Character_Skeleton.  Any animation on these bones will not be imported: 
+
+ Bip002-L-Finger0Nub  
+Bip002-L-Finger1Nub  
+Bip002-L-Finger2Nub  
+Bip002-L-Finger3Nub  
+Bip002-L-Finger4Nub  
+Bip002-R-Finger0Nub  
+Bip002-R-Finger1Nub  
+Bip002-R-Finger2Nub  
+Bip002-R-Finger3Nub  
+Bip002-R-Finger4Nub  
+Bip002-HeadNub  
+Bip002-L-Toe0Nub  
+Bip002-R-Toe0Nub  
+ 
+[2018.02.22-18.43.15:890][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/MAP_ARENA' took 0.028
+[2018.02.22-18.43.15:892][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Animation/A_BowShoot] ([1] browsable assets)...
+[2018.02.22-18.43.15:927][614]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Animation/A_BowShoot.A_BowShoot]
+[2018.02.22-18.43.15:927][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Animation/A_BowShoot]
+[2018.02.22-18.43.15:989][614]LogSavePackage: Save=56.76ms
+[2018.02.22-18.43.15:989][614]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowShoot_Auto1B23A75FB486F3484F598E4A6D6730D73.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/Autosaves/Game/Assets/Animation/A_BowShoot_Auto1.uasset'
+[2018.02.22-18.43.15:991][614]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/Autosaves/Game/Assets/Animation/A_BowShoot_Auto1.uasset
+[2018.02.22-18.43.15:991][614]LogFileHelpers: Auto-saving content packages took 0.101
+[2018.02.22-18.43.17:245][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.02.22-18.43.17:291][651]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2018.02.22-18.43.17:806][651]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.22-18.43.23:160][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Animation/A_BowShoot" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_BowShoot.uasset" SILENT=true
+[2018.02.22-18.43.23:263][948]LogSavePackage: Save=99.06ms
+[2018.02.22-18.43.23:263][948]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowShoot0203C3F94517272ABAA25298A037D8B1.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_BowShoot.uasset'
+[2018.02.22-18.43.23:318][948]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_BowShoot.uasset
+[2018.02.22-18.43.39:532][616]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/reseo/Desktop/A_BowOut.FBX)
+[2018.02.22-18.43.39:631][616]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.22-18.43.39:631][616]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.22-18.43.39:631][616]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.22-18.43.39:631][616]LogFbx: ItemName: Model, ItemCount : 70
+[2018.02.22-18.43.39:631][616]LogFbx: ItemName: NodeAttribute, ItemCount : 70
+[2018.02.22-18.43.39:631][616]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2018.02.22-18.43.39:631][616]LogFbx: ItemName: AnimationCurve, ItemCount : 630
+[2018.02.22-18.43.39:631][616]LogFbx: ItemName: AnimationCurveNode, ItemCount : 210
+[2018.02.22-18.43.39:643][616]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/A_BowOut.FBX
+[2018.02.22-18.43.39:810][616]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.43.45:685][616]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/A_BowOut.FBX
+[2018.02.22-18.43.45:828][616]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(0) Bip002
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(1) Bip002 Pelvis
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(2) Bip002 Spine
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(3) Bip002 Spine1
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(4) Bip002 Spine2
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(5) Bip002 Neck
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(6) Bip002 L Clavicle
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(7) Bip002 L UpperArm
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(8) Bip002 L Forearm
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(9) Bip002 L Hand
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(10) Bip002 L Finger0
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(11) Bip002 L Finger01
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(12) Bip002 L Finger02
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(13) Bip002 L Finger0Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(14) Bip002 L Finger1
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(15) Bip002 L Finger11
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(16) Bip002 L Finger12
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(17) Bip002 L Finger1Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(18) Bip002 L Finger2
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(19) Bip002 L Finger21
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(20) Bip002 L Finger22
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(21) Bip002 L Finger2Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(22) Bip002 L Finger3
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(23) Bip002 L Finger31
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(24) Bip002 L Finger32
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(25) Bip002 L Finger3Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(26) Bip002 L Finger4
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(27) Bip002 L Finger41
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(28) Bip002 L Finger42
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(29) Bip002 L Finger4Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(30) Bip002 R Clavicle
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(31) Bip002 R UpperArm
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(32) Bip002 R Forearm
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(33) Bip002 R Hand
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(34) Bip002 R Finger0
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(35) Bip002 R Finger01
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(36) Bip002 R Finger02
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(37) Bip002 R Finger0Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(38) Bip002 R Finger1
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(39) Bip002 R Finger11
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(40) Bip002 R Finger12
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(41) Bip002 R Finger1Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(42) Bip002 R Finger2
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(43) Bip002 R Finger21
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(44) Bip002 R Finger22
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(45) Bip002 R Finger2Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(46) Bip002 R Finger3
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(47) Bip002 R Finger31
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(48) Bip002 R Finger32
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(49) Bip002 R Finger3Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(50) Bip002 R Finger4
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(51) Bip002 R Finger41
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(52) Bip002 R Finger42
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(53) Bip002 R Finger4Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(54) Bip002 Head
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(55) Bip002 HeadNub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(56) Bip002 L Thigh
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(57) Bip002 L Calf
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(58) Bip002 L Foot
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(59) Bip002 L Toe0
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(60) Bip002 L Toe01
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(61) Bip002 L Toe02
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(62) Bip002 L Toe0Nub
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(63) Bip002 R Thigh
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(64) Bip002 R Calf
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(65) Bip002 R Foot
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(66) Bip002 R Toe0
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(67) Bip002 R Toe01
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(68) Bip002 R Toe02
+[2018.02.22-18.43.45:835][616]LogFbx: SortedLinks :(69) Bip002 R Toe0Nub
+[2018.02.22-18.43.45:837][616]LogFbx: Parsing AnimStack Take 001
+[2018.02.22-18.43.45:843][616]LogLinker: Can't find file '/Game/Assets/Animation/A_BowOut'
+[2018.02.22-18.43.45:843][616]LogLinker: Can't find file '/Game/Assets/Animation/A_BowOut'
+[2018.02.22-18.43.46:206][616]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animation/A_BowOut.A_BowOut
+[2018.02.22-18.43.46:224][616]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Character_Skeleton.  Any animation on these bones will not be imported: 
+
+ Bip002-L-Finger0Nub  
+Bip002-L-Finger1Nub  
+Bip002-L-Finger2Nub  
+Bip002-L-Finger3Nub  
+Bip002-L-Finger4Nub  
+Bip002-R-Finger0Nub  
+Bip002-R-Finger1Nub  
+Bip002-R-Finger2Nub  
+Bip002-R-Finger3Nub  
+Bip002-R-Finger4Nub  
+Bip002-HeadNub  
+Bip002-L-Toe0Nub  
+Bip002-R-Toe0Nub  
+ 
+[2018.02.22-18.43.49:854][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.02.22-18.43.49:891][743]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2018.02.22-18.43.50:308][743]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.22-18.43.53:309][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Animation/A_BowOut" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_BowOut.uasset" SILENT=true
+[2018.02.22-18.43.53:333][907]LogSavePackage: Save=18.31ms
+[2018.02.22-18.43.53:333][907]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowOutF4C35AB74D443DFCC7D426BCE2CD4EC9.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_BowOut.uasset'
+[2018.02.22-18.43.53:343][907]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Assets/Animation/A_BowOut.uasset
+[2018.02.22-18.44.52:894][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_Idle" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_Idle.uasset" SILENT=true
+[2018.02.22-18.44.53:001][163]LogSavePackage: Save=102.18ms
+[2018.02.22-18.44.53:001][163]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_Idle56C4C8124F3EDA2A2C9346BB815924E1.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_Idle.uasset'
+[2018.02.22-18.44.53:005][163]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_Idle.uasset
+[2018.02.22-18.44.53:042][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_BowOut" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_BowOut.uasset" SILENT=true
+[2018.02.22-18.44.53:063][163]LogSavePackage: Save=17.73ms
+[2018.02.22-18.44.53:063][163]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowOut1FA410BB4F651457DF71E5B0F8336379.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_BowOut.uasset'
+[2018.02.22-18.44.53:072][163]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_BowOut.uasset
+[2018.02.22-18.44.53:107][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_Walk" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_Walk.uasset" SILENT=true
+[2018.02.22-18.44.53:126][163]LogSavePackage: Save=16.12ms
+[2018.02.22-18.44.53:126][163]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_Walk8AC91DB74179B1754A6EED85B45CCAE1.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_Walk.uasset'
+[2018.02.22-18.44.53:196][163]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_Walk.uasset
+[2018.02.22-18.44.53:229][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_BowShoot" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_BowShoot.uasset" SILENT=true
+[2018.02.22-18.44.53:329][163]LogSavePackage: Save=97.68ms
+[2018.02.22-18.44.53:329][163]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowShoot3050B3224C94AF7668C22C9087A0E4AB.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_BowShoot.uasset'
+[2018.02.22-18.44.53:336][163]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animation/A_BowShoot.uasset
+[2018.02.22-18.45.00:620][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/A_Idle" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_Idle.uasset" SILENT=true
+[2018.02.22-18.45.00:682][502]LogSavePackage: Save=59.15ms
+[2018.02.22-18.45.00:682][502]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_IdleEDDB44B94870127DC37403A2309E6F48.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_Idle.uasset'
+[2018.02.22-18.45.00:688][502]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_Idle.uasset
+[2018.02.22-18.45.00:718][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/A_BowOut" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_BowOut.uasset" SILENT=true
+[2018.02.22-18.45.00:752][502]LogSavePackage: Save=32.28ms
+[2018.02.22-18.45.00:753][502]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowOutCB8695754CF5AB3C78561D9FB7B6A030.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_BowOut.uasset'
+[2018.02.22-18.45.00:757][502]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_BowOut.uasset
+[2018.02.22-18.45.00:788][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/A_Walk" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_Walk.uasset" SILENT=true
+[2018.02.22-18.45.00:807][502]LogSavePackage: Save=16.41ms
+[2018.02.22-18.45.00:807][502]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_Walk987E510A43A5882C93D4918A0119B56D.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_Walk.uasset'
+[2018.02.22-18.45.00:815][502]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_Walk.uasset
+[2018.02.22-18.45.00:844][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/A_BowShoot" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_BowShoot.uasset" SILENT=true
+[2018.02.22-18.45.00:863][502]LogSavePackage: Save=17.01ms
+[2018.02.22-18.45.00:863][502]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowShootCF7748374CD627B266C606B4862EE8A1.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_BowShoot.uasset'
+[2018.02.22-18.45.00:868][502]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/A_BowShoot.uasset
+[2018.02.22-18.45.22:117][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/animations/A_Walk" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Walk.uasset" SILENT=true
+[2018.02.22-18.45.22:140][317]LogSavePackage: Save=21.38ms
+[2018.02.22-18.45.22:140][317]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_Walk304235A843B7F13870440180C31CB271.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Walk.uasset'
+[2018.02.22-18.45.22:146][317]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Walk.uasset
+[2018.02.22-18.45.26:768][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/animations/A_BowOut" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_BowOut.uasset" SILENT=true
+[2018.02.22-18.45.26:786][475]LogSavePackage: Save=15.77ms
+[2018.02.22-18.45.26:786][475]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowOut1F282306437619FB9E2615894A7DACBD.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_BowOut.uasset'
+[2018.02.22-18.45.26:790][475]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_BowOut.uasset
+[2018.02.22-18.45.26:818][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/animations/A_BowShoot" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_BowShoot.uasset" SILENT=true
+[2018.02.22-18.45.26:873][475]LogSavePackage: Save=50.84ms
+[2018.02.22-18.45.26:873][475]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_BowShoot1F30A6624FD575F3B0B18AA3DED1D5B4.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_BowShoot.uasset'
+[2018.02.22-18.45.26:879][475]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_BowShoot.uasset
+[2018.02.22-18.45.26:910][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/animations/A_Idle" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Idle.uasset" SILENT=true
+[2018.02.22-18.45.26:932][475]LogSavePackage: Save=20.43ms
+[2018.02.22-18.45.26:932][475]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_Idle5135C11C49BEBB6474CD79A0D5C49492.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Idle.uasset'
+[2018.02.22-18.45.26:939][475]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Idle.uasset
+[2018.02.22-18.46.51:944][255]LogLinker:Warning: Can't find file '/Game/Animation/A_Walk'
+[2018.02.22-18.46.51:945][255]LogLinker:Warning: Can't find file '/Game/Animation/A_Walk'
+[2018.02.22-18.46.51:945][255]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animation/A_Walk.A_Walk'
+[2018.02.22-18.46.52:027][257]LogLinker:Warning: Can't find file '/Game/Animations/A_BowOut'
+[2018.02.22-18.46.52:028][257]LogLinker:Warning: Can't find file '/Game/Animations/A_BowOut'
+[2018.02.22-18.46.52:028][257]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animations/A_BowOut.A_BowOut'
+[2018.02.22-18.46.52:682][292]LogLinker:Warning: Can't find file '/Game/Animations/A_BowShoot'
+[2018.02.22-18.46.52:683][292]LogLinker:Warning: Can't find file '/Game/Animations/A_BowShoot'
+[2018.02.22-18.46.52:683][292]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animations/A_BowShoot.A_BowShoot'
+[2018.02.22-18.46.52:701][293]LogLinker:Warning: Can't find file '/Game/Animations/A_Idle'
+[2018.02.22-18.46.52:703][293]LogLinker:Warning: Can't find file '/Game/Animations/A_Idle'
+[2018.02.22-18.46.52:703][293]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animations/A_Idle.A_Idle'
+[2018.02.22-18.46.52:738][295]LogLinker:Warning: Can't find file '/Game/Animations/A_Walk'
+[2018.02.22-18.46.52:739][295]LogLinker:Warning: Can't find file '/Game/Animations/A_Walk'
+[2018.02.22-18.46.52:739][295]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animations/A_Walk.A_Walk'
+[2018.02.22-18.47.03:869][891]LogLinker:Warning: Can't find file '/Game/Animation/A_Idle'
+[2018.02.22-18.47.03:869][891]LogLinker:Warning: Can't find file '/Game/Animation/A_Idle'
+[2018.02.22-18.47.03:869][891]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animation/A_Idle.A_Idle'
+[2018.02.22-18.47.07:737][ 57]LogLinker:Warning: Can't find file '/Game/Animation/A_BowShoot'
+[2018.02.22-18.47.07:738][ 57]LogLinker:Warning: Can't find file '/Game/Animation/A_BowShoot'
+[2018.02.22-18.47.07:738][ 57]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animation/A_BowShoot.A_BowShoot'
+[2018.02.22-18.47.34:579][390]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_12' or package '/Engine/Transient'.
+[2018.02.22-18.47.48:971][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_6.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.02.22-18.47.49:014][108]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.Actor_6.DebugSkelMeshComponent_14) - call TermArticulated first.
+[2018.02.22-18.47.53:544][275]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.22-18.48.17:607][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Walk_BlendSpace" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Walk_BlendSpace.uasset" SILENT=true
+[2018.02.22-18.48.17:651][703]LogSavePackage: Save=39.69ms
+[2018.02.22-18.48.17:651][703]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/Walk_BlendSpace5F1C36EC42DC632334294FA0ECC1FEDA.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Walk_BlendSpace.uasset'
+[2018.02.22-18.48.17:655][703]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Walk_BlendSpace.uasset
+[2018.02.22-18.48.50:160][153]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_7.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.02.22-18.48.50:221][153]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_7.DebugSkelMeshComponent_16) - call TermArticulated first.
+[2018.02.22-18.48.53:547][248]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.22-18.50.42:054][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BowOut_Blendspace" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/BowOut_Blendspace.uasset" SILENT=true
+[2018.02.22-18.50.42:081][675]LogSavePackage: Save=20.94ms
+[2018.02.22-18.50.42:081][675]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/BowOut_BlendspaceDB5DD8B244913F716F78D9A7274407F7.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/BowOut_Blendspace.uasset'
+[2018.02.22-18.50.42:086][675]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/BowOut_Blendspace.uasset
+[2018.02.22-18.51.19:132][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/IdleBowOut_Blendspace" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/IdleBowOut_Blendspace.uasset" SILENT=true
+[2018.02.22-18.51.19:147][893]LogSavePackage: Save=13.55ms
+[2018.02.22-18.51.19:148][893]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/IdleBowOut_Blendspace673C125C4DC4048D6D278796C68EAE3F.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/IdleBowOut_Blendspace.uasset'
+[2018.02.22-18.51.19:152][893]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/IdleBowOut_Blendspace.uasset
+[2018.02.22-18.51.26:461][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/WalkBowOut_Blendspace" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/WalkBowOut_Blendspace.uasset" SILENT=true
+[2018.02.22-18.51.26:486][274]LogSavePackage: Save=21.87ms
+[2018.02.22-18.51.26:486][274]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/WalkBowOut_BlendspaceED98177345FAD808ADDA8D9BAB5253A3.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/WalkBowOut_Blendspace.uasset'
+[2018.02.22-18.51.26:492][274]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/WalkBowOut_Blendspace.uasset
+[2018.02.22-18.51.28:232][331]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.Actor_8.DebugSkelMeshComponent_18) Already registered. Aborting.
+[2018.02.22-18.51.28:300][331]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.Actor_8.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2018.02.22-18.51.31:731][460]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.22-18.51.58:900][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/IdleBowOut_Blendspace" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/IdleBowOut_Blendspace.uasset" SILENT=true
+[2018.02.22-18.51.58:973][ 65]LogSavePackage: Save=32.86ms
+[2018.02.22-18.51.58:974][ 65]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/IdleBowOut_BlendspaceAF91AD254EE34FAA8FC408993D126DD5.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/IdleBowOut_Blendspace.uasset'
+[2018.02.22-18.51.58:980][ 65]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/IdleBowOut_Blendspace.uasset
+[2018.02.22-18.52.47:471][312]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.Actor_9.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.02.22-18.52.47:530][312]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.Actor_9.DebugSkelMeshComponent_20) - call TermArticulated first.
+[2018.02.22-18.52.50:794][416]LogContentBrowser:Verbose: The majority of assets in the view are of type: BlendSpace
+[2018.02.22-18.53.33:176][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BowShoot_Blenspace" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/BowShoot_Blenspace.uasset" SILENT=true
+[2018.02.22-18.53.33:229][929]LogSavePackage: Save=51.43ms
+[2018.02.22-18.53.33:229][929]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/BowShoot_BlenspaceBC20E53D46D105DF2ACC7A92B7CAB442.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/BowShoot_Blenspace.uasset'
+[2018.02.22-18.53.33:239][929]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/BowShoot_Blenspace.uasset
+[2018.02.22-18.59.04:306][149]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/reseo/Desktop/A_Jump.FBX)
+[2018.02.22-18.59.04:398][149]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.22-18.59.04:398][149]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.22-18.59.04:398][149]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.22-18.59.04:398][149]LogFbx: ItemName: Model, ItemCount : 57
+[2018.02.22-18.59.04:398][149]LogFbx: ItemName: NodeAttribute, ItemCount : 57
+[2018.02.22-18.59.04:398][149]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2018.02.22-18.59.04:398][149]LogFbx: ItemName: AnimationCurve, ItemCount : 513
+[2018.02.22-18.59.04:398][149]LogFbx: ItemName: AnimationCurveNode, ItemCount : 171
+[2018.02.22-18.59.04:404][149]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/A_Jump.FBX
+[2018.02.22-18.59.04:544][149]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.59.10:022][149]LogFbx: Loading FBX Scene from ../../../../../../Users/reseo/Desktop/A_Jump.FBX
+[2018.02.22-18.59.10:166][149]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(0) Bip002
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(1) Bip002 Pelvis
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(2) Bip002 Spine
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(3) Bip002 Spine1
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(4) Bip002 Spine2
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(5) Bip002 Neck
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(6) Bip002 L Clavicle
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(7) Bip002 L UpperArm
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(8) Bip002 L Forearm
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(9) Bip002 L Hand
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(10) Bip002 L Finger0
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(11) Bip002 L Finger01
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(12) Bip002 L Finger02
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(13) Bip002 L Finger1
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(14) Bip002 L Finger11
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(15) Bip002 L Finger12
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(16) Bip002 L Finger2
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(17) Bip002 L Finger21
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(18) Bip002 L Finger22
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(19) Bip002 L Finger3
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(20) Bip002 L Finger31
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(21) Bip002 L Finger32
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(22) Bip002 L Finger4
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(23) Bip002 L Finger41
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(24) Bip002 L Finger42
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(25) Bip002 R Clavicle
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(26) Bip002 R UpperArm
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(27) Bip002 R Forearm
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(28) Bip002 R Hand
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(29) Bip002 R Finger0
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(30) Bip002 R Finger01
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(31) Bip002 R Finger02
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(32) Bip002 R Finger1
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(33) Bip002 R Finger11
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(34) Bip002 R Finger12
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(35) Bip002 R Finger2
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(36) Bip002 R Finger21
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(37) Bip002 R Finger22
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(38) Bip002 R Finger3
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(39) Bip002 R Finger31
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(40) Bip002 R Finger32
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(41) Bip002 R Finger4
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(42) Bip002 R Finger41
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(43) Bip002 R Finger42
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(44) Bip002 Head
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(45) Bip002 L Thigh
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(46) Bip002 L Calf
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(47) Bip002 L Foot
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(48) Bip002 L Toe0
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(49) Bip002 L Toe01
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(50) Bip002 L Toe02
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(51) Bip002 R Thigh
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(52) Bip002 R Calf
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(53) Bip002 R Foot
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(54) Bip002 R Toe0
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(55) Bip002 R Toe01
+[2018.02.22-18.59.10:172][149]LogFbx: SortedLinks :(56) Bip002 R Toe02
+[2018.02.22-18.59.10:173][149]LogFbx: Parsing AnimStack Take 001
+[2018.02.22-18.59.10:180][149]LogLinker: Can't find file '/Game/Animations/animations/A_Jump'
+[2018.02.22-18.59.10:181][149]LogLinker: Can't find file '/Game/Animations/animations/A_Jump'
+[2018.02.22-18.59.10:678][149]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/animations/A_Jump.A_Jump
+[2018.02.22-18.59.13:874][255]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/MAP_ARENA' took 0.025
+[2018.02.22-18.59.13:877][255]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/animations/A_Jump] ([1] browsable assets)...
+[2018.02.22-18.59.13:905][255]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/animations/A_Jump.A_Jump]
+[2018.02.22-18.59.13:905][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/animations/A_Jump]
+[2018.02.22-18.59.13:931][255]LogSavePackage: Save=21.23ms
+[2018.02.22-18.59.13:931][255]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_Jump_Auto2777B090045AD1FA78117669EE512A368.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/Autosaves/Game/Animations/animations/A_Jump_Auto2.uasset'
+[2018.02.22-18.59.13:932][255]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/Autosaves/Game/Animations/animations/A_Jump_Auto2.uasset
+[2018.02.22-18.59.13:933][255]LogFileHelpers: Auto-saving content packages took 0.057
+[2018.02.22-18.59.30:141][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/animations/A_Jump" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Jump.uasset" SILENT=true
+[2018.02.22-18.59.30:169][101]LogSavePackage: Save=22.31ms
+[2018.02.22-18.59.30:169][101]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/A_Jump17796F404C000900AFA9A6A0B7262A63.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Jump.uasset'
+[2018.02.22-18.59.30:175][101]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/animations/A_Jump.uasset
+[2018.02.22-18.59.57:939][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Jump_Blendspace" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Jump_Blendspace.uasset" SILENT=true
+[2018.02.22-18.59.57:956][287]LogSavePackage: Save=14.41ms
+[2018.02.22-18.59.57:956][287]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/Jump_Blendspace729C2FE74FB3C4AA980ABF88A7BA5307.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Jump_Blendspace.uasset'
+[2018.02.22-18.59.57:989][287]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Jump_Blendspace.uasset
+[2018.02.22-19.00.11:131][696]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 112 classes and 0 folders.
+[2018.02.22-19.00.12:280][696]LogSlate: Took 0.022527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.22-19.00.14:309][776]LogRenderer: Reallocating scene render targets to support 952x720 NumSamples 1 (Frame:1).
+[2018.02.22-19.00.20:548][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_10.DebugSkelMeshComponent_23) Already registered. Aborting.
+[2018.02.22-19.00.20:636][ 13]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.Actor_10.DebugSkelMeshComponent_23) - call TermArticulated first.
+[2018.02.22-19.00.26:185][155]LogContentBrowser:Verbose: The majority of assets in the view are of type: BlendSpace
+[2018.02.22-19.01.14:316][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Jump_Blendspace" FILE="../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Jump_Blendspace.uasset" SILENT=true
+[2018.02.22-19.01.14:396][  6]LogSavePackage: Save=38.63ms
+[2018.02.22-19.01.14:397][  6]LogSavePackage: Moving '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Saved/Jump_Blendspace6B38176A42ADB4C2D7E4D993973DA9CB.tmp' to '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Jump_Blendspace.uasset'
+[2018.02.22-19.01.14:401][  6]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/Animations/Jump_Blendspace.uasset
+[2018.02.22-19.01.23:426][450]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2018.02.22-19.01.23:426][450]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2018.02.22-19.01.23:711][451]Cmd: QUIT_EDITOR
+[2018.02.22-19.01.23:850][451]LogExit: Preparing to exit.
+[2018.02.22-19.01.24:731][451]LogDirectoryWatcher: A directory notification for 'C:/Users/reseo/Desktop/Games/OblivionGames/Content/' was aborted.
+[2018.02.22-19.01.24:891][451]LogExit: Editor shut down
+[2018.02.22-19.01.24:896][451]LogExit: Transaction tracking system shut down
+[2018.02.22-19.01.25:188][451]LogObj: Freed 0b from 0 cluster array pools.
+[2018.02.22-19.01.25:189][451]LogExit: Object subsystem successfully closed.
+[2018.02.22-19.01.25:223][451]LogD3D11RHI: Shutdown
+[2018.02.22-19.01.25:223][451]LogD3D11RHI: CleanupD3DDevice
+[2018.02.22-19.01.25:411][451]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module AnimationEditor (534)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (532)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module SkeletonEditor (530)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (528)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (526)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module CrashTracker (524)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module SceneOutliner (522)
+[2018.02.22-19.01.25:443][451]LogModuleManager: Shutting down and abandoning module AddContentDialog (520)
+[2018.02.22-19.01.25:443][451]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module WidgetCarousel (519)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module EditorWidgets (516)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module CollectionManager (514)
+[2018.02.22-19.01.25:451][451]LogDirectoryWatcher: A directory notification for 'C:/Users/reseo/Desktop/Games/OblivionGames/Content/Collections/' was aborted.
+[2018.02.22-19.01.25:451][451]LogDirectoryWatcher: A directory notification for 'C:/Users/reseo/Desktop/Games/OblivionGames/Content/Developers/reseo/Collections/' was aborted.
+[2018.02.22-19.01.25:451][451]LogDirectoryWatcher: A directory notification for 'C:/Users/reseo/Desktop/Games/OblivionGames/Saved/Collections/' was aborted.
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module WorldBrowser (512)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module StatsViewer (510)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module FoliageEdit (508)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module LandscapeEditor (506)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module MeshPaintMode (504)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (502)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module ActorPickerMode (500)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module GeometryMode (498)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module TextureAlignMode (496)
+[2018.02.22-19.01.25:451][451]LogModuleManager: Shutting down and abandoning module BspMode (494)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module HardwareSurvey (492)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (490)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module AutomationWorker (488)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (486)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (484)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module PlacementMode (483)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (478)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (474)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (472)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module Media (471)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (468)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module AudioCapture (464)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module SequenceRecorder (463)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module SmartSnapping (460)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module SessionServices (458)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module ViewportSnapping (456)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module ViewportInteraction (454)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module ClothPainter (452)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module LogVisualizer (450)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module IntroTutorials (448)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (447)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (444)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (442)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (440)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (438)
+[2018.02.22-19.01.25:452][451]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (437)
+[2018.02.22-19.01.26:117][451]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (434)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (432)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module InputBindingEditor (430)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module MergeActors (428)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module SizeMap (426)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module TreeMap (424)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module ReferenceViewer (422)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (420)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module LocalizationService (419)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module HardwareTargeting (416)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (414)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module UndoHistory (412)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module UserFeedback (410)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module XmlParser (408)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module Blutility (406)
+[2018.02.22-19.01.26:118][451]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (404)
+[2018.02.22-19.01.26:119][451]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (403)
+[2018.02.22-19.01.26:119][451]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (400)
+[2018.02.22-19.01.26:119][451]LogModuleManager: Shutting down and abandoning module SettingsEditor (398)
+[2018.02.22-19.01.26:119][451]LogModuleManager: Shutting down and abandoning module ProjectLauncher (396)
+[2018.02.22-19.01.26:119][451]LogModuleManager: Shutting down and abandoning module SessionFrontend (394)
+[2018.02.22-19.01.26:119][451]LogModuleManager: Shutting down and abandoning module ProfilerClient (392)
+[2018.02.22-19.01.26:119][451]LogModuleManager: Shutting down and abandoning module DeviceManager (390)
+[2018.02.22-19.01.26:119][451]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (389)
+[2018.02.22-19.01.26:186][451]LogModuleManager: Shutting down and abandoning module AutomationController (386)
+[2018.02.22-19.01.26:186][451]LogModuleManager: Shutting down and abandoning module AutomationWindow (384)
+[2018.02.22-19.01.26:186][451]LogModuleManager: Shutting down and abandoning module Layers (382)
+[2018.02.22-19.01.26:186][451]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (380)
+[2018.02.22-19.01.26:186][451]LogModuleManager: Shutting down and abandoning module DetailCustomizations (378)
+[2018.02.22-19.01.26:186][451]LogModuleManager: Shutting down and abandoning module PackagesDialog (376)
+[2018.02.22-19.01.26:186][451]LogModuleManager: Shutting down and abandoning module Persona (374)
+[2018.02.22-19.01.26:187][451]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (373)
+[2018.02.22-19.01.26:187][451]LogModuleManager: Shutting down and abandoning module AnimGraph (371)
+[2018.02.22-19.01.26:187][451]LogModuleManager: Shutting down and abandoning module Kismet (368)
+[2018.02.22-19.01.26:198][451]LogModuleManager: Shutting down and abandoning module ClassViewer (366)
+[2018.02.22-19.01.26:198][451]LogModuleManager: Shutting down and abandoning module Toolbox (364)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module ModuleUI (362)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module MovieSceneTools (360)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module OutputLog (358)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module GammaUI (356)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module Documentation (354)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (352)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module MovieScene (350)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (344)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module AnalyticsET (342)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module PortalServices (340)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module PortalRpc (338)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module MessagingRpc (336)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module AIModule (334)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module GameplayDebugger (333)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module AITestSuite (331)
+[2018.02.22-19.01.26:199][451]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module SteamVR (322)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (320)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (318)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module OculusLibrary (316)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module OculusInput (314)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (312)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (310)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module CableComponent (308)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (306)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module AndroidPermission (304)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (300)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module HTML5Networking (298)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module AlembicImporter (296)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module AlembicLibrary (295)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module GeometryCache (294)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (293)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (288)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module SuperSearch (287)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (284)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module PluginBrowser (282)
+[2018.02.22-19.01.26:420][451]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (280)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (278)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module DesktopPlatform (277)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module UObjectPlugin (274)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (272)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (270)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module GitSourceControl (268)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module SourceControl (267)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (264)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (262)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (260)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module Paper2DEditor (258)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module MeshPaint (257)
+[2018.02.22-19.01.26:421][451]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2018.02.22-19.01.26:422][451]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2018.02.22-19.01.26:422][451]LogModuleManager: Shutting down and abandoning module MainFrame (252)
+[2018.02.22-19.01.26:422][451]LogModuleManager: Shutting down and abandoning module HotReload (251)
+[2018.02.22-19.01.26:423][451]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2018.02.22-19.01.26:423][451]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2018.02.22-19.01.26:423][451]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (242)
+[2018.02.22-19.01.26:423][451]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (240)
+[2018.02.22-19.01.26:423][451]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (238)
+[2018.02.22-19.01.26:423][451]LogModuleManager: Shutting down and abandoning module UdpMessaging (236)
+[2018.02.22-19.01.26:524][451]LogModuleManager: Shutting down and abandoning module TcpMessaging (234)
+[2018.02.22-19.01.26:625][451]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2018.02.22-19.01.26:625][451]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2018.02.22-19.01.26:625][451]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2018.02.22-19.01.26:625][451]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2018.02.22-19.01.26:625][451]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2018.02.22-19.01.26:625][451]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2018.02.22-19.01.26:627][451]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2018.02.22-19.01.26:627][451]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2018.02.22-19.01.26:627][451]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.02.22-19.01.26:627][451]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.02.22-19.01.26:641][451]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2018.02.22-19.01.26:641][451]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2018.02.22-19.01.26:641][451]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2018.02.22-19.01.26:641][451]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2018.02.22-19.01.26:642][451]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2018.02.22-19.01.26:647][451]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2018.02.22-19.01.26:647][451]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2018.02.22-19.01.26:647][451]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2018.02.22-19.01.26:647][451]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2018.02.22-19.01.26:648][451]LogModuleManager: Shutting down and abandoning module Core (164)
+[2018.02.22-19.01.26:648][451]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2018.02.22-19.01.27:026][451]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.22-19.01.27:026][451]LogDirectoryWatcher: A directory notification for '../../../../../../Users/reseo/Desktop/Games/OblivionGames/Content/' was aborted.
+[2018.02.22-19.01.27:026][451]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.22-19.01.27:027][451]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2018.02.22-19.01.27:030][451]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2018.02.22-19.01.27:033][451]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2018.02.22-19.01.27:033][451]LogModuleManager: Shutting down and abandoning module LevelSequence (156)
+[2018.02.22-19.01.27:033][451]LogModuleManager: Shutting down and abandoning module PhysXFormats (154)
+[2018.02.22-19.01.27:033][451]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2018.02.22-19.01.27:033][451]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (151)
+[2018.02.22-19.01.27:033][451]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (149)
+[2018.02.22-19.01.27:033][451]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (147)
+[2018.02.22-19.01.27:033][451]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.02.22-19.01.27:123][451]LogDerivedDataCache: Shutdown
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.02.22-19.01.27:123][451]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.22-19.01.27:124][451]LogOnline:Display: Unloading online subsystem: NULL
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.22-19.01.27:124][451]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.22-19.01.27:124][451]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.22-19.01.27:124][451]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CEC814A-40D6-DC0B-5EEA-EDB60C51355B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.3-3561208%2B%2B%2BUE4%2BRelease-4.16&UserID=410dbdb047dd405f7958e2afe095f99c%7Cc77fe5ac907e4d4c9a68211c7c0d43b2%7C772681c9-387f-4af7-8466-f76b69b9df94&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.22-19.01.27:136][451]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.22-19.01.27:138][451]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2018.02.22-19.01.27:138][451]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2018.02.22-19.01.27:138][451]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2018.02.22-19.01.27:138][451]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2018.02.22-19.01.27:138][451]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2018.02.22-19.01.27:138][451]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2018.02.22-19.01.27:138][451]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2018.02.22-19.01.27:138][451]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.22-19.01.27:142][451]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.22-19.01.27:144][451]LogExit: Exiting.
+[2018.02.22-19.01.27:174][451]Log file closed, 02/22/18 14:01:27
+>>>>>>> master
