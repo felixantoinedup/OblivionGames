@@ -1,78 +1,9 @@
-﻿Log file open, 03/21/18 12:33:30
+﻿Log file open, 03/21/18 15:22:28
 LogInit:Display: Running engine for game: OblivionGames
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-1629198915) SRandInit(-1629198915).
+LogInit:Display: RandInit(1927563938) SRandInit(1927563939).
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.092575
-LogConfig:Warning: Failed to saved backup for config[Game]
-LogConfig:Warning: Failed to saved backup for config[Editor]
-LogConfig:Warning: Failed to saved backup for config[EditorPerProjectUserSettings]
-LogConfig:Warning: Failed to saved backup for config[EditorSettings]
-LogConfig:Warning: Failed to saved backup for config[EditorLayout]
-LogConfig:Warning: Failed to saved backup for config[EditorKeyBindings]
-LogConfig:Warning: Failed to saved backup for config[Compat]
-LogConfig:Warning: Failed to saved backup for config[Lightmass]
-LogConfig:Warning: Failed to saved backup for config[Scalability]
-LogConfig:Warning: Failed to saved backup for config[Hardware]
-LogConfig:Warning: Failed to saved backup for config[GameUserSettings]
-LogConfig:Warning: Failed to saved backup for config[Paper2D]
-LogConfig:Warning: Failed to saved backup for config[LightPropagationVolume]
-LogConfig:Warning: Failed to saved backup for config[CodeLiteSourceCodeAccess]
-LogConfig:Warning: Failed to saved backup for config[GitSourceControl]
-LogConfig:Warning: Failed to saved backup for config[KDevelopSourceCodeAccess]
-LogConfig:Warning: Failed to saved backup for config[NullSourceCodeAccess]
-LogConfig:Warning: Failed to saved backup for config[PerforceSourceControl]
-LogConfig:Warning: Failed to saved backup for config[SubversionSourceControl]
-LogConfig:Warning: Failed to saved backup for config[UObjectPlugin]
-LogConfig:Warning: Failed to saved backup for config[VisualStudioSourceCodeAccess]
-LogConfig:Warning: Failed to saved backup for config[XCodeSourceCodeAccess]
-LogConfig:Warning: Failed to saved backup for config[AssetManagerEditor]
-LogConfig:Warning: Failed to saved backup for config[AudioCapture]
-LogConfig:Warning: Failed to saved backup for config[FacialAnimation]
-LogConfig:Warning: Failed to saved backup for config[GameplayTagsEditor]
-LogConfig:Warning: Failed to saved backup for config[MobileLauncherProfileWizard]
-LogConfig:Warning: Failed to saved backup for config[PluginBrowser]
-LogConfig:Warning: Failed to saved backup for config[SpeedTreeImporter]
-LogConfig:Warning: Failed to saved backup for config[SuperSearchEditor]
-LogConfig:Warning: Failed to saved backup for config[AlembicImporter]
-LogConfig:Warning: Failed to saved backup for config[CharacterAI]
-LogConfig:Warning: Failed to saved backup for config[HTML5Networking]
-LogConfig:Warning: Failed to saved backup for config[AndroidMedia]
-LogConfig:Warning: Failed to saved backup for config[AvfMedia]
-LogConfig:Warning: Failed to saved backup for config[MediaPlayerEditor]
-LogConfig:Warning: Failed to saved backup for config[WmfMedia]
-LogConfig:Warning: Failed to saved backup for config[TcpMessaging]
-LogConfig:Warning: Failed to saved backup for config[UdpMessaging]
-LogConfig:Warning: Failed to saved backup for config[LevelSequenceEditor]
-LogConfig:Warning: Failed to saved backup for config[MatineeToLevelSequence]
-LogConfig:Warning: Failed to saved backup for config[OnlineSubsystemGooglePlay]
-LogConfig:Warning: Failed to saved backup for config[HTTPChunkInstaller]
-LogConfig:Warning: Failed to saved backup for config[OnlineSubsystemIOS]
-LogConfig:Warning: Failed to saved backup for config[OnlineSubsystem]
-LogConfig:Warning: Failed to saved backup for config[OnlineSubsystemNull]
-LogConfig:Warning: Failed to saved backup for config[OnlineSubsystemUtils]
-LogConfig:Warning: Failed to saved backup for config[AndroidDeviceProfileSelector]
-LogConfig:Warning: Failed to saved backup for config[AndroidMoviePlayer]
-LogConfig:Warning: Failed to saved backup for config[AndroidPermission]
-LogConfig:Warning: Failed to saved backup for config[AppleMoviePlayer]
-LogConfig:Warning: Failed to saved backup for config[ArchVisCharacter]
-LogConfig:Warning: Failed to saved backup for config[CableComponent]
-LogConfig:Warning: Failed to saved backup for config[CustomMeshComponent]
-LogConfig:Warning: Failed to saved backup for config[ExampleDeviceProfileSelector]
-LogConfig:Warning: Failed to saved backup for config[GearVR]
-LogConfig:Warning: Failed to saved backup for config[GoogleCloudMessaging]
-LogConfig:Warning: Failed to saved backup for config[ImmediatePhysics]
-LogConfig:Warning: Failed to saved backup for config[IOSDeviceProfileSelector]
-LogConfig:Warning: Failed to saved backup for config[LinuxDeviceProfileSelector]
-LogConfig:Warning: Failed to saved backup for config[LocationServicesBPLibrary]
-LogConfig:Warning: Failed to saved backup for config[MobilePatchingUtils]
-LogConfig:Warning: Failed to saved backup for config[OculusInput]
-LogConfig:Warning: Failed to saved backup for config[OculusLibrary]
-LogConfig:Warning: Failed to saved backup for config[OculusRift]
-LogConfig:Warning: Failed to saved backup for config[PhysXVehicles]
-LogConfig:Warning: Failed to saved backup for config[ProceduralMeshComponent]
-LogConfig:Warning: Failed to saved backup for config[SteamVR]
-LogConfig:Warning: Failed to saved backup for config[WindowsMoviePlayer]
+LogStats: Stats thread started at 0.113599
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -115,324 +46,838 @@ LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.16
 LogInit: Command line:  
-LogInit: Base directory: C:/Program Files/Epic Games/UE_4.16/Engine/Binaries/Win64/
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/UE_4.16/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.15-19.27.00.log (Error Code 5)
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.16-14.20.43.log (Error Code 5)
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.16-22.10.30.log (Error Code 5)
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.16-22.16.13.log (Error Code 5)
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.17-10.25.58.log (Error Code 5)
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.17-10.32.09.log (Error Code 5)
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.17-10.42.00.log (Error Code 5)
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.17-16.56.36.log (Error Code 5)
-LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.17-17.56.58.log (Error Code 5)
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.03.21-16.33.32:040][  0]LogInit: Selected Device Profile: [Windows]
-[2018.03.21-16.33.32:040][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.03.21-16.33.32:046][  0]LogConfig:Warning: Failed to saved backup for config[DeviceProfiles]
-[2018.03.21-16.33.32:048][  0]LogInit: Computer: DESKTOP-SS74IIR
-[2018.03.21-16.33.32:048][  0]LogInit: User: Maryse
-[2018.03.21-16.33.32:048][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.03.21-16.33.32:048][  0]LogInit: High frequency timer resolution =2.338345 MHz
-[2018.03.21-16.33.32:048][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.03.21-16.33.32:048][  0]LogMemory: Platform Memory Stats for Windows
-[2018.03.21-16.33.32:049][  0]LogMemory: Process Physical Memory: 273.93 MB used, 273.93 MB peak
-[2018.03.21-16.33.32:049][  0]LogMemory: Process Virtual Memory: 262.87 MB used, 262.87 MB peak
-[2018.03.21-16.33.32:049][  0]LogMemory: Physical Memory: 5949.71 MB used,  10351.78 MB free, 16301.49 MB total
-[2018.03.21-16.33.32:049][  0]LogMemory: Virtual Memory: 674.04 MB used,  10351.78 MB free, 134217728.00 MB total
-[2018.03.21-16.33.32:124][  0]LogInit: Using OS detected language (fr-CA).
-[2018.03.21-16.33.32:124][  0]LogInit: Using OS detected locale (fr-CA).
-[2018.03.21-16.33.32:127][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the language.
-[2018.03.21-16.33.32:128][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the locale.
-[2018.03.21-16.33.33:118][  0]LogD3D11RHI: D3D11 adapters:
-[2018.03.21-16.33.33:171][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 765M' (Feature Level 11_0)
-[2018.03.21-16.33.33:171][  0]LogD3D11RHI:       2017/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.03.21-16.33.33:173][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.03.21-16.33.33:173][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.03.21-16.33.33:173][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.03.21-16.33.33:179][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.03.21-16.33.33:179][  0]LogD3D11RHI:     GPU DeviceId: 0x11e2 (for the marketing name, search the web for "GPU Device Id")
-[2018.03.21-16.33.33:179][  0]LogWindows: EnumDisplayDevices:
-[2018.03.21-16.33.33:180][  0]LogWindows:    0. 'NVIDIA GeForce GTX 765M' (P:1 D:1)
-[2018.03.21-16.33.33:180][  0]LogWindows:    1. 'NVIDIA GeForce GTX 765M' (P:0 D:0)
-[2018.03.21-16.33.33:180][  0]LogWindows:    2. 'NVIDIA GeForce GTX 765M' (P:0 D:0)
-[2018.03.21-16.33.33:180][  0]LogWindows:    3. 'NVIDIA GeForce GTX 765M' (P:0 D:0)
-[2018.03.21-16.33.33:180][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.03.21-16.33.33:180][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 765M
-[2018.03.21-16.33.33:180][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.03.21-16.33.33:180][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.03.21-16.33.33:180][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2018.03.21-16.33.33:203][  0]LogD3D11RHI: Async texture creation enabled
-[2018.03.21-16.33.33:217][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.03.21-16.33.33:218][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/Shaders/WorkingDirectory/2824/).
-[2018.03.21-16.33.33:218][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maryse/AppData/Local/Temp/UnrealShaderWorkingDir/FBD16A52435CAB9EF77E9FB999B7082F/'.
-[2018.03.21-16.33.33:218][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2018.03.21-16.33.34:348][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2018.03.21-16.33.34:404][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
-[2018.03.21-16.33.34:467][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
-[2018.03.21-16.33.34:523][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
-[2018.03.21-16.33.34:576][  0]LogTemp:Display: Loaded TP MacTargetPlatform
-[2018.03.21-16.33.34:635][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2018.03.21-16.33.34:692][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.03.21-16.33.34:751][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2018.03.21-16.33.34:797][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2018.03.21-16.33.34:850][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2018.03.21-16.33.34:909][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2018.03.21-16.33.34:970][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2018.03.21-16.33.35:027][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2018.03.21-16.33.35:083][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2018.03.21-16.33.35:136][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2018.03.21-16.33.35:248][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2018.03.21-16.33.35:248][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.03.21-16.33.35:296][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2018.03.21-16.33.35:396][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2018.03.21-16.33.35:429][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2018.03.21-16.33.35:481][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2018.03.21-16.33.35:535][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.03.21-16.33.35:586][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2018.03.21-16.33.35:648][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2018.03.21-16.33.35:648][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2018.03.21-16.33.36:217][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2018.03.21-16.33.36:301][  0]LogDerivedDataCache: Loaded boot cache 0.08s 90MB C:/Users/Maryse/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
-[2018.03.21-16.33.36:301][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Maryse/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc
-[2018.03.21-16.33.36:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.03.21-16.33.36:301][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.03.21-16.33.36:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.03.21-16.33.36:301][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.03.21-16.33.36:321][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.03.21-16.33.36:333][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maryse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.03.21-16.33.36:347][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.03.21-16.33.36:347][  0]LogSlate: Using Freetype 2.6.0
-[2018.03.21-16.33.36:348][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.03.21-16.33.36:348][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.03.21-16.33.36:699][  0]LogInit: Selected Device Profile: [Windows]
-[2018.03.21-16.33.36:737][  0]LogConfig:Warning: Failed to saved backup for config[GameplayTagsList]
-[2018.03.21-16.33.36:738][  0]LogConfig:Warning: Failed to saved backup for config[GameplayTags]
-[2018.03.21-16.33.36:765][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2018.03.21-16.33.36:930][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.03.21-16.33.36:977][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.03.21-16.33.37:025][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.03.21-16.33.37:025][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
-[2018.03.21-16.33.37:025][  0]LogMeshUtilities: No automatic mesh merging module available
-[2018.03.21-16.33.37:238][  0]LogConfig:Warning: Failed to saved backup for config[TemplateDefs]
-[2018.03.21-16.33.37:578][  0]LogNetVersion: OblivionGames , NetCL: 3452394, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1932256307)
-[2018.03.21-16.33.37:643][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
-[2018.03.21-16.33.37:669][  0]LogFileManager:Warning: DeleteFile was unable to delete 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
-[2018.03.21-16.33.38:169][  0]LogFileManager:Error: Error deleting file 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/2657c409.bin'.
-[2018.03.21-16.33.38:173][  0]LogFileManager:Warning: DeleteFile was unable to delete 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
-[2018.03.21-16.33.38:674][  0]LogFileManager:Error: Error deleting file 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/866581fd.bin'.
-[2018.03.21-16.33.38:678][  0]LogFileManager:Warning: DeleteFile was unable to delete 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
-[2018.03.21-16.33.39:179][  0]LogFileManager:Error: Error deleting file 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/8c0e1344.bin'.
-[2018.03.21-16.33.39:183][  0]LogFileManager:Warning: DeleteFile was unable to delete 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/5eb44d7c.bin', retrying in .5s...
-[2018.03.21-16.33.39:684][  0]LogFileManager:Error: Error deleting file 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/5eb44d7c.bin'.
-[2018.03.21-16.33.39:686][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 1 prioritized culture(s) in 2.019904 seconds
-[2018.03.21-16.33.39:692][  0]LogUObjectArray: 34194 objects as part of root set at end of initial load.
-[2018.03.21-16.33.39:692][  0]LogUObjectAllocator: 7260416 out of 0 bytes used by permanent object pool.
-[2018.03.21-16.33.39:692][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.03.21-16.33.39:758][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.03.21-16.33.42:367][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.03.21-16.33.42:410][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.03.21-16.33.42:904][  0]LogConfig:Warning: Failed to saved backup for config[InternationalizationExport]
-[2018.03.21-16.33.42:905][  0]LogConfig:Warning: Failed to saved backup for config[TranslationPickerSettings]
-[2018.03.21-16.33.42:979][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.03.21-16.33.43:430][  0]LogConfig:Warning: Failed to saved backup for config[SourceControlSettings]
-[2018.03.21-16.33.43:430][  0]LogConfig:Warning: Failed to saved backup for config[SourceControlSettings]
-[2018.03.21-16.33.43:431][  0]SourceControl: Info Source control is disabled
-[2018.03.21-16.33.43:481][  0]SourceControl: Info Source control is disabled
-[2018.03.21-16.33.43:533][  0]SourceControl: Info Source control is disabled
-[2018.03.21-16.33.43:583][  0]SourceControl: Info Source control is disabled
-[2018.03.21-16.33.44:340][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.03.21-16.33.45:001][  0]LogEngine: Initializing Engine...
-[2018.03.21-16.33.45:001][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.03.21-16.33.45:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.03.21-16.33.45:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.03.21-16.33.45:323][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.03.21-16.33.45:337][  0]LogInit: XAudio2 using 'Haut-parleurs (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.03.21-16.33.45:359][  0]LogInit: FAudioDevice initialized.
-[2018.03.21-16.33.45:409][  0]LogDerivedDataCache: Saved boot cache 0.05s 90MB C:/Users/Maryse/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
-[2018.03.21-16.33.45:417][  0]LogInit: Texture streaming: Enabled
-[2018.03.21-16.33.45:534][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.03.21-16.33.45:808][  0]LogInit: Transaction tracking system initialized
-[2018.03.21-16.33.46:165][  0]BlueprintLog: New page: Editor Load
-[2018.03.21-16.33.47:224][  0]LogConfig:Warning: Failed to saved backup for config[LocalizationServiceSettings]
-[2018.03.21-16.33.47:225][  0]LogConfig:Warning: Failed to saved backup for config[LocalizationServiceSettings]
-[2018.03.21-16.33.47:225][  0]LocalizationService: Info Localization service is disabled
-[2018.03.21-16.33.48:034][  0]LogConsoleResponse:Display: 
-[2018.03.21-16.33.48:183][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.03.21-16.33.48:183][  0]LogCook:Display: Mobile HDR setting 1
-[2018.03.21-16.33.49:273][  0]LogFileCache: Scanning file cache for directory 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/' took 0.02s
-[2018.03.21-16.33.49:326][  0]SourceControl: Info Source control is disabled
-[2018.03.21-16.33.49:326][  0]Cmd: MAP LOAD FILE="F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.03.21-16.33.49:326][  0]LightingResults: New page: Lighting Build
-[2018.03.21-16.33.49:374][  0]MapCheck: New page: Map Check
-[2018.03.21-16.33.49:374][  0]LightingResults: New page: Lighting Build
-[2018.03.21-16.33.50:734][  0]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
-[2018.03.21-16.33.52:244][  0]LogModelComponent:Warning: Material M_Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.33.52:244][  0]LogModelComponent:Warning: Material Master_M_Opaque+Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.33.52:244][  0]LogModelComponent:Warning: Material M_Opaque requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.33.52:581][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.03.21-16.33.52:613][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.03.21-16.33.52:695][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 81.21ms to complete.
-[2018.03.21-16.33.52:695][  0]LogFileHelpers: Loading map 'MAP_BLOCKING_06' took 3.369
-[2018.03.21-16.33.52:840][  0]LogCollectionManager: Loaded 0 collections in 0.001581 seconds
-[2018.03.21-16.33.52:924][  0]LogFileCache: Scanning file cache for directory 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Collections/' took 0.01s
-[2018.03.21-16.33.52:924][  0]LogFileCache: Scanning file cache for directory 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Developers/Maryse/Collections/' took 0.01s
-[2018.03.21-16.33.52:924][  0]LogFileCache: Scanning file cache for directory 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Collections/' took 0.01s
-[2018.03.21-16.33.52:924][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
-[2018.03.21-16.33.52:935][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2329 classes and 491 folders.
-[2018.03.21-16.33.53:010][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2018.03.21-16.33.53:053][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2018.03.21-16.33.53:104][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0006 seconds. Added 1 classes and 3 folders.
-[2018.03.21-16.33.53:167][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2018.03.21-16.33.53:196][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2018.03.21-16.33.53:201][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.03.21-16.33.53:204][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.03.21-16.33.53:209][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.03.21-16.33.53:301][  0]LogRenderer: Reallocating scene render targets to support 948x440 NumSamples 1 (Frame:1).
-[2018.03.21-16.33.53:473][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2018.03.21-16.33.53:546][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2018.03.21-16.33.53:546][  0]LogLoad: (Engine Initialization) Total time: 23.07 seconds
-[2018.03.21-16.33.53:546][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.31 seconds
-[2018.03.21-16.33.53:546][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2018.03.21-16.33.53:546][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2018.03.21-16.33.53:886][  0]LogOcInput: OculusInput pre-init called
-[2018.03.21-16.33.53:886][  0]LogHMD: Starting GearVRController plugin
-[2018.03.21-16.33.53:920][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.03.21-16.33.53:994][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.03.21-16.33.54:218][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/' took 0.32s
-[2018.03.21-16.33.54:235][  1]LogAssetRegistry: Asset discovery search completed in 16.6135 seconds
-[2018.03.21-16.33.54:238][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.03.21-16.33.54:238][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
-[2018.03.21-16.33.59:896][ 20]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.03.21-16.34.00:396][ 20]LogRenderer: Reallocating scene render targets to support 1192x744 NumSamples 1 (Frame:1).
-[2018.03.21-16.34.02:002][ 69]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.03.21-16.34.53:916][115]LogFileManager:Warning: DeleteFile was unable to delete 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/ReimportCache/3688439234.bin', retrying in .5s...
-[2018.03.21-16.34.54:416][115]LogFileManager:Error: Error deleting file 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/ReimportCache/3688439234.bin'.
-[2018.03.21-16.34.55:158][115]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.714 s
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: === Handled ensure: ===
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: 
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: Ensure condition failed: bMoved [File:D:\Build\++UE4+Release-4.16+Compile\Sync\Engine\Source\Developer\DirectoryWatcher\Private\FileCache.cpp] [Line: 540]
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: Unable to move file-cache for 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/' from 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/ReimportCache/3688439234.bin.tmp' to 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/ReimportCache/3688439234.bin' (free disk space: 0)
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: Stack: 
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000B685E2B6
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000B660B8C2
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000B6621E86
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-DirectoryWatcher.dll!0x00000000BDBE1ECC
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0B9F2C7
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0B6ABDD
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0B20B99
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0AF5AAF
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0B361C6
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0B21B01
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0B9D538
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0B9F110
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0E747C5
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B0E72496
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000B1698D86
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor.exe!0x00000000F830E2B2
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor.exe!0x00000000F82FF0B0
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor.exe!0x00000000F82FF12A
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor.exe!0x00000000F8310CF9
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: UE4Editor.exe!0x00000000F83125F7
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: KERNEL32.DLL!0x00000000F62D1FE4
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: ntdll.dll!0x00000000F6ACEFC1
-[2018.03.21-16.34.55:158][115]LogOutputDevice:Error: 
-[2018.03.21-16.34.55:165][115]LogStats:                SubmitErrorReport -  0.000 s
-[2018.03.21-16.34.56:993][115]LogStats:                    SendNewReport -  1.829 s
-[2018.03.21-16.34.56:993][115]LogStats:             FDebug::EnsureFailed -  2.577 s
-[2018.03.21-16.35.07:766][500]LogSavePackage: Save=49.36ms
-[2018.03.21-16.35.07:766][500]LogSavePackage: Moving 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Gate_leftE451D70A43EA6678BADC4EBE546970C3.tmp' to 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Meshes/Props/GateHelheim/Gate_left.uasset'
-[2018.03.21-16.35.07:774][500]LogSavePackage:Display: Finished SavePackage F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Meshes/Props/GateHelheim/Gate_left.uasset
-[2018.03.21-16.35.09:342][560]LogConfig:Warning: Failed to saved backup for config[Editor]
-[2018.03.21-16.35.35:013][478]LogSavePackage: Save=85.44ms
-[2018.03.21-16.35.35:013][478]LogSavePackage: Moving 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Gate_Right8DFB4D83455EC3414E61C99DF0E701A9.tmp' to 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Meshes/Props/GateHelheim/Gate_Right.uasset'
-[2018.03.21-16.35.35:021][478]LogSavePackage:Display: Finished SavePackage F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Meshes/Props/GateHelheim/Gate_Right.uasset
-[2018.03.21-16.35.36:252][515]LogConfig:Warning: Failed to saved backup for config[Editor]
-[2018.03.21-16.35.58:489][713]LogModelComponent:Warning: Material M_Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:489][713]LogModelComponent:Warning: Material Master_M_Opaque+Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:489][713]LogModelComponent:Warning: Material M_Opaque requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:489][713]LogModelComponent:Warning: Material M_Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:490][713]LogModelComponent:Warning: Material Master_M_Opaque+Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:490][713]LogModelComponent:Warning: Material M_Opaque requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:490][713]LogModelComponent:Warning: Material M_Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:490][713]LogModelComponent:Warning: Material Master_M_Opaque+Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:490][713]LogModelComponent:Warning: Material M_Opaque requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:510][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_30' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:510][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_31' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:510][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_32' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:511][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_33' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:511][713]LogModelComponent:Warning: Material M_Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:511][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_34' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:512][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_35' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:512][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_36' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:513][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_37' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:513][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_38' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:513][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_39' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:513][713]LogModelComponent:Warning: Material Master_M_Opaque+Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:513][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_40' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:513][713]LogModelComponent:Warning: Material M_Opaque requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2018.03.21-16.35.58:514][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_41' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:514][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_42' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:514][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_43' invalid (64 verts, 0 indices).
-[2018.03.21-16.35.58:515][713]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/Blocking_06.Blocking_06:PersistentLevel.ModelComponent_44' invalid (64 verts, 0 indices).
-[2018.03.21-16.36.00:050][796]LogTemp: Repeting last play command: Selected Viewport
-[2018.03.21-16.36.00:148][796]LogFileManager:Warning: DeleteFile was unable to delete 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/311563bb.bin', retrying in .5s...
-[2018.03.21-16.36.00:648][796]LogFileManager:Error: Error deleting file 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Intermediate/AssetRegistryCache/311563bb.bin'.
-[2018.03.21-16.36.00:790][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
-[2018.03.21-16.36.00:791][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.03.21-16.36.00:794][796]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 8:36:00 AM)
-[2018.03.21-16.36.00:795][796]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
-[2018.03.21-16.36.00:804][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009674s)
-[2018.03.21-16.36.00:805][796]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
-[2018.03.21-16.36.00:805][796]LogPlayLevel: PIE: World Init took: (0.000637s)
-[2018.03.21-16.36.00:805][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.010551s)
-[2018.03.21-16.36.00:827][796]LogInit: XAudio2 using 'Haut-parleurs (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.03.21-16.36.00:842][796]LogInit: FAudioDevice initialized.
-[2018.03.21-16.36.00:906][796]LogLoad: Game class is 'BP_GameMode_C'
-[2018.03.21-16.36.01:002][796]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 60) at 2018.03.21-12.36.01
-[2018.03.21-16.36.01:039][796]LogWorld: Bringing up level for play took: 0.038716
-[2018.03.21-16.36.01:092][796]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
-[2018.03.21-16.36.01:115][796]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 0.125
-[2018.03.21-16.36.01:115][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
-[2018.03.21-16.36.13:678][531]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
-[2018.03.21-16.36.13:735][531]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
-[2018.03.21-16.36.20:765][872]LogTemp: Repeting last play command: Selected Viewport
-[2018.03.21-16.36.20:807][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
-[2018.03.21-16.36.20:807][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.03.21-16.36.20:807][872]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 8:36:20 AM)
-[2018.03.21-16.36.20:807][872]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
-[2018.03.21-16.36.20:815][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007480s)
-[2018.03.21-16.36.20:815][872]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
-[2018.03.21-16.36.20:816][872]LogPlayLevel: PIE: World Init took: (0.000718s)
-[2018.03.21-16.36.20:816][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.008480s)
-[2018.03.21-16.36.20:831][872]LogInit: XAudio2 using 'Haut-parleurs (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
-[2018.03.21-16.36.20:846][872]LogInit: FAudioDevice initialized.
-[2018.03.21-16.36.20:883][872]LogLoad: Game class is 'BP_GameMode_C'
-[2018.03.21-16.36.20:934][872]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 60) at 2018.03.21-12.36.20
-[2018.03.21-16.36.20:959][872]LogWorld: Bringing up level for play took: 0.026671
-[2018.03.21-16.36.20:962][872]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 -0.027
-[2018.03.21-16.36.20:963][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
-[2018.03.21-16.36.43:298][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
-[2018.03.21-16.36.43:340][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
-[2018.03.21-16.36.45:791][328]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.21-16.36.45:791][328]Can't find target actor or component.
-[2018.03.21-16.36.48:447][447]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Lit_Still2)
-[2018.03.21-16.36.49:869][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Ice_General)
-[2018.03.21-16.36.51:320][570]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.21-16.36.52:096][605]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.03.21-16.37.20:372][130]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Lit_Still2)
-[2018.03.21-16.37.32:876][745]Cmd: SELECT NONE
-[2018.03.21-16.50.57:214][953]LogSavePackage: Save=218.34ms
-[2018.03.21-16.50.57:214][953]LogSavePackage: Moving 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/MAP_BLOCKING_0653A2F4AB4A2E277BB39074BC3607DA18.tmp' to 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap'
-[2018.03.21-16.50.59:381][953]LogSavePackage:Display: Finished SavePackage F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap
-[2018.03.21-16.50.59:451][953]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.03.21-16.50.59:495][953]LogSavePackage: Save=28.33ms
-[2018.03.21-16.50.59:495][953]LogSavePackage: Moving 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/MAP_BLOCKING_06_BuiltData31C67D0247E650CF8823CCB382618FD6.tmp' to 'F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06_BuiltData.uasset'
-[2018.03.21-16.50.59:530][953]LogSavePackage:Display: Finished SavePackage F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06_BuiltData.uasset
-[2018.03.21-17.00.17:509][511]LogConfig:Warning: Failed to saved backup for config[Editor]
-[2018.03.21-17.00.18:111][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gate_left2)
-[2018.03.21-17.00.19:351][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gate_Right2)
-[2018.03.21-17.00.44:761][532]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 112 classes and 0 folders.
-[2018.03.21-17.00.45:549][532]LogSlate: Took 0.007907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.03.21-17.00.45:698][533]LogSlate: Took 0.004456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.21-19.22.29:573][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.21-19.22.29:573][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.21-19.22.29:641][  0]LogInit: Computer: FELIXPC
+[2018.03.21-19.22.29:641][  0]LogInit: User: Felix
+[2018.03.21-19.22.29:642][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.21-19.22.29:642][  0]LogInit: High frequency timer resolution =3.507519 MHz
+[2018.03.21-19.22.29:642][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.03.21-19.22.29:642][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.21-19.22.29:642][  0]LogMemory: Process Physical Memory: 274.08 MB used, 274.08 MB peak
+[2018.03.21-19.22.29:642][  0]LogMemory: Process Virtual Memory: 263.04 MB used, 263.04 MB peak
+[2018.03.21-19.22.29:643][  0]LogMemory: Physical Memory: 8538.78 MB used,  7796.43 MB free, 16335.21 MB total
+[2018.03.21-19.22.29:643][  0]LogMemory: Virtual Memory: 673.93 MB used,  7796.43 MB free, 134217728.00 MB total
+[2018.03.21-19.22.29:978][  0]LogInit: Using OS detected language (en-US).
+[2018.03.21-19.22.29:978][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.21-19.22.30:063][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.21-19.22.33:781][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.21-19.22.33:875][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.03.21-19.22.33:875][  0]LogD3D11RHI:       2017/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.03.21-19.22.33:877][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.21-19.22.33:877][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.21-19.22.33:877][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.21-19.22.33:887][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.21-19.22.33:887][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.21-19.22.33:887][  0]LogWindows: EnumDisplayDevices:
+[2018.03.21-19.22.33:887][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.03.21-19.22.33:887][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2018.03.21-19.22.33:887][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2018.03.21-19.22.33:888][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.21-19.22.33:888][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.03.21-19.22.33:888][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.21-19.22.33:888][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.21-19.22.33:888][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.03.21-19.22.33:924][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.21-19.22.33:938][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.21-19.22.33:988][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Intermediate/Shaders/WorkingDirectory/10468/).
+[2018.03.21-19.22.33:988][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felix/AppData/Local/Temp/UnrealShaderWorkingDir/5F434D714871A5071E716390A1CC704D/'.
+[2018.03.21-19.22.33:988][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2018.03.21-19.22.36:695][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.21-19.22.36:739][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2018.03.21-19.22.36:785][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.21-19.22.36:828][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2018.03.21-19.22.36:878][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2018.03.21-19.22.36:923][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.21-19.22.36:991][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.21-19.22.37:052][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.21-19.22.37:097][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2018.03.21-19.22.37:190][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2018.03.21-19.22.37:266][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.21-19.22.37:319][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.21-19.22.37:372][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.21-19.22.37:416][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.21-19.22.37:459][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.21-19.22.37:567][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.21-19.22.37:567][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.21-19.22.37:638][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2018.03.21-19.22.37:754][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2018.03.21-19.22.37:816][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2018.03.21-19.22.37:868][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.21-19.22.37:959][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.21-19.22.38:011][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.21-19.22.38:064][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2018.03.21-19.22.38:065][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2018.03.21-19.22.38:961][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2018.03.21-19.22.39:484][  0]LogDerivedDataCache: Loaded boot cache 0.52s 90MB C:/Users/Felix/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2018.03.21-19.22.39:484][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Felix/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc
+[2018.03.21-19.22.39:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.21-19.22.39:484][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.21-19.22.39:485][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.21-19.22.39:485][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.21-19.22.39:521][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.21-19.22.39:533][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felix/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.21-19.22.39:549][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.21-19.22.39:549][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.21-19.22.39:573][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.21-19.22.39:573][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.21-19.22.42:689][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.21-19.22.42:832][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.03.21-19.22.43:065][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.21-19.22.43:119][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.21-19.22.43:177][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.21-19.22.43:177][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2018.03.21-19.22.43:177][  0]LogMeshUtilities: No automatic mesh merging module available
+[2018.03.21-19.22.44:331][  0]LogNetVersion: OblivionGames , NetCL: 3452394, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1932256307)
+[2018.03.21-19.22.44:410][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2018.03.21-19.22.44:482][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.052558 seconds
+[2018.03.21-19.22.44:488][  0]LogUObjectArray: 34194 objects as part of root set at end of initial load.
+[2018.03.21-19.22.44:488][  0]LogUObjectAllocator: 7260424 out of 0 bytes used by permanent object pool.
+[2018.03.21-19.22.44:488][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.21-19.22.44:549][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.21-19.22.49:166][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.21-19.22.49:204][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.21-19.22.49:728][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.21-19.22.50:101][  0]SourceControl: Info Source control is disabled
+[2018.03.21-19.22.50:102][  0]SourceControl: Info Source control is disabled
+[2018.03.21-19.22.50:158][  0]SourceControl: Info Source control is disabled
+[2018.03.21-19.22.50:202][  0]SourceControl: Info Source control is disabled
+[2018.03.21-19.22.50:861][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.21-19.22.51:461][  0]LogEngine: Initializing Engine...
+[2018.03.21-19.22.51:461][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.21-19.22.51:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.21-19.22.51:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.21-19.22.51:760][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.21-19.22.51:773][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.22.51:904][  0]LogInit: FAudioDevice initialized.
+[2018.03.21-19.22.51:948][  0]LogDerivedDataCache: Saved boot cache 0.04s 90MB C:/Users/Felix/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2018.03.21-19.22.51:962][  0]LogInit: Texture streaming: Enabled
+[2018.03.21-19.22.52:051][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.21-19.22.52:266][  0]LogInit: Transaction tracking system initialized
+[2018.03.21-19.22.52:556][  0]BlueprintLog: New page: Editor Load
+[2018.03.21-19.22.53:434][  0]LocalizationService: Info Localization service is disabled
+[2018.03.21-19.22.54:089][  0]LogConsoleResponse:Display: 
+[2018.03.21-19.22.54:246][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.21-19.22.54:246][  0]LogCook:Display: Mobile HDR setting 1
+[2018.03.21-19.22.54:381][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/' took 0.02s
+[2018.03.21-19.22.55:245][  0]SourceControl: Info Source control is disabled
+[2018.03.21-19.22.55:245][  0]Cmd: MAP LOAD FILE="../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.21-19.22.55:245][  0]LightingResults: New page: Lighting Build
+[2018.03.21-19.22.55:284][  0]MapCheck: New page: Map Check
+[2018.03.21-19.22.55:284][  0]LightingResults: New page: Lighting Build
+[2018.03.21-19.22.59:326][  0]LogTexture:Display: Building textures: T_Gate_Left_03_N (BC5, 4096X4096)
+[2018.03.21-19.23.01:190][  0]LogTexture:Display: Building textures: T_Gate_Left_03_MT (AutoDXT, 4096X4096)
+[2018.03.21-19.23.03:398][  0]LogTexture:Display: Building textures: T_Gate_Left_03_H (AutoDXT, 4096X4096)
+[2018.03.21-19.23.06:624][  0]LogTexture:Display: Building textures: T_Gate_Left_03_BC (AutoDXT, 4096X4096)
+[2018.03.21-19.23.11:935][  0]LogTexture:Display: Building textures: T_Gate_Left_03_R (AutoDXT, 4096X4096)
+[2018.03.21-19.23.15:228][  0]LogMaterial: Missing cached shader map for material M_Gate_Left_03, compiling. 
+[2018.03.21-19.23.15:806][  0]LogTexture:Display: Building textures: T_Gate_Left_02_R (AutoDXT, 4096X4096)
+[2018.03.21-19.23.21:064][  0]LogTexture:Display: Building textures: T_Gate_Left_02_N (BC5, 4096X4096)
+[2018.03.21-19.23.22:577][  0]LogTexture:Display: Building textures: T_Gate_Left_02_MT (AutoDXT, 4096X4096)
+[2018.03.21-19.23.24:086][  0]LogTexture:Display: Building textures: T_Gate_Left_02_H (AutoDXT, 4096X4096)
+[2018.03.21-19.23.27:010][  0]LogTexture:Display: Building textures: T_Gate_Left_02_BC (AutoDXT, 4096X4096)
+[2018.03.21-19.23.30:131][  0]LogMaterial: Missing cached shader map for material M_Gate_Left_02, compiling. 
+[2018.03.21-19.23.30:466][  0]LogTexture:Display: Building textures: T_Gate_Left_01_R (AutoDXT, 4096X4096)
+[2018.03.21-19.23.35:577][  0]LogTexture:Display: Building textures: T_Gate_Left_01_N (BC5, 4096X4096)
+[2018.03.21-19.23.37:149][  0]LogTexture:Display: Building textures: T_Gate_Left_01_MT (AutoDXT, 4096X4096)
+[2018.03.21-19.23.38:618][  0]LogTexture:Display: Building textures: T_Gate_Left_01_H (AutoDXT, 4096X4096)
+[2018.03.21-19.23.41:480][  0]LogTexture:Display: Building textures: T_Gate_Left_01_BC (AutoDXT, 4096X4096)
+[2018.03.21-19.23.46:273][  0]LogMaterial: Missing cached shader map for material M_Gate_Left_01, compiling. 
+[2018.03.21-19.23.46:567][  0]LogTexture:Display: Building textures: T_Gate_Right_04_R (AutoDXT, 4096X4096)
+[2018.03.21-19.23.50:436][  0]LogTexture:Display: Building textures: T_Gate_Right_04_N (BC5, 4096X4096)
+[2018.03.21-19.23.51:903][  0]LogTexture:Display: Building textures: T_Gate_Right_04_MT (AutoDXT, 4096X4096)
+[2018.03.21-19.23.53:472][  0]LogTexture:Display: Building textures: T_Gate_Right_04_H (AutoDXT, 4096X4096)
+[2018.03.21-19.23.56:174][  0]LogTexture:Display: Building textures: T_Gate_Right_04_BC (AutoDXT, 4096X4096)
+[2018.03.21-19.23.59:666][  0]LogMaterial: Missing cached shader map for material M_Gate_Right_04, compiling. 
+[2018.03.21-19.24.00:269][  0]LogTexture:Display: Building textures: T_Gate_Right_03_R (AutoDXT, 4096X4096)
+[2018.03.21-19.24.05:111][  0]LogTexture:Display: Building textures: T_Gate_Right_03_N (BC5, 4096X4096)
+[2018.03.21-19.24.06:777][  0]LogTexture:Display: Building textures: T_Gate_Right_03_MT (AutoDXT, 4096X4096)
+[2018.03.21-19.24.08:802][  0]LogTexture:Display: Building textures: T_Gate_Right_03_H (AutoDXT, 4096X4096)
+[2018.03.21-19.24.11:906][  0]LogTexture:Display: Building textures: T_Gate_Right_03_BC (AutoDXT, 4096X4096)
+[2018.03.21-19.24.16:782][  0]LogMaterial: Missing cached shader map for material M_Gate_Right_03, compiling. 
+[2018.03.21-19.24.17:375][  0]LogTexture:Display: Building textures: T_Gate_Right_02_R (AutoDXT, 4096X4096)
+[2018.03.21-19.24.22:283][  0]LogTexture:Display: Building textures: T_Gate_Right_02_N (BC5, 4096X4096)
+[2018.03.21-19.24.23:792][  0]LogTexture:Display: Building textures: T_Gate_Right_02_MT (AutoDXT, 4096X4096)
+[2018.03.21-19.24.25:297][  0]LogTexture:Display: Building textures: T_Gate_Right_02_H (AutoDXT, 4096X4096)
+[2018.03.21-19.24.28:335][  0]LogTexture:Display: Building textures: T_Gate_Right_02_BC (AutoDXT, 4096X4096)
+[2018.03.21-19.24.31:747][  0]LogMaterial: Missing cached shader map for material M_Gate_Right_02, compiling. 
+[2018.03.21-19.24.32:038][  0]LogTexture:Display: Building textures: T_Gate_Right_01_R (AutoDXT, 4096X4096)
+[2018.03.21-19.24.37:213][  0]LogTexture:Display: Building textures: T_Gate_Right_01_N (BC5, 4096X4096)
+[2018.03.21-19.24.38:778][  0]LogTexture:Display: Building textures: T_Gate_Right_01_MT (AutoDXT, 4096X4096)
+[2018.03.21-19.24.40:376][  0]LogTexture:Display: Building textures: T_Gate_Right_01_H (AutoDXT, 4096X4096)
+[2018.03.21-19.24.43:850][  0]LogTexture:Display: Building textures: T_Gate_Right_01_BC (AutoDXT, 4096X4096)
+[2018.03.21-19.24.49:115][  0]LogMaterial: Missing cached shader map for material M_Gate_Right_01, compiling. 
+[2018.03.21-19.24.49:315][  0]LogTexture:Display: Building textures: T_Gate_Left_04_R (AutoDXT, 4096X4096)
+[2018.03.21-19.24.53:020][  0]LogTexture:Display: Building textures: T_Gate_Left_04_N (BC5, 4096X4096)
+[2018.03.21-19.24.54:437][  0]LogTexture:Display: Building textures: T_Gate_Left_04_MT (AutoDXT, 4096X4096)
+[2018.03.21-19.24.55:752][  0]LogTexture:Display: Building textures: T_Gate_Left_04_H (AutoDXT, 4096X4096)
+[2018.03.21-19.24.58:426][  0]LogTexture:Display: Building textures: T_Gate_Left_04_BC (AutoDXT, 4096X4096)
+[2018.03.21-19.25.01:163][  0]LogMaterial: Missing cached shader map for material M_Gate_left_04, compiling. 
+[2018.03.21-19.25.01:362][  0]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.25.01:571][  0]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.03.21-19.25.01:571][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.03.21-19.25.01:572][  0]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.03.21-19.25.01:572][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.03.21-19.25.01:700][  0]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.03.21-19.25.01:700][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.03.21-19.25.01:700][  0]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.03.21-19.25.01:701][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.03.21-19.25.01:790][  0]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.03.21-19.25.01:790][  0]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData.SUBMAP_MARYSE_BuiltData Referenced by PersistentLevel
+[2018.03.21-19.25.01:790][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.03.21-19.25.01:790][  0]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData.SUBMAP_MARYSE_BuiltData Referenced by PersistentLevel
+[2018.03.21-19.25.05:674][  0]LogModelComponent:Warning: Material M_Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2018.03.21-19.25.05:674][  0]LogModelComponent:Warning: Material Master_M_Opaque+Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2018.03.21-19.25.05:674][  0]LogModelComponent:Warning: Material M_Opaque requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2018.03.21-19.25.05:794][  0]LogTexture:Display: Building textures: Texture2D_0 (BGRA8, 16X16)
+[2018.03.21-19.25.05:794][  0]LogTexture:Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2018.03.21-19.25.05:798][  0]LogTexture:Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2018.03.21-19.25.05:802][  0]LogTexture:Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2018.03.21-19.25.05:805][  0]LogTexture:Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2018.03.21-19.25.05:809][  0]LogTexture:Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2018.03.21-19.25.05:812][  0]LogTexture:Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2018.03.21-19.25.05:820][  0]LogTexture:Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2018.03.21-19.25.05:823][  0]LogTexture:Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2018.03.21-19.25.05:826][  0]LogTexture:Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2018.03.21-19.25.05:830][  0]LogTexture:Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2018.03.21-19.25.05:834][  0]LogTexture:Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2018.03.21-19.25.05:834][  0]LogTexture:Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2018.03.21-19.25.05:838][  0]LogTexture:Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2018.03.21-19.25.05:843][  0]LogTexture:Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2018.03.21-19.25.05:847][  0]LogTexture:Display: Building textures: Texture2D_17 (BGRA8, 16X16)
+[2018.03.21-19.25.05:851][  0]LogTexture:Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2018.03.21-19.25.05:855][  0]LogTexture:Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2018.03.21-19.25.05:862][  0]LogTexture:Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2018.03.21-19.25.05:865][  0]LogTexture:Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2018.03.21-19.25.05:869][  0]LogTexture:Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2018.03.21-19.25.05:872][  0]LogTexture:Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2018.03.21-19.25.05:875][  0]LogTexture:Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2018.03.21-19.25.05:876][  0]LogTexture:Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2018.03.21-19.25.05:879][  0]LogTexture:Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2018.03.21-19.25.05:883][  0]LogTexture:Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2018.03.21-19.25.05:886][  0]LogTexture:Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2018.03.21-19.25.05:890][  0]LogTexture:Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2018.03.21-19.25.05:894][  0]LogTexture:Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2018.03.21-19.25.05:902][  0]LogTexture:Display: Building textures: Texture2D_30 (BGRA8, 16X16)
+[2018.03.21-19.25.05:906][  0]LogTexture:Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2018.03.21-19.25.05:911][  0]LogTexture:Display: Building textures: Texture2D_32 (BGRA8, 16X16)
+[2018.03.21-19.25.05:916][  0]LogTexture:Display: Building textures: Texture2D_33 (BGRA8, 16X16)
+[2018.03.21-19.25.05:920][  0]LogTexture:Display: Building textures: Texture2D_34 (BGRA8, 16X16)
+[2018.03.21-19.25.05:920][  0]LogTexture:Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2018.03.21-19.25.05:924][  0]LogTexture:Display: Building textures: Texture2D_35 (BGRA8, 16X16)
+[2018.03.21-19.25.05:929][  0]LogTexture:Display: Building textures: Texture2D_36 (BGRA8, 16X16)
+[2018.03.21-19.25.05:933][  0]LogTexture:Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2018.03.21-19.25.05:937][  0]LogTexture:Display: Building textures: Texture2D_38 (BGRA8, 16X16)
+[2018.03.21-19.25.05:941][  0]LogTexture:Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2018.03.21-19.25.05:948][  0]LogTexture:Display: Building textures: Texture2D_40 (BGRA8, 16X16)
+[2018.03.21-19.25.05:951][  0]LogTexture:Display: Building textures: Texture2D_41 (BGRA8, 16X16)
+[2018.03.21-19.25.05:954][  0]LogTexture:Display: Building textures: Texture2D_42 (BGRA8, 16X16)
+[2018.03.21-19.25.05:959][  0]LogTexture:Display: Building textures: Texture2D_43 (BGRA8, 16X16)
+[2018.03.21-19.25.05:963][  0]LogTexture:Display: Building textures: Texture2D_44 (BGRA8, 16X16)
+[2018.03.21-19.25.05:967][  0]LogTexture:Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2018.03.21-19.25.05:971][  0]LogTexture:Display: Building textures: Texture2D_46 (BGRA8, 16X16)
+[2018.03.21-19.25.06:088][  0]LogStaticMesh: Building static mesh LP_Stalagtite_2_Cone001...
+[2018.03.21-19.25.06:095][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/Landscape/Ice/Stalagtites/LP_Stalagtite_2_Cone001.LP_Stalagtite_2_Cone001
+[2018.03.21-19.25.06:343][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.21-19.25.06:375][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.21-19.25.06:474][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 98.161ms to complete.
+[2018.03.21-19.25.06:474][  0]LogFileHelpers: Loading map 'MAP_BLOCKING_06' took 131.229
+[2018.03.21-19.25.06:717][  0]LogCollectionManager: Loaded 0 collections in 0.001836 seconds
+[2018.03.21-19.25.06:869][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/Collections/' took 0.01s
+[2018.03.21-19.25.06:869][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Developers/Felix/Collections/' took 0.01s
+[2018.03.21-19.25.06:869][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Collections/' took 0.01s
+[2018.03.21-19.25.06:869][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2018.03.21-19.25.06:878][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2329 classes and 491 folders.
+[2018.03.21-19.25.06:941][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.03.21-19.25.07:325][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.03.21-19.25.07:372][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.21-19.25.07:428][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 1 classes and 3 folders.
+[2018.03.21-19.25.07:525][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2018.03.21-19.25.07:537][  0]LogSlate: Took 0.005944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.21-19.25.07:546][  0]LogSlate: Took 0.006195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.21-19.25.07:557][  0]LogSlate: Took 0.006365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.21-19.25.07:665][  0]LogRenderer: Reallocating scene render targets to support 1020x596 NumSamples 1 (Frame:1).
+[2018.03.21-19.25.07:855][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2018.03.21-19.25.07:923][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.03.21-19.25.07:924][  0]LogLoad: (Engine Initialization) Total time: 162.31 seconds
+[2018.03.21-19.25.07:924][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.28 seconds
+[2018.03.21-19.25.07:924][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.21-19.25.07:924][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.21-19.25.08:266][  0]LogOcInput: OculusInput pre-init called
+[2018.03.21-19.25.08:268][  0]LogHMD: Starting GearVRController plugin
+[2018.03.21-19.25.08:314][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.21-19.25.08:441][  0]LogSlate: Took 0.006065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.21-19.25.08:597][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/' took 0.31s
+[2018.03.21-19.25.09:963][  5]LogAssetRegistry: Asset discovery search completed in 145.5739 seconds
+[2018.03.21-19.25.09:974][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.21-19.25.09:974][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000174 seconds (updated 0 objects)
+[2018.03.21-19.25.52:724][480]LogModelComponent:Warning: Material M_Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2018.03.21-19.25.52:725][480]LogModelComponent:Warning: Material Master_M_Opaque+Snow requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2018.03.21-19.25.52:725][480]LogModelComponent:Warning: Material M_Opaque requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2018.03.21-19.26.17:107][206]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Lit_Still2)
+[2018.03.21-19.26.18:028][224]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Lit_Still2)
+[2018.03.21-19.26.20:514][285]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Lit_Still2)
+[2018.03.21-19.26.21:279][302]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Mist_Lit_Still2)
+[2018.03.21-19.26.23:673][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gate_Right2)
+[2018.03.21-19.26.24:358][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gate_left)
+[2018.03.21-19.26.28:614][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gate_left2)
+[2018.03.21-19.26.29:888][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gate_Right2)
+[2018.03.21-19.26.32:360][586]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Gate_left2)
+[2018.03.21-19.26.33:144][606]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Ruins_Column_2)
+[2018.03.21-19.26.33:674][618]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Gate_left)
+[2018.03.21-19.26.34:195][629]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Gate_Right)
+[2018.03.21-19.26.35:916][674]Cmd: DELETE
+[2018.03.21-19.26.35:916][674]Cmd: ACTOR DELETE
+[2018.03.21-19.26.35:931][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.26.35:931][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.26.35:931][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.26.35:932][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.26.35:932][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.26.35:958][674]LogEditorActor: Deleted 5 Actors (0.037 secs)
+[2018.03.21-19.26.36:733][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ruins_Column_01)
+[2018.03.21-19.26.38:040][769]Cmd: DELETE
+[2018.03.21-19.26.38:040][769]Cmd: ACTOR DELETE
+[2018.03.21-19.26.38:041][769]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.26.38:051][769]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.03.21-19.27.07:667][100]LogSlate: Took 0.007471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.21-19.27.29:135][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2018.03.21-19.27.33:236][198]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.03.21-19.27.34:588][265]Cmd: DELETE
+[2018.03.21-19.27.34:588][265]Cmd: ACTOR DELETE
+[2018.03.21-19.27.34:589][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.27.34:590][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.27.34:608][265]LogEditorActor: Deleted 2 Actors (0.020 secs)
+[2018.03.21-19.27.37:039][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.03.21-19.27.39:203][482]Cmd: DELETE
+[2018.03.21-19.27.39:203][482]Cmd: ACTOR DELETE
+[2018.03.21-19.27.39:204][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.21-19.27.39:215][482]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.03.21-19.27.39:935][532]LogEditorViewport: Clicking on Actor (LMB): BP_Character_C (BP_Character)
+[2018.03.21-19.27.41:217][540]Cmd: DELETE
+[2018.03.21-19.27.41:217][540]Cmd: ACTOR DELETE
+[2018.03.21-19.27.41:220][540]LogEditorActor: Deleted Actor: BP_Character_C
+[2018.03.21-19.27.41:432][540]LogEditorActor: Deleted 1 Actors (0.215 secs)
+[2018.03.21-19.27.44:770][684]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.28.01:714][429]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.28.02:893][479]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.21-19.28.03:129][479]LogSavePackage: Save=188.92ms
+[2018.03.21-19.28.03:130][479]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/MAP_BLOCKING_066A1FD74A4B066B4FC48798B79C55D3DC.tmp' to '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap'
+[2018.03.21-19.28.03:134][479]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap
+[2018.03.21-19.28.03:240][479]LogSavePackage: Save=27.07ms
+[2018.03.21-19.28.03:240][479]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/MAP_BLOCKING_06_BuiltData5AB3EB8849FB49290703B78C522F831D.tmp' to '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06_BuiltData.uasset'
+[2018.03.21-19.28.03:243][479]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06_BuiltData.uasset
+[2018.03.21-19.28.04:559][535]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.28.04:823][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.04:823][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.28.04:829][535]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:28:04 AM)
+[2018.03.21-19.28.04:829][535]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.28.04:844][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014361s)
+[2018.03.21-19.28.04:844][535]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.28.04:845][535]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2018.03.21-19.28.04:845][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.015918s)
+[2018.03.21-19.28.04:875][535]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.28.04:899][535]LogInit: FAudioDevice initialized.
+[2018.03.21-19.28.05:018][535]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.28.05:108][535]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.28.05
+[2018.03.21-19.28.05:134][535]LogWorld: Bringing up level for play took: 0.027406
+[2018.03.21-19.28.05:174][535]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.03.21-19.28.05:179][535]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 -0.362
+[2018.03.21-19.28.05:179][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.05:236][536]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.084529 > MaxSimulationTimeStep (0.050) for 'BP_Character_C_0', movement 'Walking'
+[2018.03.21-19.28.16:148][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.16:284][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.26:728][666]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.28.33:175][905]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.28.34:031][938]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.28.34:060][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.34:060][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.28.34:061][938]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:28:34 AM)
+[2018.03.21-19.28.34:061][938]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.28.34:066][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005867s)
+[2018.03.21-19.28.34:067][938]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.28.34:067][938]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.03.21-19.28.34:068][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.006964s)
+[2018.03.21-19.28.34:081][938]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.28.34:096][938]LogInit: FAudioDevice initialized.
+[2018.03.21-19.28.34:130][938]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.28.34:193][938]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.28.34
+[2018.03.21-19.28.34:214][938]LogWorld: Bringing up level for play took: 0.022348
+[2018.03.21-19.28.34:216][938]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 0.675
+[2018.03.21-19.28.34:217][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.42:230][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.42:292][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.49:163][671]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.28.52:750][801]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.28.53:648][837]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.28.53:677][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.28.53:677][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.28.53:677][837]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:28:53 AM)
+[2018.03.21-19.28.53:677][837]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.28.53:684][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006866s)
+[2018.03.21-19.28.53:685][837]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.28.53:685][837]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.03.21-19.28.53:685][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.008164s)
+[2018.03.21-19.28.53:698][837]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.28.53:712][837]LogInit: FAudioDevice initialized.
+[2018.03.21-19.28.53:746][837]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.28.53:804][837]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.28.53
+[2018.03.21-19.28.53:825][837]LogWorld: Bringing up level for play took: 0.022092
+[2018.03.21-19.28.53:827][837]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 0.286
+[2018.03.21-19.28.53:828][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.00:050][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.00:113][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.04:502][329]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.29.08:365][521]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.29.09:963][607]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.29.10:557][637]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.29.10:587][637]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.10:587][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.29.10:587][637]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:29:10 AM)
+[2018.03.21-19.29.10:587][637]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.29.10:594][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006794s)
+[2018.03.21-19.29.10:594][637]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.29.10:595][637]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.03.21-19.29.10:595][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.007954s)
+[2018.03.21-19.29.10:611][637]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.29.10:626][637]LogInit: FAudioDevice initialized.
+[2018.03.21-19.29.10:658][637]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.29.10:703][637]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.29.10
+[2018.03.21-19.29.10:723][637]LogWorld: Bringing up level for play took: 0.021608
+[2018.03.21-19.29.10:726][637]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 -0.815
+[2018.03.21-19.29.10:727][637]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.20:254][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.20:325][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.23:867][276]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.29.25:434][350]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.29.27:272][449]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.29.27:300][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.27:300][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.29.27:300][449]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:29:27 AM)
+[2018.03.21-19.29.27:300][449]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.29.27:307][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006660s)
+[2018.03.21-19.29.27:308][449]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.29.27:308][449]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.03.21-19.29.27:308][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.008046s)
+[2018.03.21-19.29.27:325][449]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.29.27:340][449]LogInit: FAudioDevice initialized.
+[2018.03.21-19.29.27:372][449]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.29.27:421][449]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.29.27
+[2018.03.21-19.29.27:443][449]LogWorld: Bringing up level for play took: 0.023542
+[2018.03.21-19.29.27:447][449]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 -0.094
+[2018.03.21-19.29.27:447][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.48:911][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.29.48:983][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.25:713][816]LogSavePackage: Save=179.29ms
+[2018.03.21-19.32.25:713][816]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/MAP_BLOCKING_06139D60234924B653104B97A277B04987.tmp' to '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap'
+[2018.03.21-19.32.25:718][816]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap
+[2018.03.21-19.32.25:809][816]LogSavePackage: Save=22.57ms
+[2018.03.21-19.32.25:809][816]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/MAP_BLOCKING_06_BuiltData2F416FF74322F5E89EA175A151D6FF9B.tmp' to '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06_BuiltData.uasset'
+[2018.03.21-19.32.25:812][816]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06_BuiltData.uasset
+[2018.03.21-19.32.27:023][873]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.32.27:053][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.27:053][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.32.27:054][873]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:32:27 AM)
+[2018.03.21-19.32.27:054][873]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.32.27:060][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006840s)
+[2018.03.21-19.32.27:061][873]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.32.27:061][873]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.03.21-19.32.27:061][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.007780s)
+[2018.03.21-19.32.27:085][873]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.32.27:100][873]LogInit: FAudioDevice initialized.
+[2018.03.21-19.32.27:134][873]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.32.27:180][873]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.32.27
+[2018.03.21-19.32.27:200][873]LogWorld: Bringing up level for play took: 0.021601
+[2018.03.21-19.32.27:203][873]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 -0.338
+[2018.03.21-19.32.27:246][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.45:258][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.45:407][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.49:511][991]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.32.51:566][102]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.32.53:223][191]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.32.53:252][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.53:252][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.32.53:252][191]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:32:53 AM)
+[2018.03.21-19.32.53:252][191]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.32.53:259][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006307s)
+[2018.03.21-19.32.53:260][191]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.32.53:260][191]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2018.03.21-19.32.53:260][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.007614s)
+[2018.03.21-19.32.53:275][191]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.32.53:289][191]LogInit: FAudioDevice initialized.
+[2018.03.21-19.32.53:319][191]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.32.53:364][191]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.32.53
+[2018.03.21-19.32.53:385][191]LogWorld: Bringing up level for play took: 0.021780
+[2018.03.21-19.32.53:388][191]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 -0.154
+[2018.03.21-19.32.53:388][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.56:049][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.56:121][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.32.59:554][454]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.33.01:222][546]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.33.01:834][579]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.33.01:863][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.01:863][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.33.01:863][579]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:33:01 AM)
+[2018.03.21-19.33.01:863][579]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.33.01:869][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006358s)
+[2018.03.21-19.33.01:870][579]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.33.01:870][579]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2018.03.21-19.33.01:870][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.007325s)
+[2018.03.21-19.33.01:885][579]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.33.01:899][579]LogInit: FAudioDevice initialized.
+[2018.03.21-19.33.01:929][579]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.33.01:975][579]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.33.01
+[2018.03.21-19.33.01:995][579]LogWorld: Bringing up level for play took: 0.021754
+[2018.03.21-19.33.01:998][579]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 0.457
+[2018.03.21-19.33.01:998][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.11:483][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.11:549][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.15:578][241]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.33.16:544][293]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.33.22:813][603]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.33.23:985][660]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.33.24:014][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.24:014][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.33.24:014][660]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:33:24 AM)
+[2018.03.21-19.33.24:014][660]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.33.24:021][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006312s)
+[2018.03.21-19.33.24:021][660]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.33.24:021][660]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.03.21-19.33.24:022][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.007395s)
+[2018.03.21-19.33.24:036][660]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.33.24:051][660]LogInit: FAudioDevice initialized.
+[2018.03.21-19.33.24:082][660]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.33.24:145][660]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.33.24
+[2018.03.21-19.33.24:166][660]LogWorld: Bringing up level for play took: 0.022097
+[2018.03.21-19.33.24:172][660]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 0.631
+[2018.03.21-19.33.24:172][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.34:002][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.34:071][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.38:014][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Ice_General)
+[2018.03.21-19.33.41:912][533]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.33.48:848][883]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.03.21-19.33.52:071][ 97]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.33.55:682][305]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.03.21-19.33.56:366][350]LogTemp: Repeting last play command: Selected Viewport
+[2018.03.21-19.33.56:394][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.33.56:394][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-19.33.56:394][350]PIE: New page: PIE session: MAP_BLOCKING_06 (Mar 21, 2018, 11:33:56 AM)
+[2018.03.21-19.33.56:394][350]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06
+[2018.03.21-19.33.56:401][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006632s)
+[2018.03.21-19.33.56:402][350]LogAIModule: Creating AISystem for world MAP_BLOCKING_06
+[2018.03.21-19.33.56:402][350]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2018.03.21-19.33.56:402][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06 to /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 (0.007944s)
+[2018.03.21-19.33.56:417][350]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.21-19.33.56:431][350]LogInit: FAudioDevice initialized.
+[2018.03.21-19.33.56:466][350]LogLoad: Game class is 'BP_GameMode_C'
+[2018.03.21-19.33.56:528][350]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06.MAP_BLOCKING_06 up for play (max tick rate 0) at 2018.03.21-15.33.56
+[2018.03.21-19.33.56:551][350]LogWorld: Bringing up level for play took: 0.024139
+[2018.03.21-19.33.56:554][350]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_BLOCKING_06 1.013
+[2018.03.21-19.33.56:554][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.34.16:928][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.34.17:013][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06' with GeneratedClass '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_BLOCKING_06.MAP_BLOCKING_06:PersistentLevel.MAP_BLOCKING_06'
+[2018.03.21-19.34.30:848][934]LogSavePackage: Save=198.17ms
+[2018.03.21-19.34.30:848][934]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/MAP_BLOCKING_066F3B0D04441A95F60C808295E8635F09.tmp' to '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap'
+[2018.03.21-19.34.30:853][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06.umap
+[2018.03.21-19.34.30:950][934]LogSavePackage: Save=23.21ms
+[2018.03.21-19.34.30:950][934]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/MAP_BLOCKING_06_BuiltData01F5FD3345F4CC0310130988403FE1A5.tmp' to '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06_BuiltData.uasset'
+[2018.03.21-19.34.30:953][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/MAP_BLOCKING_06_BuiltData.uasset
+[2018.03.21-19.34.36:160][ 27]LogSavePackage: Save=666.95ms
+[2018.03.21-19.34.36:160][ 27]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/SUBMAP_MARYSEC5566A944253952789F4B1B58734C5A7.tmp' to '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/submaps/SUBMAP_MARYSE.umap'
+[2018.03.21-19.34.36:165][ 27]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Assets/Maps/submaps/SUBMAP_MARYSE.umap
+[2018.03.21-19.34.36:166][ 27]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.21-19.34.36:168][ 27]LogFileHelpers: Saving map 'SUBMAP_MARYSE' took 0.795
+[2018.03.21-19.34.36:376][ 27]LogSavePackage: Save=90.01ms
+[2018.03.21-19.34.36:376][ 27]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/Blocking_06D04D00504FC8853EEE1716A43A8210DE.tmp' to '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Maps/Blocking_06.umap'
+[2018.03.21-19.34.36:380][ 27]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Maps/Blocking_06.umap
+[2018.03.21-19.34.36:381][ 27]LogFileHelpers: Saving map 'Blocking_06' took 0.210
+[2018.03.21-19.34.36:820][ 28]Cmd: QUIT_EDITOR
+[2018.03.21-19.34.37:463][ 28]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2018.03.21-19.34.37:464][ 28]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2018.03.21-19.34.37:530][ 28]LogExit: Preparing to exit.
+[2018.03.21-19.34.38:524][ 28]LogDirectoryWatcher: A directory notification failed for 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/', and we were unable to create a new request.
+[2018.03.21-19.34.38:673][ 28]LogExit: Editor shut down
+[2018.03.21-19.34.38:677][ 28]LogExit: Transaction tracking system shut down
+[2018.03.21-19.34.38:896][ 28]LogObj: Freed 0b from 0 cluster array pools.
+[2018.03.21-19.34.38:896][ 28]LogExit: Object subsystem successfully closed.
+[2018.03.21-19.34.38:917][ 28]LogD3D11RHI: Shutdown
+[2018.03.21-19.34.38:917][ 28]LogD3D11RHI: CleanupD3DDevice
+[2018.03.21-19.34.39:137][ 28]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.21-19.34.39:152][ 28]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (528)
+[2018.03.21-19.34.39:152][ 28]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (526)
+[2018.03.21-19.34.39:152][ 28]LogModuleManager: Shutting down and abandoning module CrashTracker (524)
+[2018.03.21-19.34.39:152][ 28]LogModuleManager: Shutting down and abandoning module WorldBrowser (522)
+[2018.03.21-19.34.39:152][ 28]LogModuleManager: Shutting down and abandoning module SceneOutliner (520)
+[2018.03.21-19.34.39:152][ 28]LogModuleManager: Shutting down and abandoning module AddContentDialog (518)
+[2018.03.21-19.34.39:152][ 28]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2018.03.21-19.34.39:153][ 28]LogModuleManager: Shutting down and abandoning module WidgetCarousel (517)
+[2018.03.21-19.34.39:153][ 28]LogModuleManager: Shutting down and abandoning module EditorWidgets (514)
+[2018.03.21-19.34.39:153][ 28]LogModuleManager: Shutting down and abandoning module CollectionManager (512)
+[2018.03.21-19.34.39:153][ 28]LogDirectoryWatcher: A directory notification for 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Collections/' was aborted.
+[2018.03.21-19.34.39:153][ 28]LogDirectoryWatcher: A directory notification for 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/Developers/Felix/Collections/' was aborted.
+[2018.03.21-19.34.39:153][ 28]LogDirectoryWatcher: A directory notification for 'D:/Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Saved/Collections/' was aborted.
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module StatsViewer (510)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module FoliageEdit (508)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module LandscapeEditor (506)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module MeshPaintMode (504)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (502)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module ActorPickerMode (500)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module GeometryMode (498)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module TextureAlignMode (496)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module BspMode (494)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module HardwareSurvey (492)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (490)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module AutomationWorker (488)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (486)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (484)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module PlacementMode (483)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (478)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (474)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (472)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module Media (471)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (468)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module AudioCapture (464)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module SequenceRecorder (463)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module SmartSnapping (460)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module SessionServices (458)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module ViewportSnapping (456)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module ViewportInteraction (454)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module ClothPainter (452)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module LogVisualizer (450)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module IntroTutorials (448)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (447)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (444)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (442)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (440)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (438)
+[2018.03.21-19.34.39:154][ 28]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (437)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (434)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (432)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module InputBindingEditor (430)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module MergeActors (428)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module SizeMap (426)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module TreeMap (424)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module ReferenceViewer (422)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (420)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module LocalizationService (419)
+[2018.03.21-19.34.39:959][ 28]LogModuleManager: Shutting down and abandoning module HardwareTargeting (416)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (414)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module UndoHistory (412)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module UserFeedback (410)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module XmlParser (408)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module Blutility (406)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (404)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (403)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (400)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module SettingsEditor (398)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module ProjectLauncher (396)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module SessionFrontend (394)
+[2018.03.21-19.34.39:960][ 28]LogModuleManager: Shutting down and abandoning module ProfilerClient (392)
+[2018.03.21-19.34.39:961][ 28]LogModuleManager: Shutting down and abandoning module DeviceManager (390)
+[2018.03.21-19.34.39:961][ 28]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (389)
+[2018.03.21-19.34.40:022][ 28]LogModuleManager: Shutting down and abandoning module AutomationController (386)
+[2018.03.21-19.34.40:022][ 28]LogModuleManager: Shutting down and abandoning module AutomationWindow (384)
+[2018.03.21-19.34.40:022][ 28]LogModuleManager: Shutting down and abandoning module Layers (382)
+[2018.03.21-19.34.40:022][ 28]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (380)
+[2018.03.21-19.34.40:022][ 28]LogModuleManager: Shutting down and abandoning module DetailCustomizations (378)
+[2018.03.21-19.34.40:071][ 28]LogModuleManager: Shutting down and abandoning module PackagesDialog (376)
+[2018.03.21-19.34.40:072][ 28]LogModuleManager: Shutting down and abandoning module Persona (374)
+[2018.03.21-19.34.40:072][ 28]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (373)
+[2018.03.21-19.34.40:072][ 28]LogModuleManager: Shutting down and abandoning module AnimGraph (371)
+[2018.03.21-19.34.40:072][ 28]LogModuleManager: Shutting down and abandoning module Kismet (368)
+[2018.03.21-19.34.40:075][ 28]LogModuleManager: Shutting down and abandoning module ClassViewer (366)
+[2018.03.21-19.34.40:075][ 28]LogModuleManager: Shutting down and abandoning module Toolbox (364)
+[2018.03.21-19.34.40:075][ 28]LogModuleManager: Shutting down and abandoning module ModuleUI (362)
+[2018.03.21-19.34.40:075][ 28]LogModuleManager: Shutting down and abandoning module MovieSceneTools (360)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module OutputLog (358)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module GammaUI (356)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module Documentation (354)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (352)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module MovieScene (350)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (344)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module AnalyticsET (342)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module PortalServices (340)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module PortalRpc (338)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module MessagingRpc (336)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module AIModule (334)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module GameplayDebugger (333)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module AITestSuite (331)
+[2018.03.21-19.34.40:076][ 28]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module SteamVR (322)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (320)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (318)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module OculusLibrary (316)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module OculusInput (314)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (312)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (310)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module CableComponent (308)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (306)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module AndroidPermission (304)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (300)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module HTML5Networking (298)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module AlembicImporter (296)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module AlembicLibrary (295)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module GeometryCache (294)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (293)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (288)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module SuperSearch (287)
+[2018.03.21-19.34.40:262][ 28]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (284)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module PluginBrowser (282)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (280)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (278)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module DesktopPlatform (277)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module UObjectPlugin (274)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (272)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (270)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module GitSourceControl (268)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module SourceControl (267)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (264)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (262)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (260)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module Paper2DEditor (258)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module MeshPaint (257)
+[2018.03.21-19.34.40:263][ 28]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2018.03.21-19.34.40:265][ 28]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2018.03.21-19.34.40:266][ 28]LogModuleManager: Shutting down and abandoning module MainFrame (252)
+[2018.03.21-19.34.40:266][ 28]LogModuleManager: Shutting down and abandoning module HotReload (251)
+[2018.03.21-19.34.40:267][ 28]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2018.03.21-19.34.40:267][ 28]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2018.03.21-19.34.40:267][ 28]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (242)
+[2018.03.21-19.34.40:267][ 28]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (240)
+[2018.03.21-19.34.40:267][ 28]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (238)
+[2018.03.21-19.34.40:267][ 28]LogModuleManager: Shutting down and abandoning module UdpMessaging (236)
+[2018.03.21-19.34.40:367][ 28]LogModuleManager: Shutting down and abandoning module TcpMessaging (234)
+[2018.03.21-19.34.40:467][ 28]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2018.03.21-19.34.40:467][ 28]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2018.03.21-19.34.40:467][ 28]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2018.03.21-19.34.40:467][ 28]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2018.03.21-19.34.40:468][ 28]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2018.03.21-19.34.40:468][ 28]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2018.03.21-19.34.40:471][ 28]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2018.03.21-19.34.40:471][ 28]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2018.03.21-19.34.40:471][ 28]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.03.21-19.34.40:471][ 28]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2018.03.21-19.34.40:479][ 28]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2018.03.21-19.34.40:480][ 28]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2018.03.21-19.34.40:480][ 28]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2018.03.21-19.34.40:480][ 28]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2018.03.21-19.34.40:480][ 28]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2018.03.21-19.34.40:480][ 28]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2018.03.21-19.34.40:480][ 28]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2018.03.21-19.34.40:480][ 28]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2018.03.21-19.34.40:480][ 28]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2018.03.21-19.34.40:489][ 28]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2018.03.21-19.34.40:489][ 28]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2018.03.21-19.34.40:489][ 28]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2018.03.21-19.34.40:489][ 28]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2018.03.21-19.34.40:489][ 28]LogModuleManager: Shutting down and abandoning module Core (164)
+[2018.03.21-19.34.40:489][ 28]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2018.03.21-19.34.40:688][ 28]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.21-19.34.40:688][ 28]LogDirectoryWatcher: A directory notification for '../../../../../../Desktop/Oblivion Games/root_OblivionGames_02/OblivionGames/Content/' was aborted.
+[2018.03.21-19.34.40:688][ 28]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.21-19.34.40:688][ 28]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2018.03.21-19.34.40:696][ 28]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2018.03.21-19.34.40:697][ 28]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2018.03.21-19.34.40:697][ 28]LogModuleManager: Shutting down and abandoning module LevelSequence (156)
+[2018.03.21-19.34.40:697][ 28]LogModuleManager: Shutting down and abandoning module PhysXFormats (154)
+[2018.03.21-19.34.40:697][ 28]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2018.03.21-19.34.40:697][ 28]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (151)
+[2018.03.21-19.34.40:697][ 28]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (149)
+[2018.03.21-19.34.40:697][ 28]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (147)
+[2018.03.21-19.34.40:697][ 28]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.03.21-19.34.40:715][ 28]LogDerivedDataCache: Shutdown
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.03.21-19.34.40:715][ 28]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.21-19.34.40:716][ 28]LogOnline:Display: Unloading online subsystem: NULL
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.21-19.34.40:716][ 28]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.21-19.34.40:716][ 28]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.21-19.34.40:716][ 28]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3499FC90-49EB-5ABA-CF0A-679ECED4A582%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.3-3561208%2B%2B%2BUE4%2BRelease-4.16&UserID=5933fc1144e1546227a373a469598650%7C3bd8848f4e684925b548d3337c2a539a%7C1e34ae0b-c4fc-427d-8a6b-6ecc584c25f9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.21-19.34.40:721][ 28]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.21-19.34.40:724][ 28]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2018.03.21-19.34.40:724][ 28]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2018.03.21-19.34.40:724][ 28]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2018.03.21-19.34.40:724][ 28]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2018.03.21-19.34.40:726][ 28]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2018.03.21-19.34.40:726][ 28]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2018.03.21-19.34.40:726][ 28]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2018.03.21-19.34.40:726][ 28]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.21-19.34.40:728][ 28]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.21-19.34.40:731][ 28]LogExit: Exiting.
+[2018.03.21-19.34.40:787][ 28]Log file closed, 03/21/18 15:34:40
