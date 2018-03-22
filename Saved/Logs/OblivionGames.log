@@ -1,10 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 03/22/18 12:58:01
 LogInit:Display: Running engine for game: OblivionGames
 LogPlatformFile: Not using cached read wrapper
 LogInit:Display: RandInit(-421568922) SRandInit(-421568922).
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
 LogStats: Stats thread started at 0.728323
+=======
+﻿Log file open, 03/22/18 08:30:26
+LogInit:Display: Running engine for game: OblivionGames
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(685129414) SRandInit(685129414).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.092778
+>>>>>>> master
 =======
 ﻿Log file open, 03/22/18 08:30:26
 LogInit:Display: Running engine for game: OblivionGames
@@ -126,6 +135,7 @@ LogInit: Branch Name: ++UE4+Release-4.16
 LogInit: Command line:  
 LogInit: Base directory: C:/Program Files/Epic Games/UE_4.16/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogFileManager:Warning: Error deleting file: E:/GitKraken_Root/OblivionGames/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.15-19.27.00.log (Error Code 5)
 LogFileManager:Warning: Error deleting file: E:/GitKraken_Root/OblivionGames/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.16-14.20.43.log (Error Code 5)
@@ -892,6 +902,8 @@ LogInit: Object subsystem initialized
 [2018.03.22-17.16.10:964][185]LogExit: Exiting.
 [2018.03.22-17.16.11:135][185]Log file closed, 03/22/18 13:16:11
 =======
+=======
+>>>>>>> master
 LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.15-19.27.00.log (Error Code 5)
 LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.16-14.20.43.log (Error Code 5)
 LogFileManager:Warning: Error deleting file: F:/Doualias/NAD/cours/Session_03/Création_Élement/Project/OblivionGames/Saved/Logs/OblivionGames-backup-2018.03.16-22.10.30.log (Error Code 5)
@@ -2565,4 +2577,7 @@ LogInit: Object subsystem initialized
 [2018.03.22-17.04.07:000][655]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.03.22-17.04.07:002][655]LogExit: Exiting.
 [2018.03.22-17.04.07:044][655]Log file closed, 03/22/18 13:04:07
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
