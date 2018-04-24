@@ -1,9 +1,27 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 04/23/18 02:45:22
 LogInit:Display: Running engine for game: OblivionGames
 LogPlatformFile: Not using cached read wrapper
 LogInit:Display: RandInit(537108108) SRandInit(537108109).
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
 LogStats: Stats thread started at 0.900715
+=======
+<<<<<<< HEAD
+﻿Log file open, 04/23/18 20:39:42
+LogInit:Display: Running engine for game: OblivionGames
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-501784418) SRandInit(-501784418).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.087213
+=======
+﻿Log file open, 04/23/18 02:45:22
+LogInit:Display: Running engine for game: OblivionGames
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(537108108) SRandInit(537108109).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.900715
+>>>>>>> master
+>>>>>>> Stashed changes
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -45,11 +63,1150 @@ LogInit: Compiled (64-bit): Jul 28 2017 11:49:47
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.16
+<<<<<<< Updated upstream
 LogInit: Command line:  
 LogInit: Base directory: D:/Program Files (x86)/Epic Games/UE_4.16/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+=======
+<<<<<<< HEAD
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.16/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.24-00.39.43:344][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-00.39.43:344][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.24-00.39.43:360][  0]LogInit: Computer: DESKTOP-VUG6B9O
+[2018.04.24-00.39.43:360][  0]LogInit: User: ProfectBox
+[2018.04.24-00.39.43:360][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.24-00.39.43:360][  0]LogInit: High frequency timer resolution =3.914062 MHz
+[2018.04.24-00.39.43:360][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.24-00.39.43:360][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-00.39.43:360][  0]LogMemory: Process Physical Memory: 276.33 MB used, 276.33 MB peak
+[2018.04.24-00.39.43:360][  0]LogMemory: Process Virtual Memory: 262.92 MB used, 262.92 MB peak
+[2018.04.24-00.39.43:360][  0]LogMemory: Physical Memory: 5034.20 MB used,  11288.61 MB free, 16322.81 MB total
+[2018.04.24-00.39.43:360][  0]LogMemory: Virtual Memory: 674.30 MB used,  11288.61 MB free, 134217728.00 MB total
+[2018.04.24-00.39.43:429][  0]LogInit: Using OS detected language (fr-FR).
+[2018.04.24-00.39.43:429][  0]LogInit: Using OS detected locale (fr-CA).
+[2018.04.24-00.39.43:432][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.04.24-00.39.43:432][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the locale.
+[2018.04.24-00.39.44:221][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.24-00.39.44:279][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.24-00.39.44:279][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.24-00.39.44:280][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.24-00.39.44:280][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.24-00.39.44:280][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.24-00.39.44:284][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.24-00.39.44:284][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.24-00.39.44:284][  0]LogWindows: EnumDisplayDevices:
+[2018.04.24-00.39.44:284][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.24-00.39.44:285][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.04.24-00.39.44:285][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.24-00.39.44:285][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.24-00.39.44:285][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.24-00.39.44:285][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.24-00.39.44:285][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.24-00.39.44:285][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.24-00.39.44:285][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.24-00.39.44:308][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.24-00.39.44:369][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.24-00.39.44:371][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Intermediate/Shaders/WorkingDirectory/6552/).
+[2018.04.24-00.39.44:371][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ProfectBox/AppData/Local/Temp/UnrealShaderWorkingDir/C72D5EB9417E59BC5F955FB97FB5C12F/'.
+[2018.04.24-00.39.44:371][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2018.04.24-00.39.45:295][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.24-00.39.45:337][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2018.04.24-00.39.45:395][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.24-00.39.45:436][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2018.04.24-00.39.45:493][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2018.04.24-00.39.45:539][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.24-00.39.45:591][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.24-00.39.45:640][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.24-00.39.45:684][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2018.04.24-00.39.45:731][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2018.04.24-00.39.45:778][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.24-00.39.45:826][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.24-00.39.45:871][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.24-00.39.45:920][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.24-00.39.45:965][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.24-00.39.46:058][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.24-00.39.46:058][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.24-00.39.46:102][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2018.04.24-00.39.46:191][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2018.04.24-00.39.46:220][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2018.04.24-00.39.46:272][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.24-00.39.46:319][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.24-00.39.46:368][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.24-00.39.46:413][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2018.04.24-00.39.46:413][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2018.04.24-00.39.46:870][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2018.04.24-00.39.46:929][  0]LogDerivedDataCache: Loaded boot cache 0.06s 90MB C:/Users/ProfectBox/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2018.04.24-00.39.46:929][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/ProfectBox/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc
+[2018.04.24-00.39.46:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.24-00.39.46:930][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.24-00.39.46:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.24-00.39.46:930][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.24-00.39.46:941][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.24-00.39.46:953][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ProfectBox/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.24-00.39.46:960][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.24-00.39.46:960][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.24-00.39.46:961][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-00.39.46:961][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-00.39.47:198][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-00.39.47:243][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.24-00.39.47:395][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.24-00.39.47:430][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.24-00.39.47:485][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.24-00.39.47:485][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2018.04.24-00.39.47:485][  0]LogMeshUtilities: No automatic mesh merging module available
+[2018.04.24-00.39.47:986][  0]LogNetVersion: OblivionGames , NetCL: 3452394, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1932256307)
+[2018.04.24-00.39.48:040][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.04.24-00.39.48:092][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 1 prioritized culture(s) in 0.023934 seconds
+[2018.04.24-00.39.48:097][  0]LogUObjectArray: 34194 objects as part of root set at end of initial load.
+[2018.04.24-00.39.48:097][  0]LogUObjectAllocator: 7260416 out of 0 bytes used by permanent object pool.
+[2018.04.24-00.39.48:097][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.24-00.39.48:167][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.24-00.39.50:049][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.04.24-00.39.50:077][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.24-00.39.50:112][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.24-00.39.50:535][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.24-00.39.50:843][  0]SourceControl: Info Source control is disabled
+[2018.04.24-00.39.50:843][  0]SourceControl: Info Source control is disabled
+[2018.04.24-00.39.50:881][  0]SourceControl: Info Source control is disabled
+[2018.04.24-00.39.50:918][  0]SourceControl: Info Source control is disabled
+[2018.04.24-00.39.51:457][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.24-00.39.51:968][  0]LogEngine: Initializing Engine...
+[2018.04.24-00.39.51:968][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.24-00.39.52:101][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.24-00.39.52:101][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.24-00.39.52:201][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.24-00.39.52:208][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.39.52:218][  0]LogInit: FAudioDevice initialized.
+[2018.04.24-00.39.52:251][  0]LogDerivedDataCache: Saved boot cache 0.03s 90MB C:/Users/ProfectBox/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2018.04.24-00.39.52:259][  0]LogInit: Texture streaming: Enabled
+[2018.04.24-00.39.52:333][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.24-00.39.52:501][  0]LogInit: Transaction tracking system initialized
+[2018.04.24-00.39.52:741][  0]BlueprintLog: New page: Editor Load
+[2018.04.24-00.39.53:454][  0]LocalizationService: Info Localization service is disabled
+[2018.04.24-00.39.53:984][  0]LogConsoleResponse:Display: 
+[2018.04.24-00.39.54:150][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.24-00.39.54:150][  0]LogCook:Display: Mobile HDR setting 1
+[2018.04.24-00.39.54:286][  0]LogFileCache: Scanning file cache for directory 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/' took 0.04s
+[2018.04.24-00.39.54:941][  0]SourceControl: Info Source control is disabled
+[2018.04.24-00.39.54:941][  0]Cmd: MAP LOAD FILE="D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINMENU.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-00.39.54:987][  0]LightingResults: New page: Lighting Build
+[2018.04.24-00.39.55:019][  0]MapCheck: New page: Map Check
+[2018.04.24-00.39.55:019][  0]LightingResults: New page: Lighting Build
+[2018.04.24-00.40.03:460][  0]LogAIModule: Creating AISystem for world MAP_MAINMENU
+[2018.04.24-00.40.03:875][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-00.40.03:942][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-00.40.03:995][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 52.602ms to complete.
+[2018.04.24-00.40.03:995][  0]LogFileHelpers: Loading map 'MAP_MAINMENU' took 9.054
+[2018.04.24-00.40.04:053][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2018.04.24-00.40.04:147][  0]LogCollectionManager: Loaded 0 collections in 0.001295 seconds
+[2018.04.24-00.40.04:227][  0]LogFileCache: Scanning file cache for directory 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Collections/' took 0.01s
+[2018.04.24-00.40.04:227][  0]LogFileCache: Scanning file cache for directory 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Developers/ProfectBox/Collections/' took 0.01s
+[2018.04.24-00.40.04:227][  0]LogFileCache: Scanning file cache for directory 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Collections/' took 0.01s
+[2018.04.24-00.40.04:227][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.04.24-00.40.04:236][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2343 classes and 497 folders.
+[2018.04.24-00.40.04:290][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.24-00.40.04:564][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.24-00.40.04:604][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.24-00.40.04:652][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 1 classes and 3 folders.
+[2018.04.24-00.40.04:713][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2018.04.24-00.40.04:719][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-00.40.04:721][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.24-00.40.04:729][  0]LogSlate: Took 0.004025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.24-00.40.04:844][  0]LogRenderer: Reallocating scene render targets to support 1312x648 NumSamples 1 (Frame:1).
+[2018.04.24-00.40.04:947][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2018.04.24-00.40.05:002][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.24-00.40.05:002][  0]LogLoad: (Engine Initialization) Total time: 23.53 seconds
+[2018.04.24-00.40.05:002][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.35 seconds
+[2018.04.24-00.40.05:002][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.24-00.40.05:012][  0]LogOcInput: OculusInput pre-init called
+[2018.04.24-00.40.05:012][  0]LogHMD: Starting GearVRController plugin
+[2018.04.24-00.40.05:044][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.24-00.40.05:084][  0]LogSlate: Took 0.003487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-00.40.05:138][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/' took 0.11s
+[2018.04.24-00.40.05:171][  1]LogAssetRegistry: Asset discovery search completed in 17.1519 seconds
+[2018.04.24-00.40.05:173][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.24-00.40.05:173][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.04.24-00.40.26:705][503]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-00.40.27:551][503]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-00.40.32:114][503]LogAIModule: Creating AISystem for world MAP_MAINGAME
+[2018.04.24-00.40.32:146][503]Cmd: MAP LOAD FILE="D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-00.40.32:146][503]LightingResults: New page: Lighting Build
+[2018.04.24-00.40.32:146][503]LoadErrors: New page: Loading map: MAP_MAINGAME.umap
+[2018.04.24-00.40.32:149][503]MapCheck: New page: Map Check
+[2018.04.24-00.40.32:149][503]LightingResults: New page: Lighting Build
+[2018.04.24-00.40.32:441][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.24-00.40.32:441][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.24-00.40.32:670][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.24-00.40.32:670][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.24-00.40.32:861][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.24-00.40.32:861][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.24-00.40.32:861][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.24-00.40.32:861][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.24-00.40.32:934][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.24-00.40.32:934][503]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData.SUBMAP_MARYSE_BuiltData Referenced by PersistentLevel
+[2018.04.24-00.40.32:934][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.24-00.40.34:382][503]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles362.StaticMesh5
+Current: 34152.757813,-12173.722656,-8671.423828|9.047050,29.692545,-1.655551|2.304000,2.304000,2.304000 Cached: 34153.710938,-12174.031250,-8671.423828|9.047050,29.692514,-1.655557|2.304000,2.304000,2.304000
+[2018.04.24-00.40.34:382][503]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles362.StaticMesh4
+Current: 34100.144531,-12108.036133,-8671.087891|3.176051,110.063042,8.634613|2.880000,2.880000,2.880000 Cached: 34101.097656,-12108.344727,-8671.087891|3.176051,110.063011,8.634612|2.880000,2.880000,2.880000
+[2018.04.24-00.40.34:417][503]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles323.StaticMesh5
+Current: 37470.300781,-10060.291992,-8723.422852|9.045957,-132.381485,-1.655450|2.304000,2.304000,2.304000 Cached: 37469.300781,-10060.291992,-8723.422852|9.045957,-132.381516,-1.655455|2.304000,2.304000,2.304000
+[2018.04.24-00.40.34:417][503]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles323.StaticMesh4
+Current: 37540.578125,-10106.596680,-8723.086914|3.175765,-52.011063,8.633551|2.880000,2.880000,2.880000 Cached: 37539.578125,-10106.596680,-8723.086914|3.175765,-52.011093,8.633550|2.880000,2.880000,2.880000
+[2018.04.24-00.40.34:429][503]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh1
+Current: 35928.953125,-9401.828125,-8455.981445|4.725118,133.804367,-3.055328|2.000000,2.000000,2.000000 Cached: 35937.011719,-9409.313477,-8455.981445|4.725043,159.897491,-3.055339|2.000000,2.000000,2.000000
+[2018.04.24-00.40.34:429][503]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh5
+Current: 35897.585938,-9375.335938,-8452.376953|1.718475,-120.988983,5.356868|2.304000,2.304000,2.304000 Cached: 35878.187500,-9398.315430,-8452.376953|1.718503,-94.895844,5.356802|2.304000,2.304000,2.304000
+[2018.04.24-00.40.34:429][503]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh4
+Current: 35975.109375,-9407.067383,-8460.525391|-4.973293,-41.183987,2.631408|2.880000,2.880000,2.880000 Cached: 35961.765625,-9392.716797,-8460.525391|-4.973224,-15.090884,2.631425|2.880000,2.880000,2.880000
+[2018.04.24-00.40.34:430][503]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh2
+Current: 35904.945313,-9370.899414,-8454.784180|3.773946,118.792816,-4.174099|2.400000,2.400000,2.400000 Cached: 35901.847656,-9392.095703,-8454.784180|3.773870,144.885925,-4.174092|2.400000,2.400000,2.400000
+[2018.04.24-00.40.34:474][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.24-00.40.34:474][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.24-00.40.34:547][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.24-00.40.34:547][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.24-00.40.35:174][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.24-00.40.35:174][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.24-00.40.35:174][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.24-00.40.35:175][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.24-00.40.35:304][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.24-00.40.35:304][503]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData.SUBMAP_Cave_BuiltData Referenced by PersistentLevel
+[2018.04.24-00.40.35:304][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.24-00.40.38:915][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.24-00.40.38:915][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.24-00.40.38:915][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.24-00.40.38:915][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.24-00.40.38:915][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.24-00.40.38:915][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.24-00.40.38:915][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.24-00.40.38:915][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.24-00.40.38:916][503]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.24-00.40.38:916][503]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData.SUB_CAMILLECAVE_BuiltData Referenced by PersistentLevel
+[2018.04.24-00.40.38:916][503]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.24-00.40.39:816][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-00.40.40:178][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-00.40.40:252][503]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 73.532ms to complete.
+[2018.04.24-00.40.40:252][503]LogFileHelpers: Loading map 'MAP_MAINGAME' took 8.106
+[2018.04.24-00.40.53:525][703]LogRenderer: Reallocating scene render targets to support 1312x684 NumSamples 1 (Frame:252).
+[2018.04.24-00.40.53:589][704]LogRenderer: Reallocating scene render targets to support 1312x768 NumSamples 1 (Frame:254).
+[2018.04.24-00.40.53:653][705]LogRenderer: Reallocating scene render targets to support 1312x780 NumSamples 1 (Frame:256).
+[2018.04.24-00.40.53:715][706]LogRenderer: Reallocating scene render targets to support 1312x784 NumSamples 1 (Frame:258).
+[2018.04.24-00.40.56:207][959]LogRenderer: Reallocating scene render targets to support 1316x784 NumSamples 1 (Frame:276).
+[2018.04.24-00.40.56:269][960]LogRenderer: Reallocating scene render targets to support 1332x784 NumSamples 1 (Frame:278).
+[2018.04.24-00.40.56:331][961]LogRenderer: Reallocating scene render targets to support 1348x784 NumSamples 1 (Frame:280).
+[2018.04.24-00.40.56:400][962]LogRenderer: Reallocating scene render targets to support 1364x784 NumSamples 1 (Frame:282).
+[2018.04.24-00.40.56:457][963]LogRenderer: Reallocating scene render targets to support 1372x784 NumSamples 1 (Frame:284).
+[2018.04.24-00.40.56:519][964]LogRenderer: Reallocating scene render targets to support 1380x784 NumSamples 1 (Frame:286).
+[2018.04.24-00.40.56:576][965]LogRenderer: Reallocating scene render targets to support 1400x784 NumSamples 1 (Frame:288).
+[2018.04.24-00.40.56:638][966]LogRenderer: Reallocating scene render targets to support 1408x784 NumSamples 1 (Frame:290).
+[2018.04.24-00.40.56:695][967]LogRenderer: Reallocating scene render targets to support 1412x784 NumSamples 1 (Frame:292).
+[2018.04.24-00.42.08:463][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_Cone18)
+[2018.04.24-00.42.17:820][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_Cone17)
+[2018.04.24-00.45.30:923][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays27)
+[2018.04.24-00.50.18:157][699]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-00.50.28:481][726]LogSavePackage: Save=1258.93ms
+[2018.04.24-00.50.28:481][726]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/SUBMAP_MARIESOPHIE_Auto1FA1980954E5D4AC7D46FCA9F22880DE0.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_MARIESOPHIE_Auto1.umap'
+[2018.04.24-00.50.28:482][726]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_MARIESOPHIE_Auto1.umap
+[2018.04.24-00.50.28:482][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/MAP_MAINGAME' took 1.321
+[2018.04.24-00.50.28:482][726]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.321
+[2018.04.24-00.51.38:477][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom56)
+[2018.04.24-00.51.44:473][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_LARGE_148)
+[2018.04.24-00.51.49:068][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom52)
+[2018.04.24-00.51.54:197][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_168)
+[2018.04.24-00.52.14:418][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom446)
+[2018.04.24-00.52.23:424][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom57)
+[2018.04.24-00.52.24:649][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom446)
+[2018.04.24-00.52.25:828][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_160)
+[2018.04.24-00.52.26:900][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom446)
+[2018.04.24-00.52.30:137][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_160)
+[2018.04.24-00.52.32:594][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_Cone18)
+[2018.04.24-00.52.34:566][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_168)
+[2018.04.24-00.52.35:238][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_Cone18)
+[2018.04.24-00.52.36:726][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column_32)
+[2018.04.24-00.52.48:866][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_2_flatbottom)
+[2018.04.24-00.52.59:198][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_Cone18)
+[2018.04.24-00.53.03:566][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_Cone17)
+[2018.04.24-00.53.08:821][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_LARGE_148)
+[2018.04.24-00.53.12:281][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_4_Cone11)
+[2018.04.24-00.53.13:039][737]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_Cone20)
+[2018.04.24-00.53.13:765][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_2_Cone21)
+[2018.04.24-00.53.14:492][893]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_3_Cone13)
+[2018.04.24-00.53.15:063][953]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom445)
+[2018.04.24-00.53.15:618][  8]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom457)
+[2018.04.24-00.53.16:192][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_3_Cone12)
+[2018.04.24-00.53.16:715][122]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_2_Cone7)
+[2018.04.24-00.53.17:216][173]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom60)
+[2018.04.24-00.53.17:712][224]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_Cone19)
+[2018.04.24-00.53.18:218][276]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_2_Cone22)
+[2018.04.24-00.53.20:864][515]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom456)
+[2018.04.24-00.53.24:844][933]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_LARGE_152)
+[2018.04.24-00.53.25:784][ 29]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom452)
+[2018.04.24-00.54.03:340][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_168)
+[2018.04.24-00.54.04:203][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_2_flatbottom)
+[2018.04.24-00.54.21:083][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_102)
+[2018.04.24-00.54.21:917][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_2_flatbottom)
+[2018.04.24-00.54.24:779][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom49)
+[2018.04.24-00.54.25:686][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_2_flatbottom)
+[2018.04.24-00.54.33:979][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Moton_de_Stalagtite_25)
+[2018.04.24-00.54.35:585][ 42]LogTemp: Repeting last play command: Selected Viewport
+[2018.04.24-00.54.35:717][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-00.54.35:718][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-00.54.35:719][ 42]PIE: New page: PIE session: MAP_MAINGAME (Apr 23, 2018, 4:54:35 PM)
+[2018.04.24-00.54.35:719][ 42]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME
+[2018.04.24-00.54.35:742][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022451s)
+[2018.04.24-00.54.35:742][ 42]LogAIModule: Creating AISystem for world MAP_MAINGAME
+[2018.04.24-00.54.35:742][ 42]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.04.24-00.54.35:743][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME to /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME.MAP_MAINGAME (0.023890s)
+[2018.04.24-00.54.35:762][ 42]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-00.54.35:771][ 42]LogInit: FAudioDevice initialized.
+[2018.04.24-00.54.35:829][ 42]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.24-00.54.36:301][ 42]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME.MAP_MAINGAME up for play (max tick rate 0) at 2018.04.23-20.54.36
+[2018.04.24-00.54.36:320][ 42]LogWorld: Bringing up level for play took: 0.029225
+[2018.04.24-00.54.36:358][ 42]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.04.24-00.54.36:362][ 42]Cmd: r.Streaming.PoolSize 2000
+[2018.04.24-00.54.36:363][ 42]r.Streaming.PoolSize = "2000"
+[2018.04.24-00.54.36:366][ 42]Cmd: r.streaming.poolsize 2000
+[2018.04.24-00.54.36:366][ 42]r.Streaming.PoolSize = "2000"
+[2018.04.24-00.54.36:375][ 42]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME 1.288
+[2018.04.24-00.54.36:389][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-00.54.36:637][ 46]LogContentStreaming: Texture pool size now 2000 MB
+[2018.04.24-00.54.44:915][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-00.54.45:055][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-00.54.50:906][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom461)
+[2018.04.24-00.55.04:745][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_168)
+[2018.04.24-00.55.08:013][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_2_flatbottom2)
+[2018.04.24-00.55.08:757][322]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom459)
+[2018.04.24-00.55.11:988][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_102)
+[2018.04.24-00.55.12:419][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom462)
+[2018.04.24-00.55.17:906][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_4_Cone12)
+[2018.04.24-00.55.21:943][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Moton_de_Stalagtite_25)
+[2018.04.24-00.55.46:698][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom456)
+[2018.04.24-00.56.25:520][992]LogActorFactory: Actor Factory created LP_Mur_de_Glace_Lisse_1_Box001
+[2018.04.24-00.56.27:456][ 26]LogActorFactory: Actor Factory created LP_Mur_de_Glace_Lisse_1_Box001
+[2018.04.24-00.58.02:440][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays39)
+[2018.04.24-00.58.27:620][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Mur_de_Glace_Lisse_1_Box001)
+[2018.04.24-01.01.00:820][495]Cmd: TRANSACTION UNDO
+[2018.04.24-01.01.00:820][495]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.01.17:789][324]Cmd: TRANSACTION UNDO
+[2018.04.24-01.01.17:789][324]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.01.18:341][376]Cmd: TRANSACTION UNDO
+[2018.04.24-01.01.18:341][376]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.01.29:553][ 65]LogRenderer: Reallocating scene render targets to support 1412x796 NumSamples 1 (Frame:20600).
+[2018.04.24-01.01.29:630][ 66]LogRenderer: Reallocating scene render targets to support 1412x816 NumSamples 1 (Frame:20602).
+[2018.04.24-01.01.29:706][ 67]LogRenderer: Reallocating scene render targets to support 1412x832 NumSamples 1 (Frame:20604).
+[2018.04.24-01.01.29:776][ 68]LogRenderer: Reallocating scene render targets to support 1412x856 NumSamples 1 (Frame:20606).
+[2018.04.24-01.01.29:851][ 69]LogRenderer: Reallocating scene render targets to support 1412x860 NumSamples 1 (Frame:20608).
+[2018.04.24-01.01.43:359][520]Cmd: DELETE
+[2018.04.24-01.01.43:359][520]Cmd: ACTOR DELETE
+[2018.04.24-01.01.43:366][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.24-01.01.43:384][520]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.04.24-01.02.18:268][714]Cmd: DELETE
+[2018.04.24-01.02.18:268][714]Cmd: ACTOR DELETE
+[2018.04.24-01.02.18:279][714]LogEditorActor: Deleted Actor: PointLight
+[2018.04.24-01.02.18:294][714]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.04.24-01.02.24:669][310]Cmd: TRANSACTION UNDO
+[2018.04.24-01.02.24:669][310]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.02.29:476][803]Cmd: DELETE
+[2018.04.24-01.02.29:476][803]Cmd: ACTOR DELETE
+[2018.04.24-01.02.29:483][803]LogEditorActor: Deleted Actor: PointLight
+[2018.04.24-01.02.29:501][803]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.04.24-01.03.17:788][460]Cmd: TRANSACTION UNDO
+[2018.04.24-01.03.17:788][460]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.03.17:996][480]Cmd: TRANSACTION UNDO
+[2018.04.24-01.03.17:996][480]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.03.18:205][496]Cmd: TRANSACTION UNDO
+[2018.04.24-01.03.18:205][496]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.03.18:636][539]Cmd: TRANSACTION UNDO
+[2018.04.24-01.03.18:636][539]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.03.27:704][316]LogSlate: Took 0.003670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.24-01.03.55:673][ 84]LogSavePackage: Save=480.01ms
+[2018.04.24-01.03.55:673][ 84]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME884C43744AD47EBDE3C60DA37DC4D218.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap'
+[2018.04.24-01.03.55:676][ 84]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap
+[2018.04.24-01.04.21:359][761]Cmd: TRANSACTION UNDO
+[2018.04.24-01.04.21:359][761]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2018.04.24-01.04.31:652][620]Cmd: TRANSACTION UNDO
+[2018.04.24-01.04.31:652][620]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2018.04.24-01.04.34:106][886]Cmd: TRANSACTION UNDO
+[2018.04.24-01.04.34:106][886]LogEditorTransaction: Undo Edit Outer Cone Angle
+[2018.04.24-01.04.45:885][798]Cmd: TRANSACTION UNDO
+[2018.04.24-01.04.45:885][798]LogEditorTransaction: Undo Edit Outer Cone Angle
+[2018.04.24-01.04.52:989][500]Cmd: TRANSACTION UNDO
+[2018.04.24-01.04.52:989][500]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2018.04.24-01.05.19:358][ 44]Cmd: TRANSACTION UNDO
+[2018.04.24-01.05.19:358][ 44]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.04.24-01.05.27:058][795]Cmd: TRANSACTION UNDO
+[2018.04.24-01.05.27:058][795]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.04.24-01.05.51:496][ 95]LogSavePackage: Save=473.05ms
+[2018.04.24-01.05.51:496][ 95]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAMEBD9B979E4EED748BDD697C81406C021D.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap'
+[2018.04.24-01.05.51:498][ 95]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap
+[2018.04.24-01.07.55:895][748]LogSavePackage: Save=470.63ms
+[2018.04.24-01.07.55:895][748]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME_Auto2CE5C4D37410C04D8E0630996B02A5813.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/MAP_MAINGAME_Auto2.umap'
+[2018.04.24-01.07.55:896][748]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/MAP_MAINGAME_Auto2.umap
+[2018.04.24-01.07.57:163][748]LogSavePackage: Save=1259.43ms
+[2018.04.24-01.07.57:163][748]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/SUBMAP_MARIESOPHIE_Auto2A652E12243F264456781CABA154A7CA4.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_MARIESOPHIE_Auto2.umap'
+[2018.04.24-01.07.57:164][748]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_MARIESOPHIE_Auto2.umap
+[2018.04.24-01.07.57:281][748]LogSavePackage: Save=108.42ms
+[2018.04.24-01.07.57:281][748]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/SUBMAP_AELIG_Auto2A48FB1214C60A330589F549CFD0FBAE4.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_AELIG_Auto2.umap'
+[2018.04.24-01.07.57:281][748]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_AELIG_Auto2.umap
+[2018.04.24-01.07.57:282][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/MAP_MAINGAME' took 1.877
+[2018.04.24-01.07.57:282][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.877
+[2018.04.24-01.09.29:474][743]Cmd: DELETE
+[2018.04.24-01.09.29:474][743]Cmd: ACTOR DELETE
+[2018.04.24-01.09.29:482][743]LogEditorActor: Deleted Actor: SpotLight
+[2018.04.24-01.09.29:500][743]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.04.24-01.09.43:931][137]Cmd: TRANSACTION UNDO
+[2018.04.24-01.09.43:931][137]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.11.15:563][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays36)
+[2018.04.24-01.11.30:732][177]Cmd: TRANSACTION UNDO
+[2018.04.24-01.11.30:732][177]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.12.24:962][261]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_280)
+[2018.04.24-01.12.28:675][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom37)
+[2018.04.24-01.12.29:242][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays40)
+[2018.04.24-01.13.48:230][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_300)
+[2018.04.24-01.13.50:302][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays40)
+[2018.04.24-01.14.02:035][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_Short5)
+[2018.04.24-01.14.17:170][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.14.20:581][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays40)
+[2018.04.24-01.14.21:436][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.14.36:898][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_149)
+[2018.04.24-01.14.37:968][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays42)
+[2018.04.24-01.14.41:940][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom456)
+[2018.04.24-01.14.46:482][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays40)
+[2018.04.24-01.14.55:232][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays42)
+[2018.04.24-01.14.56:017][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.15.03:525][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_280)
+[2018.04.24-01.15.04:472][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays42)
+[2018.04.24-01.15.14:958][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_145)
+[2018.04.24-01.15.17:123][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays42)
+[2018.04.24-01.15.23:023][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_281)
+[2018.04.24-01.15.24:454][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.15.25:457][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.15.27:392][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.15.33:729][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_146)
+[2018.04.24-01.15.35:070][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.15.39:704][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays42)
+[2018.04.24-01.15.46:444][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_258)
+[2018.04.24-01.15.50:758][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays42)
+[2018.04.24-01.15.55:390][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_258)
+[2018.04.24-01.16.04:120][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.16.14:624][555]Cmd: TRANSACTION UNDO
+[2018.04.24-01.16.14:624][555]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.17.30:718][508]Cmd: DELETE
+[2018.04.24-01.17.30:718][508]Cmd: ACTOR DELETE
+[2018.04.24-01.17.30:725][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.24-01.17.30:739][508]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.04.24-01.18.22:468][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.18.23:554][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.18.26:403][298]LogSavePackage: Save=476.89ms
+[2018.04.24-01.18.26:403][298]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME05FCF93C4F606812E45C4DBE65F9D515.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap'
+[2018.04.24-01.18.26:406][298]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap
+[2018.04.24-01.18.43:406][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.18.45:490][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.18.47:304][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.18.51:143][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.18.51:664][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays40)
+[2018.04.24-01.18.53:323][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column_41)
+[2018.04.24-01.18.54:748][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_6)
+[2018.04.24-01.19.47:564][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.19.48:192][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.19.48:844][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.19.49:352][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.19.51:355][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.19.52:974][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.19.54:584][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays40)
+[2018.04.24-01.19.58:446][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_5)
+[2018.04.24-01.20.45:261][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.20.46:522][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.20.47:339][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.20.51:769][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays42)
+[2018.04.24-01.21.07:179][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.21.07:972][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.21.08:799][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.21.10:434][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays40)
+[2018.04.24-01.21.26:083][683]Cmd: TRANSACTION UNDO
+[2018.04.24-01.21.26:083][683]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.21.40:871][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.21.41:804][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.21.48:696][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.21.54:815][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.21.55:387][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.21.56:868][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays42)
+[2018.04.24-01.22.07:027][831]Cmd: DELETE
+[2018.04.24-01.22.07:027][831]Cmd: ACTOR DELETE
+[2018.04.24-01.22.07:037][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.24-01.22.07:050][831]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.04.24-01.22.08:238][971]Cmd: TRANSACTION UNDO
+[2018.04.24-01.22.08:238][971]LogEditorTransaction: Undo Delete Actors
+[2018.04.24-01.22.32:777][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.23.47:350][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.23.48:304][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_LARGE_148)
+[2018.04.24-01.23.49:250][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.23.55:524][151]Cmd: TRANSACTION UNDO
+[2018.04.24-01.23.55:524][151]LogEditorTransaction: Undo Scale Actors
+[2018.04.24-01.25.17:059][668]Cmd: DELETE
+[2018.04.24-01.25.17:059][668]Cmd: ACTOR DELETE
+[2018.04.24-01.25.17:066][668]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.04.24-01.25.17:082][668]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.04.24-01.25.19:677][906]LogSavePackage: Save=483.19ms
+[2018.04.24-01.25.19:677][906]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME22416F4B48318B4901DCDB8DD431E81F.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap'
+[2018.04.24-01.25.19:679][906]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap
+[2018.04.24-01.26.09:342][547]Cmd: DELETE
+[2018.04.24-01.26.09:342][547]Cmd: ACTOR DELETE
+[2018.04.24-01.26.09:350][547]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.04.24-01.26.09:366][547]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.04.24-01.26.40:500][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays32)
+[2018.04.24-01.26.42:568][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays30)
+[2018.04.24-01.26.43:380][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays30)
+[2018.04.24-01.26.43:488][552]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.04.24-01.26.45:119][742]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.04.24-01.26.46:664][847]LogEditorViewport: Clicking on Actor (LMB): BP_FogColorModifier_C (BP_FogColorModifier2)
+[2018.04.24-01.28.37:558][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays30)
+[2018.04.24-01.28.41:286][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays30)
+[2018.04.24-01.28.43:007][ 67]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Godrays30)
+[2018.04.24-01.28.43:446][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_FogColorModifier_C (BP_FogColorModifier2)
+[2018.04.24-01.29.31:771][107]Cmd: TRANSACTION UNDO
+[2018.04.24-01.29.31:771][107]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.29.34:668][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_32)
+[2018.04.24-01.29.39:419][704]Cmd: TRANSACTION UNDO
+[2018.04.24-01.29.39:419][704]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-01.29.51:399][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.29.55:130][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.29.56:065][813]LogEditorViewport: Clicking on Actor (LMB): BP_FogColorModifier_C (BP_FogColorModifier3)
+[2018.04.24-01.30.28:945][960]LogTemp: Repeting last play command: Selected Viewport
+[2018.04.24-01.30.28:968][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-01.30.28:968][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-01.30.28:968][960]PIE: New page: PIE session: MAP_MAINGAME (Apr 23, 2018, 5:30:28 PM)
+[2018.04.24-01.30.28:968][960]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME
+[2018.04.24-01.30.28:989][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021160s)
+[2018.04.24-01.30.28:990][960]LogAIModule: Creating AISystem for world MAP_MAINGAME
+[2018.04.24-01.30.28:991][960]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2018.04.24-01.30.28:992][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME to /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME.MAP_MAINGAME (0.023674s)
+[2018.04.24-01.30.29:014][960]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-01.30.29:023][960]LogInit: FAudioDevice initialized.
+[2018.04.24-01.30.29:058][960]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.24-01.30.29:479][960]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME.MAP_MAINGAME up for play (max tick rate 0) at 2018.04.23-21.30.29
+[2018.04.24-01.30.29:498][960]LogWorld: Bringing up level for play took: 0.027205
+[2018.04.24-01.30.29:500][960]Cmd: r.Streaming.PoolSize 2000
+[2018.04.24-01.30.29:500][960]r.Streaming.PoolSize = "2000"
+[2018.04.24-01.30.29:502][960]Cmd: r.streaming.poolsize 2000
+[2018.04.24-01.30.29:502][960]r.Streaming.PoolSize = "2000"
+[2018.04.24-01.30.29:505][960]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME 0.419
+[2018.04.24-01.30.29:506][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-01.30.36:464][304]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-01.30.36:595][304]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-01.30.58:183][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays30)
+[2018.04.24-01.31.00:698][599]LogTemp: Repeting last play command: Selected Viewport
+[2018.04.24-01.31.00:720][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-01.31.00:720][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-01.31.00:720][599]PIE: New page: PIE session: MAP_MAINGAME (Apr 23, 2018, 5:31:00 PM)
+[2018.04.24-01.31.00:721][599]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME
+[2018.04.24-01.31.00:740][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019887s)
+[2018.04.24-01.31.00:741][599]LogAIModule: Creating AISystem for world MAP_MAINGAME
+[2018.04.24-01.31.00:741][599]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.04.24-01.31.00:742][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME to /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME.MAP_MAINGAME (0.021450s)
+[2018.04.24-01.31.00:762][599]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-01.31.00:769][599]LogInit: FAudioDevice initialized.
+[2018.04.24-01.31.00:800][599]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.24-01.31.01:203][599]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME.MAP_MAINGAME up for play (max tick rate 0) at 2018.04.23-21.31.01
+[2018.04.24-01.31.01:222][599]LogWorld: Bringing up level for play took: 0.026068
+[2018.04.24-01.31.01:225][599]Cmd: r.Streaming.PoolSize 2000
+[2018.04.24-01.31.01:225][599]r.Streaming.PoolSize = "2000"
+[2018.04.24-01.31.01:227][599]Cmd: r.streaming.poolsize 2000
+[2018.04.24-01.31.01:227][599]r.Streaming.PoolSize = "2000"
+[2018.04.24-01.31.01:230][599]PIE: Info Play in editor start time for /Game/Assets/Maps/UEDPIE_0_MAP_MAINGAME 0.144
+[2018.04.24-01.31.01:231][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-01.33.16:600][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-01.33.16:720][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME' with GeneratedClass '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME_C' with ClassGeneratedBy '/Game/Assets/Maps/MAP_MAINGAME.MAP_MAINGAME:PersistentLevel.MAP_MAINGAME'
+[2018.04.24-01.33.22:626][ 15]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.24-01.35.12:975][563]LogSavePackage: Save=479.21ms
+[2018.04.24-01.35.12:975][563]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME_Auto399A80A024E7E50FAC8F6858727F72194.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/MAP_MAINGAME_Auto3.umap'
+[2018.04.24-01.35.12:976][563]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/MAP_MAINGAME_Auto3.umap
+[2018.04.24-01.35.14:242][563]LogSavePackage: Save=1256.44ms
+[2018.04.24-01.35.14:242][563]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/SUBMAP_MARIESOPHIE_Auto3665CE7A542F1BCB4F6D58185AFD9BBD9.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_MARIESOPHIE_Auto3.umap'
+[2018.04.24-01.35.14:243][563]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_MARIESOPHIE_Auto3.umap
+[2018.04.24-01.35.14:243][563]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/MAP_MAINGAME' took 1.774
+[2018.04.24-01.35.14:243][563]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.774
+[2018.04.24-01.39.16:455][419]Cmd: DELETE
+[2018.04.24-01.39.16:455][419]Cmd: ACTOR DELETE
+[2018.04.24-01.39.16:463][419]LogEditorActor: Deleted Actor: PointLight
+[2018.04.24-01.39.16:481][419]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.04.24-01.39.30:454][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays43)
+[2018.04.24-01.39.32:445][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays41)
+[2018.04.24-01.39.34:716][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Godrays40)
+[2018.04.24-01.39.35:347][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_LARGE_148)
+[2018.04.24-01.40.03:351][ 23]LogSavePackage: Save=476.79ms
+[2018.04.24-01.40.03:351][ 23]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME61FD7C96463C8372CD5D5C98167071DA.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap'
+[2018.04.24-01.40.03:356][ 23]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap
+[2018.04.24-01.41.02:446][962]Cmd: TRANSACTION UNDO
+[2018.04.24-01.41.02:446][962]LogEditorTransaction: Undo Scale Actors
+[2018.04.24-01.41.30:334][ 66]Cmd: DELETE
+[2018.04.24-01.41.30:334][ 66]Cmd: ACTOR DELETE
+[2018.04.24-01.41.30:342][ 66]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.04.24-01.41.30:358][ 66]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.04.24-01.41.49:345][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom37)
+[2018.04.24-01.41.51:540][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_3_Cone8)
+[2018.04.24-01.42.06:662][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom37)
+[2018.04.24-01.42.28:612][679]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 112 classes and 0 folders.
+[2018.04.24-01.42.34:231][278]LogSlate: Took 0.005501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.24-01.43.49:536][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom38)
+[2018.04.24-01.43.53:665][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_105)
+[2018.04.24-01.44.10:726][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_2_Cone6)
+[2018.04.24-01.44.15:789][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom21)
+[2018.04.24-01.44.19:196][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_2_Cone6)
+[2018.04.24-01.44.23:750][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_105)
+[2018.04.24-01.44.25:497][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_2_Cone6)
+[2018.04.24-01.44.29:545][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_LARGE_82)
+[2018.04.24-01.44.32:266][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom7)
+[2018.04.24-01.44.33:204][880]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom31)
+[2018.04.24-01.44.35:414][125]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom33)
+[2018.04.24-01.44.39:592][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom19)
+[2018.04.24-01.44.42:760][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom465)
+[2018.04.24-01.44.45:735][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom31)
+[2018.04.24-01.44.48:783][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_23)
+[2018.04.24-01.44.52:693][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom27)
+[2018.04.24-01.44.53:262][930]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom28)
+[2018.04.24-01.44.54:748][ 77]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_4_Cone4)
+[2018.04.24-01.44.55:527][157]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom25)
+[2018.04.24-01.45.11:965][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_23)
+[2018.04.24-01.45.23:448][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_8)
+[2018.04.24-01.45.39:628][906]Cmd: DELETE
+[2018.04.24-01.45.39:628][906]Cmd: ACTOR DELETE
+[2018.04.24-01.45.39:638][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.24-01.45.39:660][906]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.04.24-01.45.58:725][665]LogActorFactory: Actor Factory created LP_Mur_de_Glace_Lisse_1_Box001
+[2018.04.24-01.46.01:179][752]LogActorFactory: Actor Factory created LP_Mur_de_Glace_Lisse_1_Box001
+[2018.04.24-01.46.02:420][885]Cmd: TRANSACTION UNDO
+[2018.04.24-01.46.02:420][885]LogEditorTransaction: Undo Create Actors
+[2018.04.24-01.46.03:426][994]LogActorFactory: Actor Factory created LP_Mur_de_Glace_Lisse_1_Box001
+[2018.04.24-01.46.05:886][ 81]LogActorFactory: Actor Factory created LP_Mur_de_Glace_Lisse_1_Box001
+[2018.04.24-01.47.24:546][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Mur_de_Glace_Lisse_1_Box001)
+[2018.04.24-01.47.55:524][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Mur_de_Glace_Lisse_1_Box001)
+[2018.04.24-01.47.56:257][805]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight60)
+[2018.04.24-01.48.50:518][890]Cmd: TRANSACTION UNDO
+[2018.04.24-01.48.50:518][890]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.48.50:787][898]Cmd: TRANSACTION UNDO
+[2018.04.24-01.48.50:787][898]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.48.51:026][909]Cmd: TRANSACTION UNDO
+[2018.04.24-01.48.51:026][909]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.48.51:330][942]Cmd: TRANSACTION UNDO
+[2018.04.24-01.48.51:330][942]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.48.51:684][980]Cmd: TRANSACTION UNDO
+[2018.04.24-01.48.51:684][980]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.48.52:055][ 20]Cmd: TRANSACTION UNDO
+[2018.04.24-01.48.52:055][ 20]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.48.52:375][ 55]Cmd: TRANSACTION UNDO
+[2018.04.24-01.48.52:375][ 55]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.48.52:682][ 88]Cmd: TRANSACTION UNDO
+[2018.04.24-01.48.52:682][ 88]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.04.24-01.49.02:677][208]Cmd: DELETE
+[2018.04.24-01.49.02:677][208]Cmd: ACTOR DELETE
+[2018.04.24-01.49.02:685][208]LogEditorActor: Deleted Actor: SpotLight
+[2018.04.24-01.49.02:705][208]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.04.24-01.49.10:028][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_141)
+[2018.04.24-01.50.20:594][831]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.20:594][831]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.20:768][846]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.20:768][846]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.20:925][857]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.20:925][857]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.21:087][869]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.21:087][869]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.21:214][877]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.21:214][877]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.21:300][882]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.21:300][882]LogEditorTransaction: Undo Scale Actors
+[2018.04.24-01.50.21:423][892]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.21:423][892]LogEditorTransaction: Undo Scale Actors
+[2018.04.24-01.50.21:587][909]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.21:587][909]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.21:727][923]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.21:727][923]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.21:895][938]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.21:895][938]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.22:036][952]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.22:036][952]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.22:178][966]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.22:178][966]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.22:336][980]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.22:336][980]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.22:494][996]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.22:494][996]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.22:645][  9]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.22:645][  9]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.22:786][ 23]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.22:786][ 23]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.22:938][ 34]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.22:938][ 34]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-01.50.23:071][ 44]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.23:071][ 44]LogEditorTransaction: Undo Delete Actors
+[2018.04.24-01.50.23:208][ 55]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.23:208][ 55]LogEditorTransaction: Undo Edit Intensity
+[2018.04.24-01.50.23:344][ 68]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.23:344][ 68]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.04.24-01.50.23:478][ 81]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.23:478][ 81]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2018.04.24-01.50.23:612][ 94]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.23:612][ 94]LogEditorTransaction: Undo Edit Min Roughness
+[2018.04.24-01.50.23:898][125]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.23:898][125]LogEditorTransaction: Undo Edit Use Inverse Squared Falloff
+[2018.04.24-01.50.24:058][141]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.24:058][141]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.24:198][155]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.24:199][155]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.24:356][172]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.24:356][172]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.24:497][186]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.24:497][186]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.24:629][200]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.24:629][200]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2018.04.24-01.50.24:763][213]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.24:763][213]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.04.24-01.50.24:895][226]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.24:895][226]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.25:013][237]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.25:014][237]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.25:137][250]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.25:137][250]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.25:219][258]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.25:219][258]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.25:342][270]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.25:342][270]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-01.50.25:462][275]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.25:462][275]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-01.50.25:585][288]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.25:585][288]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.25:788][306]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.25:788][306]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.25:896][312]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.25:896][312]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.26:011][321]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.26:011][321]LogEditorTransaction: Undo Scale Actors
+[2018.04.24-01.50.26:151][333]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.26:151][333]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-01.50.26:305][344]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.26:305][344]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.26:445][358]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.26:445][358]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.26:589][373]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.26:589][373]LogEditorTransaction: Undo Create Actors
+[2018.04.24-01.50.26:725][380]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.26:725][380]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.26:870][390]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.26:870][390]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.27:001][399]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.27:001][399]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.27:130][408]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.27:130][408]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.27:271][420]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.27:271][420]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.27:394][428]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.27:394][428]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.27:528][437]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.27:528][437]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.27:678][450]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.27:678][450]LogEditorTransaction: Undo Scale Actors
+[2018.04.24-01.50.27:816][462]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.27:816][462]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.27:960][472]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.27:960][472]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.28:110][483]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.28:110][483]LogEditorTransaction: Undo Rotate Actors
+[2018.04.24-01.50.28:261][494]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.28:261][494]LogEditorTransaction: Undo Create Actors
+[2018.04.24-01.50.28:413][506]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.28:413][506]LogEditorTransaction: Undo Delete Actors
+[2018.04.24-01.50.28:582][519]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.28:582][519]LogEditorTransaction: Undo Move Actors
+[2018.04.24-01.50.28:741][533]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.28:741][533]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-01.50.28:920][548]Cmd: TRANSACTION UNDO
+[2018.04.24-01.50.28:920][548]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-01.50.47:135][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_105)
+[2018.04.24-01.50.50:512][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_23)
+[2018.04.24-01.50.52:386][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_23)
+[2018.04.24-01.50.52:930][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_22)
+[2018.04.24-01.50.54:767][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_23)
+[2018.04.24-01.51.03:936][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_105)
+[2018.04.24-01.51.11:791][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_23)
+[2018.04.24-01.51.21:520][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom13)
+[2018.04.24-01.53.18:129][482]LogSavePackage: Save=512.65ms
+[2018.04.24-01.53.18:129][482]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME_Auto4A4CFE68745F70BD340E0A2A10EA863AF.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/MAP_MAINGAME_Auto4.umap'
+[2018.04.24-01.53.18:129][482]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/MAP_MAINGAME_Auto4.umap
+[2018.04.24-01.53.19:384][482]LogSavePackage: Save=1245.85ms
+[2018.04.24-01.53.19:384][482]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/SUBMAP_MARIESOPHIE_Auto4ADB69D34426DF6FCACE99A8CA4DBBFA7.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_MARIESOPHIE_Auto4.umap'
+[2018.04.24-01.53.19:385][482]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/submaps/SUBMAP_MARIESOPHIE_Auto4.umap
+[2018.04.24-01.53.19:386][482]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/MAP_MAINGAME' took 1.799
+[2018.04.24-01.53.19:386][482]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.799
+[2018.04.24-02.08.42:274][116]Cmd: TRANSACTION UNDO
+[2018.04.24-02.08.42:274][116]LogEditorTransaction: Undo Move Actors
+[2018.04.24-02.08.58:450][373]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_297)
+[2018.04.24-02.09.25:700][696]LogSavePackage: Save=548.26ms
+[2018.04.24-02.09.25:700][696]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME_Auto52DF2BF024E16E6DC05F7B9B5F7F1F57B.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/MAP_MAINGAME_Auto5.umap'
+[2018.04.24-02.09.25:700][696]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Autosaves/Game/Assets/Maps/MAP_MAINGAME_Auto5.umap
+[2018.04.24-02.09.25:702][696]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/MAP_MAINGAME' took 0.580
+[2018.04.24-02.09.25:702][696]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.580
+[2018.04.24-02.09.56:614][ 91]Cmd: TRANSACTION UNDO
+[2018.04.24-02.09.56:614][ 91]LogEditorTransaction: Undo Move Actors
+[2018.04.24-02.09.57:608][197]Cmd: TRANSACTION UNDO
+[2018.04.24-02.09.57:608][197]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.04.24-02.13.47:279][937]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (LP_Falaise_de_Glace_SMALL_102)
+[2018.04.24-02.13.48:446][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_308)
+[2018.04.24-02.13.49:355][158]Cmd: TRANSACTION UNDO
+[2018.04.24-02.13.49:355][158]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.24-02.13.49:753][196]Cmd: TRANSACTION UNDO
+[2018.04.24-02.13.49:753][196]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.04.24-02.15.40:831][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_23)
+[2018.04.24-02.15.48:483][710]Cmd: TRANSACTION UNDO
+[2018.04.24-02.15.48:483][710]LogEditorTransaction: Undo Scale Actors
+[2018.04.24-02.16.47:544][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_320)
+[2018.04.24-02.16.48:551][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom20)
+[2018.04.24-02.16.49:399][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom18)
+[2018.04.24-02.16.53:843][490]Cmd: TRANSACTION UNDO
+[2018.04.24-02.16.53:843][490]LogEditorTransaction: Undo Move Actors
+[2018.04.24-02.17.05:713][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom17)
+[2018.04.24-02.17.18:182][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_105)
+[2018.04.24-02.17.21:972][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom13)
+[2018.04.24-02.17.32:779][878]Cmd: TRANSACTION UNDO
+[2018.04.24-02.17.32:779][878]LogEditorTransaction: Undo Move Actors
+[2018.04.24-02.17.51:086][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom17)
+[2018.04.24-02.17.56:882][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom13)
+[2018.04.24-02.17.57:759][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom7)
+[2018.04.24-02.18.07:708][804]Cmd: DELETE
+[2018.04.24-02.18.07:708][804]Cmd: ACTOR DELETE
+[2018.04.24-02.18.07:717][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.24-02.18.07:737][804]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.04.24-02.18.09:345][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom464)
+[2018.04.24-02.18.17:266][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_362)
+[2018.04.24-02.18.28:004][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Stalagtite_1_flatbottom17)
+[2018.04.24-02.18.30:806][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LP_Falaise_de_Glace_SMALL_105)
+[2018.04.24-02.18.51:893][593]LogSavePackage: Save=514.42ms
+[2018.04.24-02.18.51:893][593]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAMEE2701D1945A67368975557B2AE192DBF.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap'
+[2018.04.24-02.18.51:897][593]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap
+[2018.04.24-02.20.25:129][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_RuneDoor_C (BP_ActivatableRuneDoor)
+[2018.04.24-02.20.50:781][  6]LogSavePackage: Save=515.06ms
+[2018.04.24-02.20.50:781][  6]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/MAP_MAINGAME1D73D0434E75F20488C17EABA5018EFC.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap'
+[2018.04.24-02.20.50:782][  6]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap
+[2018.04.24-02.20.50:825][  6]LogFileHelpers: Saving map 'MAP_MAINGAME' took 0.672
+[2018.04.24-02.20.51:045][  6]LogSavePackage: Save=108.92ms
+[2018.04.24-02.20.51:045][  6]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/SUBMAP_AELIGB86964D94CEFA231383F69AA883ACFD2.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/submaps/SUBMAP_AELIG.umap'
+[2018.04.24-02.20.51:048][  6]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/submaps/SUBMAP_AELIG.umap
+[2018.04.24-02.20.51:048][  6]LogFileHelpers: Saving map 'SUBMAP_AELIG' took 0.221
+[2018.04.24-02.20.52:421][  6]LogSavePackage: Save=1263.10ms
+[2018.04.24-02.20.52:421][  6]LogSavePackage: Moving 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/SUBMAP_MARIESOPHIEAFD862FD42AB9326C9A0CC90DAD0A349.tmp' to 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/submaps/SUBMAP_MARIESOPHIE.umap'
+[2018.04.24-02.20.52:425][  6]LogSavePackage:Display: Finished SavePackage D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Assets/Maps/submaps/SUBMAP_MARIESOPHIE.umap
+[2018.04.24-02.20.52:426][  6]LogFileHelpers: Saving map 'SUBMAP_MARIESOPHIE' took 1.375
+[2018.04.24-02.20.52:746][  7]Cmd: QUIT_EDITOR
+[2018.04.24-02.20.53:484][  7]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2018.04.24-02.20.53:490][  7]LogExit: Preparing to exit.
+[2018.04.24-02.20.54:387][  7]LogExit: Editor shut down
+[2018.04.24-02.20.54:395][  7]LogExit: Transaction tracking system shut down
+[2018.04.24-02.20.54:641][  7]LogObj: Freed 0b from 0 cluster array pools.
+[2018.04.24-02.20.54:641][  7]LogExit: Object subsystem successfully closed.
+[2018.04.24-02.20.54:665][  7]LogD3D11RHI: Shutdown
+[2018.04.24-02.20.54:665][  7]LogD3D11RHI: CleanupD3DDevice
+[2018.04.24-02.20.54:971][  7]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.24-02.20.54:984][  7]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2018.04.24-02.20.54:984][  7]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2018.04.24-02.20.54:985][  7]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (534)
+[2018.04.24-02.20.54:985][  7]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2018.04.24-02.20.54:985][  7]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.04.24-02.20.54:985][  7]LogModuleManager: Shutting down and abandoning module CrashTracker (528)
+[2018.04.24-02.20.54:985][  7]LogModuleManager: Shutting down and abandoning module WorldBrowser (526)
+[2018.04.24-02.20.54:985][  7]LogModuleManager: Shutting down and abandoning module SceneOutliner (524)
+[2018.04.24-02.20.54:985][  7]LogModuleManager: Shutting down and abandoning module AddContentDialog (522)
+[2018.04.24-02.20.54:985][  7]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module WidgetCarousel (521)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module EditorWidgets (518)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module CollectionManager (516)
+[2018.04.24-02.20.54:986][  7]LogDirectoryWatcher: A directory notification for 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Collections/' was aborted.
+[2018.04.24-02.20.54:986][  7]LogDirectoryWatcher: A directory notification for 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/Developers/ProfectBox/Collections/' was aborted.
+[2018.04.24-02.20.54:986][  7]LogDirectoryWatcher: A directory notification for 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Saved/Collections/' was aborted.
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module StatsViewer (514)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module FoliageEdit (512)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module LandscapeEditor (510)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module MeshPaintMode (508)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (506)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module ActorPickerMode (504)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module GeometryMode (502)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module TextureAlignMode (500)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module BspMode (498)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module HardwareSurvey (496)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (494)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module AutomationWorker (492)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (490)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (488)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module PlacementMode (487)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (484)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (482)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (480)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (478)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (476)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module Media (475)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (472)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module CharacterAI (470)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module AudioCapture (468)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module SequenceRecorder (467)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module SmartSnapping (464)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module SessionServices (462)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module ViewportSnapping (460)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module ViewportInteraction (458)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module ClothPainter (456)
+[2018.04.24-02.20.54:986][  7]LogModuleManager: Shutting down and abandoning module LogVisualizer (454)
+[2018.04.24-02.20.54:987][  7]LogModuleManager: Shutting down and abandoning module IntroTutorials (452)
+[2018.04.24-02.20.54:987][  7]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (451)
+[2018.04.24-02.20.54:987][  7]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (448)
+[2018.04.24-02.20.54:987][  7]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (446)
+[2018.04.24-02.20.54:987][  7]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (444)
+[2018.04.24-02.20.54:987][  7]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (442)
+[2018.04.24-02.20.54:987][  7]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (441)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (438)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (436)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module InputBindingEditor (434)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module MergeActors (432)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module SizeMap (430)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module TreeMap (428)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module ReferenceViewer (426)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (424)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module LocalizationService (423)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module HardwareTargeting (420)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (418)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module UndoHistory (416)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module UserFeedback (414)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module XmlParser (412)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module Blutility (410)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (408)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (407)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (404)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module SettingsEditor (402)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module ProjectLauncher (400)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module SessionFrontend (398)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module ProfilerClient (396)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module DeviceManager (394)
+[2018.04.24-02.20.55:713][  7]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (393)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module AutomationController (390)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module AutomationWindow (388)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module Layers (386)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (384)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module DetailCustomizations (382)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module PackagesDialog (380)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module Persona (378)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (377)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module AnimGraph (375)
+[2018.04.24-02.20.55:766][  7]LogModuleManager: Shutting down and abandoning module Kismet (372)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module ClassViewer (370)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module Toolbox (368)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module ModuleUI (366)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module MovieSceneTools (364)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module OutputLog (362)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module GammaUI (360)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module Documentation (358)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (356)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module MovieScene (354)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module NiagaraEditor (351)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (348)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module AnalyticsET (346)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module PortalServices (344)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module PortalRpc (342)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module MessagingRpc (340)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module AIModule (338)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module GameplayDebugger (337)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module AITestSuite (335)
+[2018.04.24-02.20.55:771][  7]LogModuleManager: Shutting down and abandoning module ProfilerService (332)
+[2018.04.24-02.20.55:812][  7]LogModuleManager: Shutting down and abandoning module TaskGraph (330)
+[2018.04.24-02.20.55:812][  7]LogModuleManager: Shutting down and abandoning module SubstanceEditor (328)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module SteamVRController (326)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module SteamVR (324)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (322)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (320)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module OculusLibrary (318)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module OculusInput (316)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (314)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (312)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module CableComponent (310)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (308)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module AndroidPermission (306)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (302)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module HTML5Networking (300)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module AlembicImporter (298)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module AlembicLibrary (297)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module GeometryCache (296)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (295)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (290)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module SuperSearch (289)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (286)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module PluginBrowser (284)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (282)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (280)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module DesktopPlatform (279)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module UObjectPlugin (276)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (274)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (272)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module GitSourceControl (270)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module SourceControl (269)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (266)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (264)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (262)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module Paper2DEditor (260)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module MeshPaint (259)
+[2018.04.24-02.20.55:814][  7]LogModuleManager: Shutting down and abandoning module LevelEditor (257)
+[2018.04.24-02.20.55:815][  7]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (256)
+[2018.04.24-02.20.55:815][  7]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.24-02.20.55:815][  7]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.24-02.20.55:815][  7]LogDirectoryWatcher: A directory notification for 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Binaries/Win64' was aborted.
+[2018.04.24-02.20.55:815][  7]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (248)
+[2018.04.24-02.20.55:815][  7]LogModuleManager: Shutting down and abandoning module PhysXVehicles (246)
+[2018.04.24-02.20.55:815][  7]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (244)
+[2018.04.24-02.20.55:815][  7]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (242)
+[2018.04.24-02.20.55:816][  7]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (240)
+[2018.04.24-02.20.55:816][  7]LogModuleManager: Shutting down and abandoning module UdpMessaging (238)
+[2018.04.24-02.20.55:916][  7]LogModuleManager: Shutting down and abandoning module TcpMessaging (236)
+[2018.04.24-02.20.56:016][  7]LogModuleManager: Shutting down and abandoning module SubstanceCore (234)
+[2018.04.24-02.20.56:016][  7]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2018.04.24-02.20.56:016][  7]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2018.04.24-02.20.56:016][  7]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2018.04.24-02.20.56:016][  7]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2018.04.24-02.20.56:016][  7]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2018.04.24-02.20.56:016][  7]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2018.04.24-02.20.56:018][  7]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2018.04.24-02.20.56:018][  7]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2018.04.24-02.20.56:018][  7]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.04.24-02.20.56:018][  7]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2018.04.24-02.20.56:021][  7]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2018.04.24-02.20.56:023][  7]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2018.04.24-02.20.56:023][  7]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2018.04.24-02.20.56:023][  7]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2018.04.24-02.20.56:023][  7]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2018.04.24-02.20.56:023][  7]LogModuleManager: Shutting down and abandoning module Core (164)
+[2018.04.24-02.20.56:023][  7]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2018.04.24-02.20.56:103][  7]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.24-02.20.56:104][  7]LogDirectoryWatcher: A directory notification for 'D:/NAD/2ND YEAR/HIVER 2018/Prod/OblivionGames/OblivionGames/Content/' was aborted.
+[2018.04.24-02.20.56:104][  7]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.24-02.20.56:104][  7]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2018.04.24-02.20.56:106][  7]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2018.04.24-02.20.56:107][  7]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2018.04.24-02.20.56:107][  7]LogModuleManager: Shutting down and abandoning module LevelSequence (156)
+[2018.04.24-02.20.56:107][  7]LogModuleManager: Shutting down and abandoning module PhysXFormats (154)
+[2018.04.24-02.20.56:107][  7]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2018.04.24-02.20.56:107][  7]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (151)
+[2018.04.24-02.20.56:107][  7]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (149)
+[2018.04.24-02.20.56:107][  7]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (147)
+[2018.04.24-02.20.56:107][  7]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.04.24-02.20.56:144][  7]LogDerivedDataCache: Shutdown
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.04.24-02.20.56:144][  7]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.24-02.20.56:145][  7]LogOnline:Display: Unloading online subsystem: NULL
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.24-02.20.56:145][  7]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.24-02.20.56:145][  7]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.24-02.20.56:145][  7]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D3CF685-42F3-E765-A345-269251DD1FCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.3-3561208%2B%2B%2BUE4%2BRelease-4.16&UserID=62d565dd4c7b1cbe8fee6da11e052199%7C3134b2653a9c465a9cb0e11291b7f4b5%7Ce0fe1b2e-c4e8-4a72-8cc9-6fbf41b59acb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.24-02.20.56:164][  7]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.24-02.20.56:166][  7]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2018.04.24-02.20.56:166][  7]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2018.04.24-02.20.56:166][  7]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2018.04.24-02.20.56:166][  7]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2018.04.24-02.20.56:166][  7]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2018.04.24-02.20.56:166][  7]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2018.04.24-02.20.56:166][  7]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2018.04.24-02.20.56:166][  7]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.24-02.20.56:167][  7]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.24-02.20.56:168][  7]LogExit: Exiting.
+[2018.04.24-02.20.56:169][  7]Log file closed, 04/23/18 22:20:56
+=======
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/UE_4.16/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+>>>>>>> Stashed changes
 [2018.04.23-06.45.23:152][  0]LogInit: Selected Device Profile: [Windows]
 [2018.04.23-06.45.23:152][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.04.23-06.45.23:176][  0]LogInit: Computer: FELIXPC
@@ -337,6 +1494,7 @@ LogInit: Object subsystem initialized
 [2018.04.23-06.53.14:328][862]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData.SUBMAP_MARYSE_BuiltData Referenced by PersistentLevel
 [2018.04.23-06.53.14:328][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
 [2018.04.23-06.53.16:080][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+<<<<<<< Updated upstream
 /Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles362.StaticMesh5
 Current: 34152.757813,-12173.722656,-8671.423828|9.047050,29.692545,-1.655551|2.304000,2.304000,2.304000 Cached: 34153.710938,-12174.031250,-8671.423828|9.047050,29.692514,-1.655557|2.304000,2.304000,2.304000
 [2018.04.23-06.53.16:080][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
@@ -468,6 +1626,139 @@ Current: 35975.109375,-9407.067383,-8460.525391|-4.973293,-41.183987,2.631408|2.
 [2018.04.23-06.54.33:142][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
 /Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh2
 Current: 35904.945313,-9370.899414,-8454.784180|3.773946,118.792816,-4.174099|2.400000,2.400000,2.400000 Cached: 35901.847656,-9392.095703,-8454.784180|3.773870,144.885925,-4.174092|2.400000,2.400000,2.400000
+=======
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles362.StaticMesh5
+Current: 34152.757813,-12173.722656,-8671.423828|9.047050,29.692545,-1.655551|2.304000,2.304000,2.304000 Cached: 34153.710938,-12174.031250,-8671.423828|9.047050,29.692514,-1.655557|2.304000,2.304000,2.304000
+[2018.04.23-06.53.16:080][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles362.StaticMesh4
+Current: 34100.144531,-12108.036133,-8671.087891|3.176051,110.063042,8.634613|2.880000,2.880000,2.880000 Cached: 34101.097656,-12108.344727,-8671.087891|3.176051,110.063011,8.634612|2.880000,2.880000,2.880000
+[2018.04.23-06.53.16:124][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles323.StaticMesh5
+Current: 37470.300781,-10060.291992,-8723.422852|9.045957,-132.381485,-1.655450|2.304000,2.304000,2.304000 Cached: 37469.300781,-10060.291992,-8723.422852|9.045957,-132.381516,-1.655455|2.304000,2.304000,2.304000
+[2018.04.23-06.53.16:124][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles323.StaticMesh4
+Current: 37540.578125,-10106.596680,-8723.086914|3.175765,-52.011063,8.633551|2.880000,2.880000,2.880000 Cached: 37539.578125,-10106.596680,-8723.086914|3.175765,-52.011093,8.633550|2.880000,2.880000,2.880000
+[2018.04.23-06.53.16:142][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh1
+Current: 35928.953125,-9401.828125,-8455.981445|4.725118,133.804367,-3.055328|2.000000,2.000000,2.000000 Cached: 35937.011719,-9409.313477,-8455.981445|4.725043,159.897491,-3.055339|2.000000,2.000000,2.000000
+[2018.04.23-06.53.16:143][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh5
+Current: 35897.585938,-9375.335938,-8452.376953|1.718475,-120.988983,5.356868|2.304000,2.304000,2.304000 Cached: 35878.187500,-9398.315430,-8452.376953|1.718503,-94.895844,5.356802|2.304000,2.304000,2.304000
+[2018.04.23-06.53.16:143][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh4
+Current: 35975.109375,-9407.067383,-8460.525391|-4.973293,-41.183987,2.631408|2.880000,2.880000,2.880000 Cached: 35961.765625,-9392.716797,-8460.525391|-4.973224,-15.090884,2.631425|2.880000,2.880000,2.880000
+[2018.04.23-06.53.16:143][862]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh2
+Current: 35904.945313,-9370.899414,-8454.784180|3.773946,118.792816,-4.174099|2.400000,2.400000,2.400000 Cached: 35901.847656,-9392.095703,-8454.784180|3.773870,144.885925,-4.174092|2.400000,2.400000,2.400000
+[2018.04.23-06.53.16:163][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.23-06.53.16:163][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.23-06.53.16:171][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.23-06.53.16:171][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.23-06.53.16:468][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.23-06.53.16:468][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.23-06.53.16:468][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.23-06.53.16:468][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.23-06.53.16:623][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
+[2018.04.23-06.53.16:623][862]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData.SUBMAP_Cave_BuiltData Referenced by PersistentLevel
+[2018.04.23-06.53.16:623][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
+[2018.04.23-06.53.20:868][862]LogMaterial: Missing cached shader map for material M_WindBlow, compiling. 
+[2018.04.23-06.53.20:916][862]LogTexture:Display: Building textures: locker2 (AutoDXT, 652X1000)
+[2018.04.23-06.53.21:144][862]LogMaterial: Missing cached shader map for material M_WindBlowCliff, compiling. 
+[2018.04.23-06.53.21:307][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.23-06.53.21:307][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.23-06.53.21:307][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.23-06.53.21:307][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.23-06.53.21:308][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.23-06.53.21:308][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.23-06.53.21:308][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.23-06.53.21:308][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.23-06.53.21:308][862]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData'
+[2018.04.23-06.53.21:309][862]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData.SUB_CAMILLECAVE_BuiltData Referenced by PersistentLevel
+[2018.04.23-06.53.21:309][862]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUB_CAMILLECAVE_BuiltData' while loading NULL.
+[2018.04.23-06.53.22:087][862]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.04.23-06.53.22:845][862]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-06.53.23:020][862]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 175.108ms to complete.
+[2018.04.23-06.53.23:021][862]LogFileHelpers: Loading map 'MAP_MAINGAME' took 9.036
+[2018.04.23-06.53.24:122][866]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.23-06.53.49:948][414]LogAIModule: Creating AISystem for world GYM_ARENA
+[2018.04.23-06.53.49:990][414]Cmd: MAP LOAD FILE="../../../../../../Desktop/Oblivion Games/OblivionGames/OblivionGames/Content/Assets/Maps/GYM_ARENA.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-06.53.49:990][414]LightingResults: New page: Lighting Build
+[2018.04.23-06.53.49:991][414]LoadErrors: New page: Loading map: GYM_ARENA.umap
+[2018.04.23-06.53.50:072][414]MapCheck: New page: Map Check
+[2018.04.23-06.53.50:072][414]LightingResults: New page: Lighting Build
+[2018.04.23-06.53.50:213][414]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.23-06.53.50:283][414]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-06.53.50:399][414]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 116.31ms to complete.
+[2018.04.23-06.53.50:399][414]LogFileHelpers: Loading map 'GYM_ARENA' took 0.410
+[2018.04.23-06.54.04:197][791]BlueprintLog: New page: Compile GYM_ARENA
+[2018.04.23-06.54.05:165][832]LogSavePackage: Save=257.54ms
+[2018.04.23-06.54.05:165][832]LogSavePackage: Moving '../../../../../../Desktop/Oblivion Games/OblivionGames/OblivionGames/Saved/GYM_ARENAF04B69D4418D737FA7FF3684350C8C6D.tmp' to '../../../../../../Desktop/Oblivion Games/OblivionGames/OblivionGames/Content/Assets/Maps/GYM_ARENA.umap'
+[2018.04.23-06.54.05:175][832]LogSavePackage:Display: Finished SavePackage ../../../../../../Desktop/Oblivion Games/OblivionGames/OblivionGames/Content/Assets/Maps/GYM_ARENA.umap
+[2018.04.23-06.54.05:236][832]LogFileHelpers: Saving map 'GYM_ARENA' took 0.485
+[2018.04.23-06.54.14:292][881]LogAIModule: Creating AISystem for world MAP_MAINMENU
+[2018.04.23-06.54.14:323][881]Cmd: MAP LOAD FILE="../../../../../../Desktop/Oblivion Games/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINMENU.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-06.54.14:323][881]LightingResults: New page: Lighting Build
+[2018.04.23-06.54.14:323][881]LoadErrors: New page: Loading map: MAP_MAINMENU.umap
+[2018.04.23-06.54.14:325][881]MapCheck: New page: Map Check
+[2018.04.23-06.54.14:325][881]LightingResults: New page: Lighting Build
+[2018.04.23-06.54.14:475][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.23-06.54.14:553][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-06.54.14:668][881]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 114.508ms to complete.
+[2018.04.23-06.54.14:668][881]LogFileHelpers: Loading map 'MAP_MAINMENU' took 0.346
+[2018.04.23-06.54.32:606][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/MAP_MAINGAME_BuiltData'
+[2018.04.23-06.54.32:606][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/MAP_MAINGAME_BuiltData' while loading ../../../../../../Desktop/Oblivion Games/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap.
+[2018.04.23-06.54.32:606][977]LoadErrors:Error: Error /Game/Assets/Maps/MAP_MAINGAME : Can't find file for asset. /Game/Assets/Maps/MAP_MAINGAME_BuiltData
+[2018.04.23-06.54.32:607][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/MAP_MAINGAME_BuiltData'
+[2018.04.23-06.54.32:607][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/MAP_MAINGAME_BuiltData' while loading ../../../../../../Desktop/Oblivion Games/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap.
+[2018.04.23-06.54.32:612][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/MAP_MAINGAME_BuiltData'
+[2018.04.23-06.54.32:612][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/MAP_MAINGAME_BuiltData' while loading NULL.
+[2018.04.23-06.54.32:612][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/MAP_MAINGAME_BuiltData'
+[2018.04.23-06.54.32:612][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/MAP_MAINGAME_BuiltData' while loading NULL.
+[2018.04.23-06.54.32:637][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/MAP_MAINGAME_BuiltData'
+[2018.04.23-06.54.32:637][977]LoadErrors: Info Failed to load /Game/Assets/Maps/MAP_MAINGAME_BuiltData.MAP_MAINGAME_BuiltData Referenced by PersistentLevel
+[2018.04.23-06.54.32:637][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/MAP_MAINGAME_BuiltData' while loading NULL.
+[2018.04.23-06.54.32:652][977]LogAIModule: Creating AISystem for world MAP_MAINGAME
+[2018.04.23-06.54.32:688][977]Cmd: MAP LOAD FILE="../../../../../../Desktop/Oblivion Games/OblivionGames/OblivionGames/Content/Assets/Maps/MAP_MAINGAME.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-06.54.32:688][977]LightingResults: New page: Lighting Build
+[2018.04.23-06.54.32:689][977]LoadErrors: New page: Loading map: MAP_MAINGAME.umap
+[2018.04.23-06.54.32:691][977]MapCheck: New page: Map Check
+[2018.04.23-06.54.32:691][977]LightingResults: New page: Lighting Build
+[2018.04.23-06.54.32:742][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.23-06.54.32:742][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.23-06.54.32:743][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.23-06.54.32:743][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.23-06.54.32:746][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.23-06.54.32:746][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.23-06.54.32:746][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.23-06.54.32:746][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.23-06.54.32:812][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData'
+[2018.04.23-06.54.32:813][977]LoadErrors: Info Failed to load /Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData.SUBMAP_MARYSE_BuiltData Referenced by PersistentLevel
+[2018.04.23-06.54.32:813][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_MARYSE_BuiltData' while loading NULL.
+[2018.04.23-06.54.33:080][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles362.StaticMesh5
+Current: 34152.757813,-12173.722656,-8671.423828|9.047050,29.692545,-1.655551|2.304000,2.304000,2.304000 Cached: 34153.710938,-12174.031250,-8671.423828|9.047050,29.692514,-1.655557|2.304000,2.304000,2.304000
+[2018.04.23-06.54.33:080][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles362.StaticMesh4
+Current: 34100.144531,-12108.036133,-8671.087891|3.176051,110.063042,8.634613|2.880000,2.880000,2.880000 Cached: 34101.097656,-12108.344727,-8671.087891|3.176051,110.063011,8.634612|2.880000,2.880000,2.880000
+[2018.04.23-06.54.33:124][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles323.StaticMesh5
+Current: 37470.300781,-10060.291992,-8723.422852|9.045957,-132.381485,-1.655450|2.304000,2.304000,2.304000 Cached: 37469.300781,-10060.291992,-8723.422852|9.045957,-132.381516,-1.655455|2.304000,2.304000,2.304000
+[2018.04.23-06.54.33:124][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles323.StaticMesh4
+Current: 37540.578125,-10106.596680,-8723.086914|3.175765,-52.011063,8.633551|2.880000,2.880000,2.880000 Cached: 37539.578125,-10106.596680,-8723.086914|3.175765,-52.011093,8.633550|2.880000,2.880000,2.880000
+[2018.04.23-06.54.33:142][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh1
+Current: 35928.953125,-9401.828125,-8455.981445|4.725118,133.804367,-3.055328|2.000000,2.000000,2.000000 Cached: 35937.011719,-9409.313477,-8455.981445|4.725043,159.897491,-3.055339|2.000000,2.000000,2.000000
+[2018.04.23-06.54.33:142][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh5
+Current: 35897.585938,-9375.335938,-8452.376953|1.718475,-120.988983,5.356868|2.304000,2.304000,2.304000 Cached: 35878.187500,-9398.315430,-8452.376953|1.718503,-94.895844,5.356802|2.304000,2.304000,2.304000
+[2018.04.23-06.54.33:142][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh4
+Current: 35975.109375,-9407.067383,-8460.525391|-4.973293,-41.183987,2.631408|2.880000,2.880000,2.880000 Cached: 35961.765625,-9392.716797,-8460.525391|-4.973224,-15.090884,2.631425|2.880000,2.880000,2.880000
+[2018.04.23-06.54.33:142][977]LogStaticMesh:Warning: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Assets/Maps/submaps/SUBMAP_MARYSE.SUBMAP_MARYSE:PersistentLevel.BP_Candles309.StaticMesh2
+Current: 35904.945313,-9370.899414,-8454.784180|3.773946,118.792816,-4.174099|2.400000,2.400000,2.400000 Cached: 35901.847656,-9392.095703,-8454.784180|3.773870,144.885925,-4.174092|2.400000,2.400000,2.400000
+>>>>>>> Stashed changes
 [2018.04.23-06.54.33:160][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
 [2018.04.23-06.54.33:160][977]LogLinker:Warning: Can't find file for asset '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData' while loading NULL.
 [2018.04.23-06.54.33:161][977]LogLinker:Warning: Can't find file '/Game/Assets/Maps/submaps/SUBMAP_Cave_BuiltData'
@@ -1250,3 +2541,7 @@ Current: 35926.269531,-9423.731445,-8454.634766|3.773870,144.885925,-4.174092|2.
 [2018.04.23-07.17.21:507][142]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.04.23-07.17.21:512][142]LogExit: Exiting.
 [2018.04.23-07.17.21:563][142]Log file closed, 04/23/18 03:17:21
+<<<<<<< Updated upstream
+=======
+>>>>>>> master
+>>>>>>> Stashed changes
